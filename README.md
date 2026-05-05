@@ -18,6 +18,8 @@ Step 3 — Run the validator to check all outputs
 
 python validate.py
 
+NOTE - current api key in dotenv is already expired and is now just a dummy , please replace with your new api key
+
 
 ## Overview
 
