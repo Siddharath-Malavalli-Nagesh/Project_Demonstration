@@ -18,7 +18,9 @@ Step 3 — Run the validator to check all outputs
 
 python validate.py
 
-NOTE - current api key in dotenv is already expired and is now just a dummy , please replace with your new api key
+NOTE - current api key in dotenv is already expired and is just a dummy , please replace with your new api key in .env root in this format -
+GEMINI_API_KEY="APIKEYHEREWITHOUTQUOTES"
+
 
 
 ## Overview
