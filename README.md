@@ -2,6 +2,22 @@
 # Affiliate Pipeline: Build Specification & Checklist
 
 ---
+## Setup guidelines
+Step 1 — Install dependencies
+
+python -m venv venv
+source ./venv/bin/activate
+cd /Users/siddharath-malavalli-nagesh/Project_Demonstration/pipeline
+pip install -r requirements.txt
+Step 2 — Run the full pipeline
+
+
+python main.py
+Step 3 — Run the validator to check all outputs
+
+
+python validate.py
+
 
 ## Overview
 
