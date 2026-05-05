@@ -1,0 +1,86 @@
+[
+  {
+    "affiliate_id": "aff_001",
+    "forecast_90d_ltv_usd": 448.51,
+    "confidence_interval": [
+      313.96,
+      583.06
+    ],
+    "method": "retention_adjusted_deposit_projection_v1",
+    "key_assumptions": [
+      "Dormant rate remains stable",
+      "Deposit behaviour observed in first 30 days is representative",
+      "Withdrawal rate is constant"
+    ]
+  },
+  {
+    "affiliate_id": "aff_002",
+    "forecast_90d_ltv_usd": 126675.56,
+    "confidence_interval": [
+      88672.89,
+      164678.22
+    ],
+    "method": "retention_adjusted_deposit_projection_v1",
+    "key_assumptions": [
+      "Dormant rate remains stable",
+      "Deposit behaviour observed in first 30 days is representative",
+      "Withdrawal rate is constant"
+    ]
+  },
+  {
+    "affiliate_id": "aff_003",
+    "forecast_90d_ltv_usd": 13138.89,
+    "confidence_interval": [
+      9197.22,
+      17080.55
+    ],
+    "method": "retention_adjusted_deposit_projection_v1",
+    "key_assumptions": [
+      "Dormant rate remains stable",
+      "Deposit behaviour observed in first 30 days is representative",
+      "Withdrawal rate is constant"
+    ]
+  },
+  {
+    "affiliate_id": "aff_004",
+    "forecast_90d_ltv_usd": 7116.47,
+    "confidence_interval": [
+      4981.53,
+      9251.41
+    ],
+    "method": "retention_adjusted_deposit_projection_v1",
+    "key_assumptions": [
+      "Dormant rate remains stable",
+      "Deposit behaviour observed in first 30 days is representative",
+      "Withdrawal rate is constant"
+    ]
+  },
+  {
+    "affiliate_id": "aff_005",
+    "forecast_90d_ltv_usd": 9882.77,
+    "confidence_interval": [
+      6917.94,
+      12847.6
+    ],
+    "method": "retention_adjusted_deposit_projection_v1",
+    "key_assumptions": [
+      "Dormant rate remains stable",
+      "Deposit behaviour observed in first 30 days is representative",
+      "Withdrawal rate is constant"
+    ]
+  },
+  {
+    "affiliate_id": "aff_006",
+    "forecast_90d_ltv_usd": 25045.1,
+    "confidence_interval": [
+      17531.57,
+      32558.63
+    ],
+    "method": "retention_adjusted_deposit_projection_v1",
+    "key_assumptions": [
+      "Dormant rate remains stable",
+      "Deposit behaviour observed in first 30 days is representative",
+      "Withdrawal rate is constant"
+    ]
+  }
+]

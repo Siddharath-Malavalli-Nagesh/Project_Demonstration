@@ -1,0 +1,43 @@
+{
+  "policy_version": "v2.1",
+  "effective_date": "2025-01-01",
+  "rules": {
+    "min_first_deposit_usd": 10,
+    "min_active_days_for_payout": 3,
+    "min_trades_for_payout": 1,
+    "fraud_clawback_window_days": 90,
+    "partial_pay_threshold_score": 50,
+    "hold_threshold_score": 30,
+    "clawback_threshold_score": 20,
+    "synthetic_signup_clawback": true,
+    "account_farming_clawback": true,
+    "incentive_abuse_hold_or_clawback": true,
+    "high_dormancy_penalty_rate": 0.5,
+    "withdrawal_ratio_cap": 0.85,
+    "disposable_email_flag_threshold": 0.4,
+    "device_reuse_flag_threshold": 0.5,
+    "ip_concentration_flag_threshold": 0.6,
+    "max_partial_pay_percent": 75,
+    "min_partial_pay_percent": 25,
+    "review_sla_days": 14,
+    "affiliate_notification_required": true
+  },
+  "classification_defaults": {
+    "clean": "pay_in_full",
+    "sloppy": "pay_partial",
+    "synthetic_signups": "clawback",
+    "account_farming": "clawback",
+    "incentive_abuse": "hold_pending_review",
+    "inconclusive": "hold_pending_review"
+  },
+  "override_conditions": [
+    {
+      "condition": "quality_score >= 75",
+      "override": "pay_in_full"
+    },
+    {
+      "condition": "quality_score < 20 AND classification IN (synthetic_signups, account_farming)",
+      "override": "clawback"
+    }
+  ]
+}

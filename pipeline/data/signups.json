@@ -1,0 +1,5162 @@
+[
+  {
+    "signup_id": "s0001",
+    "affiliate_id": "aff_001",
+    "timestamp": "2025-06-03T00:01:21+00:00",
+    "email": "user1409@guerrillamail.com",
+    "device_fingerprint": "fp_9e2dd0872f9e",
+    "ip_hash": "ip_a002",
+    "country": "CN",
+    "utm_source": "banner_network_x"
+  },
+  {
+    "signup_id": "s0002",
+    "affiliate_id": "aff_001",
+    "timestamp": "2025-06-03T00:00:13+00:00",
+    "email": "user7912@guerrillamail.com",
+    "device_fingerprint": "fp_4820666703ec",
+    "ip_hash": "ip_a001",
+    "country": "CN",
+    "utm_source": "banner_network_x"
+  },
+  {
+    "signup_id": "s0003",
+    "affiliate_id": "aff_001",
+    "timestamp": "2025-06-03T00:00:29+00:00",
+    "email": "user4257@tempmail.io",
+    "device_fingerprint": "fp_b0ad1fd02778",
+    "ip_hash": "ip_a002",
+    "country": "CN",
+    "utm_source": "banner_network_x"
+  },
+  {
+    "signup_id": "s0004",
+    "affiliate_id": "aff_001",
+    "timestamp": "2025-06-03T00:00:54+00:00",
+    "email": "user5552@sharklasers.com",
+    "device_fingerprint": "fp_4b1f91c8b49b",
+    "ip_hash": "ip_a002",
+    "country": "CN",
+    "utm_source": "banner_network_x"
+  },
+  {
+    "signup_id": "s0005",
+    "affiliate_id": "aff_001",
+    "timestamp": "2025-06-03T00:00:44+00:00",
+    "email": "user1711@yopmail.com",
+    "device_fingerprint": "fp_b0ad1fd02778",
+    "ip_hash": "ip_a005",
+    "country": "CN",
+    "utm_source": "banner_network_x"
+  },
+  {
+    "signup_id": "s0006",
+    "affiliate_id": "aff_001",
+    "timestamp": "2025-06-03T00:00:48+00:00",
+    "email": "user5803@guerrillamail.com",
+    "device_fingerprint": "fp_9e2dd0872f9e",
+    "ip_hash": "ip_a005",
+    "country": "CN",
+    "utm_source": "banner_network_x"
+  },
+  {
+    "signup_id": "s0007",
+    "affiliate_id": "aff_001",
+    "timestamp": "2025-06-03T00:00:08+00:00",
+    "email": "user4733@tempmail.io",
+    "device_fingerprint": "fp_9e2dd0872f9e",
+    "ip_hash": "ip_a001",
+    "country": "CN",
+    "utm_source": "banner_network_x"
+  },
+  {
+    "signup_id": "s0008",
+    "affiliate_id": "aff_001",
+    "timestamp": "2025-06-03T00:00:46+00:00",
+    "email": "user7065@mailinator.com",
+    "device_fingerprint": "fp_9e2dd0872f9e",
+    "ip_hash": "ip_a002",
+    "country": "CN",
+    "utm_source": "banner_network_x"
+  },
+  {
+    "signup_id": "s0009",
+    "affiliate_id": "aff_001",
+    "timestamp": "2025-06-03T00:01:21+00:00",
+    "email": "user9751@mailinator.com",
+    "device_fingerprint": "fp_4b1f91c8b49b",
+    "ip_hash": "ip_a002",
+    "country": "CN",
+    "utm_source": "banner_network_x"
+  },
+  {
+    "signup_id": "s0010",
+    "affiliate_id": "aff_001",
+    "timestamp": "2025-06-03T00:00:41+00:00",
+    "email": "user4752@tempmail.io",
+    "device_fingerprint": "fp_4820666703ec",
+    "ip_hash": "ip_a003",
+    "country": "CN",
+    "utm_source": "banner_network_x"
+  },
+  {
+    "signup_id": "s0011",
+    "affiliate_id": "aff_001",
+    "timestamp": "2025-06-03T00:01:23+00:00",
+    "email": "user7482@fakeinbox.com",
+    "device_fingerprint": "fp_b0ad1fd02778",
+    "ip_hash": "ip_a002",
+    "country": "CN",
+    "utm_source": "banner_network_x"
+  },
+  {
+    "signup_id": "s0012",
+    "affiliate_id": "aff_001",
+    "timestamp": "2025-06-03T00:00:31+00:00",
+    "email": "user8019@yopmail.com",
+    "device_fingerprint": "fp_b0ad1fd02778",
+    "ip_hash": "ip_a003",
+    "country": "CN",
+    "utm_source": "banner_network_x"
+  },
+  {
+    "signup_id": "s0013",
+    "affiliate_id": "aff_001",
+    "timestamp": "2025-06-03T00:00:17+00:00",
+    "email": "user2489@fakeinbox.com",
+    "device_fingerprint": "fp_4820666703ec",
+    "ip_hash": "ip_a001",
+    "country": "CN",
+    "utm_source": "banner_network_x"
+  },
+  {
+    "signup_id": "s0014",
+    "affiliate_id": "aff_001",
+    "timestamp": "2025-06-03T00:00:20+00:00",
+    "email": "user2040@trashmail.com",
+    "device_fingerprint": "fp_b0ad1fd02778",
+    "ip_hash": "ip_a004",
+    "country": "CN",
+    "utm_source": "banner_network_x"
+  },
+  {
+    "signup_id": "s0015",
+    "affiliate_id": "aff_001",
+    "timestamp": "2025-06-03T00:00:14+00:00",
+    "email": "user6573@yopmail.com",
+    "device_fingerprint": "fp_4820666703ec",
+    "ip_hash": "ip_a003",
+    "country": "CN",
+    "utm_source": "banner_network_x"
+  },
+  {
+    "signup_id": "s0016",
+    "affiliate_id": "aff_001",
+    "timestamp": "2025-06-03T00:00:22+00:00",
+    "email": "user5889@guerrillamail.com",
+    "device_fingerprint": "fp_4b1f91c8b49b",
+    "ip_hash": "ip_a002",
+    "country": "CN",
+    "utm_source": "banner_network_x"
+  },
+  {
+    "signup_id": "s0017",
+    "affiliate_id": "aff_001",
+    "timestamp": "2025-06-03T00:00:20+00:00",
+    "email": "user6310@tempmail.io",
+    "device_fingerprint": "fp_b0ad1fd02778",
+    "ip_hash": "ip_a001",
+    "country": "CN",
+    "utm_source": "banner_network_x"
+  },
+  {
+    "signup_id": "s0018",
+    "affiliate_id": "aff_001",
+    "timestamp": "2025-06-03T00:00:46+00:00",
+    "email": "user4923@yopmail.com",
+    "device_fingerprint": "fp_4820666703ec",
+    "ip_hash": "ip_a002",
+    "country": "CN",
+    "utm_source": "banner_network_x"
+  },
+  {
+    "signup_id": "s0019",
+    "affiliate_id": "aff_001",
+    "timestamp": "2025-06-03T00:01:08+00:00",
+    "email": "user3103@mailinator.com",
+    "device_fingerprint": "fp_b0ad1fd02778",
+    "ip_hash": "ip_a005",
+    "country": "CN",
+    "utm_source": "banner_network_x"
+  },
+  {
+    "signup_id": "s0020",
+    "affiliate_id": "aff_001",
+    "timestamp": "2025-06-03T00:01:07+00:00",
+    "email": "user4470@trashmail.com",
+    "device_fingerprint": "fp_4b1f91c8b49b",
+    "ip_hash": "ip_a003",
+    "country": "CN",
+    "utm_source": "banner_network_x"
+  },
+  {
+    "signup_id": "s0021",
+    "affiliate_id": "aff_001",
+    "timestamp": "2025-06-03T00:01:25+00:00",
+    "email": "user8177@sharklasers.com",
+    "device_fingerprint": "fp_b0ad1fd02778",
+    "ip_hash": "ip_a001",
+    "country": "CN",
+    "utm_source": "banner_network_x"
+  },
+  {
+    "signup_id": "s0022",
+    "affiliate_id": "aff_001",
+    "timestamp": "2025-06-03T00:00:08+00:00",
+    "email": "user1344@sharklasers.com",
+    "device_fingerprint": "fp_4b1f91c8b49b",
+    "ip_hash": "ip_a005",
+    "country": "CN",
+    "utm_source": "banner_network_x"
+  },
+  {
+    "signup_id": "s0023",
+    "affiliate_id": "aff_001",
+    "timestamp": "2025-06-03T00:00:09+00:00",
+    "email": "user4750@tempmail.io",
+    "device_fingerprint": "fp_4820666703ec",
+    "ip_hash": "ip_a001",
+    "country": "CN",
+    "utm_source": "banner_network_x"
+  },
+  {
+    "signup_id": "s0024",
+    "affiliate_id": "aff_001",
+    "timestamp": "2025-06-03T00:01:09+00:00",
+    "email": "user8744@mailinator.com",
+    "device_fingerprint": "fp_4b1f91c8b49b",
+    "ip_hash": "ip_a004",
+    "country": "CN",
+    "utm_source": "banner_network_x"
+  },
+  {
+    "signup_id": "s0025",
+    "affiliate_id": "aff_001",
+    "timestamp": "2025-06-03T00:00:54+00:00",
+    "email": "user8651@trashmail.com",
+    "device_fingerprint": "fp_4820666703ec",
+    "ip_hash": "ip_a001",
+    "country": "CN",
+    "utm_source": "banner_network_x"
+  },
+  {
+    "signup_id": "s0026",
+    "affiliate_id": "aff_001",
+    "timestamp": "2025-06-03T00:00:43+00:00",
+    "email": "user5073@guerrillamail.com",
+    "device_fingerprint": "fp_4b1f91c8b49b",
+    "ip_hash": "ip_a002",
+    "country": "CN",
+    "utm_source": "banner_network_x"
+  },
+  {
+    "signup_id": "s0027",
+    "affiliate_id": "aff_001",
+    "timestamp": "2025-06-03T00:00:09+00:00",
+    "email": "user2604@fakeinbox.com",
+    "device_fingerprint": "fp_4820666703ec",
+    "ip_hash": "ip_a005",
+    "country": "CN",
+    "utm_source": "banner_network_x"
+  },
+  {
+    "signup_id": "s0028",
+    "affiliate_id": "aff_001",
+    "timestamp": "2025-06-03T00:00:52+00:00",
+    "email": "user8886@fakeinbox.com",
+    "device_fingerprint": "fp_4b1f91c8b49b",
+    "ip_hash": "ip_a004",
+    "country": "CN",
+    "utm_source": "banner_network_x"
+  },
+  {
+    "signup_id": "s0029",
+    "affiliate_id": "aff_001",
+    "timestamp": "2025-06-03T06:00:58+00:00",
+    "email": "user7930@yopmail.com",
+    "device_fingerprint": "fp_b0ad1fd02778",
+    "ip_hash": "ip_a002",
+    "country": "CN",
+    "utm_source": "banner_network_x"
+  },
+  {
+    "signup_id": "s0030",
+    "affiliate_id": "aff_001",
+    "timestamp": "2025-06-03T06:00:27+00:00",
+    "email": "user9883@tempmail.io",
+    "device_fingerprint": "fp_4820666703ec",
+    "ip_hash": "ip_a003",
+    "country": "CN",
+    "utm_source": "banner_network_x"
+  },
+  {
+    "signup_id": "s0031",
+    "affiliate_id": "aff_001",
+    "timestamp": "2025-06-03T06:01:14+00:00",
+    "email": "user9238@fakeinbox.com",
+    "device_fingerprint": "fp_4b1f91c8b49b",
+    "ip_hash": "ip_a001",
+    "country": "CN",
+    "utm_source": "banner_network_x"
+  },
+  {
+    "signup_id": "s0032",
+    "affiliate_id": "aff_001",
+    "timestamp": "2025-06-03T06:00:30+00:00",
+    "email": "user2964@trashmail.com",
+    "device_fingerprint": "fp_4b1f91c8b49b",
+    "ip_hash": "ip_a005",
+    "country": "CN",
+    "utm_source": "banner_network_x"
+  },
+  {
+    "signup_id": "s0033",
+    "affiliate_id": "aff_001",
+    "timestamp": "2025-06-03T06:00:26+00:00",
+    "email": "user4910@sharklasers.com",
+    "device_fingerprint": "fp_9e2dd0872f9e",
+    "ip_hash": "ip_a004",
+    "country": "CN",
+    "utm_source": "banner_network_x"
+  },
+  {
+    "signup_id": "s0034",
+    "affiliate_id": "aff_001",
+    "timestamp": "2025-06-03T06:01:22+00:00",
+    "email": "user8491@yopmail.com",
+    "device_fingerprint": "fp_9e2dd0872f9e",
+    "ip_hash": "ip_a001",
+    "country": "CN",
+    "utm_source": "banner_network_x"
+  },
+  {
+    "signup_id": "s0035",
+    "affiliate_id": "aff_001",
+    "timestamp": "2025-06-03T06:01:19+00:00",
+    "email": "user2200@guerrillamail.com",
+    "device_fingerprint": "fp_4b1f91c8b49b",
+    "ip_hash": "ip_a005",
+    "country": "CN",
+    "utm_source": "banner_network_x"
+  },
+  {
+    "signup_id": "s0036",
+    "affiliate_id": "aff_001",
+    "timestamp": "2025-06-03T06:00:44+00:00",
+    "email": "user5002@guerrillamail.com",
+    "device_fingerprint": "fp_9e2dd0872f9e",
+    "ip_hash": "ip_a003",
+    "country": "CN",
+    "utm_source": "banner_network_x"
+  },
+  {
+    "signup_id": "s0037",
+    "affiliate_id": "aff_001",
+    "timestamp": "2025-06-03T06:01:09+00:00",
+    "email": "user9666@yopmail.com",
+    "device_fingerprint": "fp_4820666703ec",
+    "ip_hash": "ip_a005",
+    "country": "CN",
+    "utm_source": "banner_network_x"
+  },
+  {
+    "signup_id": "s0038",
+    "affiliate_id": "aff_001",
+    "timestamp": "2025-06-03T06:01:24+00:00",
+    "email": "user3200@guerrillamail.com",
+    "device_fingerprint": "fp_9e2dd0872f9e",
+    "ip_hash": "ip_a001",
+    "country": "CN",
+    "utm_source": "banner_network_x"
+  },
+  {
+    "signup_id": "s0039",
+    "affiliate_id": "aff_001",
+    "timestamp": "2025-06-03T06:00:26+00:00",
+    "email": "user4335@sharklasers.com",
+    "device_fingerprint": "fp_9e2dd0872f9e",
+    "ip_hash": "ip_a005",
+    "country": "CN",
+    "utm_source": "banner_network_x"
+  },
+  {
+    "signup_id": "s0040",
+    "affiliate_id": "aff_001",
+    "timestamp": "2025-06-03T06:00:54+00:00",
+    "email": "user1722@yopmail.com",
+    "device_fingerprint": "fp_4820666703ec",
+    "ip_hash": "ip_a003",
+    "country": "CN",
+    "utm_source": "banner_network_x"
+  },
+  {
+    "signup_id": "s0041",
+    "affiliate_id": "aff_001",
+    "timestamp": "2025-06-03T06:01:30+00:00",
+    "email": "user1158@trashmail.com",
+    "device_fingerprint": "fp_4820666703ec",
+    "ip_hash": "ip_a001",
+    "country": "CN",
+    "utm_source": "banner_network_x"
+  },
+  {
+    "signup_id": "s0042",
+    "affiliate_id": "aff_001",
+    "timestamp": "2025-06-03T06:01:14+00:00",
+    "email": "user8041@mailinator.com",
+    "device_fingerprint": "fp_4b1f91c8b49b",
+    "ip_hash": "ip_a001",
+    "country": "CN",
+    "utm_source": "banner_network_x"
+  },
+  {
+    "signup_id": "s0043",
+    "affiliate_id": "aff_001",
+    "timestamp": "2025-06-03T06:00:05+00:00",
+    "email": "user4441@sharklasers.com",
+    "device_fingerprint": "fp_4b1f91c8b49b",
+    "ip_hash": "ip_a001",
+    "country": "CN",
+    "utm_source": "banner_network_x"
+  },
+  {
+    "signup_id": "s0044",
+    "affiliate_id": "aff_001",
+    "timestamp": "2025-06-03T06:01:11+00:00",
+    "email": "user3532@trashmail.com",
+    "device_fingerprint": "fp_4b1f91c8b49b",
+    "ip_hash": "ip_a002",
+    "country": "CN",
+    "utm_source": "banner_network_x"
+  },
+  {
+    "signup_id": "s0045",
+    "affiliate_id": "aff_001",
+    "timestamp": "2025-06-03T06:00:42+00:00",
+    "email": "user5065@trashmail.com",
+    "device_fingerprint": "fp_9e2dd0872f9e",
+    "ip_hash": "ip_a002",
+    "country": "CN",
+    "utm_source": "banner_network_x"
+  },
+  {
+    "signup_id": "s0046",
+    "affiliate_id": "aff_001",
+    "timestamp": "2025-06-03T06:00:25+00:00",
+    "email": "user6728@fakeinbox.com",
+    "device_fingerprint": "fp_9e2dd0872f9e",
+    "ip_hash": "ip_a002",
+    "country": "CN",
+    "utm_source": "banner_network_x"
+  },
+  {
+    "signup_id": "s0047",
+    "affiliate_id": "aff_001",
+    "timestamp": "2025-06-03T06:01:24+00:00",
+    "email": "user7528@throwam.com",
+    "device_fingerprint": "fp_9e2dd0872f9e",
+    "ip_hash": "ip_a003",
+    "country": "CN",
+    "utm_source": "banner_network_x"
+  },
+  {
+    "signup_id": "s0048",
+    "affiliate_id": "aff_001",
+    "timestamp": "2025-06-03T06:01:08+00:00",
+    "email": "user1452@sharklasers.com",
+    "device_fingerprint": "fp_4820666703ec",
+    "ip_hash": "ip_a003",
+    "country": "CN",
+    "utm_source": "banner_network_x"
+  },
+  {
+    "signup_id": "s0049",
+    "affiliate_id": "aff_001",
+    "timestamp": "2025-06-03T06:00:33+00:00",
+    "email": "user2776@tempmail.io",
+    "device_fingerprint": "fp_b0ad1fd02778",
+    "ip_hash": "ip_a003",
+    "country": "CN",
+    "utm_source": "banner_network_x"
+  },
+  {
+    "signup_id": "s0050",
+    "affiliate_id": "aff_001",
+    "timestamp": "2025-06-03T06:01:13+00:00",
+    "email": "user5173@throwam.com",
+    "device_fingerprint": "fp_4820666703ec",
+    "ip_hash": "ip_a004",
+    "country": "CN",
+    "utm_source": "banner_network_x"
+  },
+  {
+    "signup_id": "s0051",
+    "affiliate_id": "aff_001",
+    "timestamp": "2025-06-03T06:01:08+00:00",
+    "email": "user6967@throwam.com",
+    "device_fingerprint": "fp_b0ad1fd02778",
+    "ip_hash": "ip_a001",
+    "country": "CN",
+    "utm_source": "banner_network_x"
+  },
+  {
+    "signup_id": "s0052",
+    "affiliate_id": "aff_001",
+    "timestamp": "2025-06-03T06:00:38+00:00",
+    "email": "user7691@yopmail.com",
+    "device_fingerprint": "fp_9e2dd0872f9e",
+    "ip_hash": "ip_a004",
+    "country": "CN",
+    "utm_source": "banner_network_x"
+  },
+  {
+    "signup_id": "s0053",
+    "affiliate_id": "aff_001",
+    "timestamp": "2025-06-03T06:00:22+00:00",
+    "email": "user7653@yopmail.com",
+    "device_fingerprint": "fp_4820666703ec",
+    "ip_hash": "ip_a003",
+    "country": "CN",
+    "utm_source": "banner_network_x"
+  },
+  {
+    "signup_id": "s0054",
+    "affiliate_id": "aff_001",
+    "timestamp": "2025-06-03T06:00:55+00:00",
+    "email": "user8618@sharklasers.com",
+    "device_fingerprint": "fp_b0ad1fd02778",
+    "ip_hash": "ip_a004",
+    "country": "CN",
+    "utm_source": "banner_network_x"
+  },
+  {
+    "signup_id": "s0055",
+    "affiliate_id": "aff_001",
+    "timestamp": "2025-06-03T06:00:10+00:00",
+    "email": "user9445@yopmail.com",
+    "device_fingerprint": "fp_9e2dd0872f9e",
+    "ip_hash": "ip_a001",
+    "country": "CN",
+    "utm_source": "banner_network_x"
+  },
+  {
+    "signup_id": "s0056",
+    "affiliate_id": "aff_001",
+    "timestamp": "2025-06-03T06:00:18+00:00",
+    "email": "user1757@tempmail.io",
+    "device_fingerprint": "fp_4b1f91c8b49b",
+    "ip_hash": "ip_a004",
+    "country": "CN",
+    "utm_source": "banner_network_x"
+  },
+  {
+    "signup_id": "s0057",
+    "affiliate_id": "aff_001",
+    "timestamp": "2025-06-03T12:01:29+00:00",
+    "email": "user9099@trashmail.com",
+    "device_fingerprint": "fp_b0ad1fd02778",
+    "ip_hash": "ip_a002",
+    "country": "CN",
+    "utm_source": "banner_network_x"
+  },
+  {
+    "signup_id": "s0058",
+    "affiliate_id": "aff_001",
+    "timestamp": "2025-06-03T12:01:28+00:00",
+    "email": "user2746@tempmail.io",
+    "device_fingerprint": "fp_b0ad1fd02778",
+    "ip_hash": "ip_a002",
+    "country": "CN",
+    "utm_source": "banner_network_x"
+  },
+  {
+    "signup_id": "s0059",
+    "affiliate_id": "aff_001",
+    "timestamp": "2025-06-03T12:01:29+00:00",
+    "email": "user1822@fakeinbox.com",
+    "device_fingerprint": "fp_4b1f91c8b49b",
+    "ip_hash": "ip_a001",
+    "country": "CN",
+    "utm_source": "banner_network_x"
+  },
+  {
+    "signup_id": "s0060",
+    "affiliate_id": "aff_001",
+    "timestamp": "2025-06-03T12:01:18+00:00",
+    "email": "user9976@trashmail.com",
+    "device_fingerprint": "fp_b0ad1fd02778",
+    "ip_hash": "ip_a002",
+    "country": "CN",
+    "utm_source": "banner_network_x"
+  },
+  {
+    "signup_id": "s0061",
+    "affiliate_id": "aff_001",
+    "timestamp": "2025-06-03T12:00:35+00:00",
+    "email": "user4919@fakeinbox.com",
+    "device_fingerprint": "fp_9e2dd0872f9e",
+    "ip_hash": "ip_a004",
+    "country": "CN",
+    "utm_source": "banner_network_x"
+  },
+  {
+    "signup_id": "s0062",
+    "affiliate_id": "aff_001",
+    "timestamp": "2025-06-03T12:00:36+00:00",
+    "email": "user5451@throwam.com",
+    "device_fingerprint": "fp_9e2dd0872f9e",
+    "ip_hash": "ip_a003",
+    "country": "CN",
+    "utm_source": "banner_network_x"
+  },
+  {
+    "signup_id": "s0063",
+    "affiliate_id": "aff_001",
+    "timestamp": "2025-06-03T12:00:19+00:00",
+    "email": "user2052@throwam.com",
+    "device_fingerprint": "fp_b0ad1fd02778",
+    "ip_hash": "ip_a004",
+    "country": "CN",
+    "utm_source": "banner_network_x"
+  },
+  {
+    "signup_id": "s0064",
+    "affiliate_id": "aff_001",
+    "timestamp": "2025-06-03T12:00:59+00:00",
+    "email": "user2020@trashmail.com",
+    "device_fingerprint": "fp_4b1f91c8b49b",
+    "ip_hash": "ip_a004",
+    "country": "CN",
+    "utm_source": "banner_network_x"
+  },
+  {
+    "signup_id": "s0065",
+    "affiliate_id": "aff_001",
+    "timestamp": "2025-06-03T12:01:14+00:00",
+    "email": "user7232@tempmail.io",
+    "device_fingerprint": "fp_b0ad1fd02778",
+    "ip_hash": "ip_a001",
+    "country": "CN",
+    "utm_source": "banner_network_x"
+  },
+  {
+    "signup_id": "s0066",
+    "affiliate_id": "aff_001",
+    "timestamp": "2025-06-03T12:01:09+00:00",
+    "email": "user8999@throwam.com",
+    "device_fingerprint": "fp_4b1f91c8b49b",
+    "ip_hash": "ip_a003",
+    "country": "CN",
+    "utm_source": "banner_network_x"
+  },
+  {
+    "signup_id": "s0067",
+    "affiliate_id": "aff_001",
+    "timestamp": "2025-06-03T12:00:21+00:00",
+    "email": "user3091@fakeinbox.com",
+    "device_fingerprint": "fp_4820666703ec",
+    "ip_hash": "ip_a004",
+    "country": "CN",
+    "utm_source": "banner_network_x"
+  },
+  {
+    "signup_id": "s0068",
+    "affiliate_id": "aff_001",
+    "timestamp": "2025-06-03T12:00:59+00:00",
+    "email": "user1823@mailinator.com",
+    "device_fingerprint": "fp_9e2dd0872f9e",
+    "ip_hash": "ip_a004",
+    "country": "CN",
+    "utm_source": "banner_network_x"
+  },
+  {
+    "signup_id": "s0069",
+    "affiliate_id": "aff_001",
+    "timestamp": "2025-06-03T12:00:58+00:00",
+    "email": "user6529@sharklasers.com",
+    "device_fingerprint": "fp_b0ad1fd02778",
+    "ip_hash": "ip_a003",
+    "country": "CN",
+    "utm_source": "banner_network_x"
+  },
+  {
+    "signup_id": "s0070",
+    "affiliate_id": "aff_001",
+    "timestamp": "2025-06-03T12:00:02+00:00",
+    "email": "user6733@tempmail.io",
+    "device_fingerprint": "fp_4b1f91c8b49b",
+    "ip_hash": "ip_a001",
+    "country": "CN",
+    "utm_source": "banner_network_x"
+  },
+  {
+    "signup_id": "s0071",
+    "affiliate_id": "aff_001",
+    "timestamp": "2025-06-03T12:00:02+00:00",
+    "email": "user4908@mailinator.com",
+    "device_fingerprint": "fp_4b1f91c8b49b",
+    "ip_hash": "ip_a004",
+    "country": "CN",
+    "utm_source": "banner_network_x"
+  },
+  {
+    "signup_id": "s0072",
+    "affiliate_id": "aff_001",
+    "timestamp": "2025-06-03T12:00:21+00:00",
+    "email": "user3683@guerrillamail.com",
+    "device_fingerprint": "fp_9e2dd0872f9e",
+    "ip_hash": "ip_a001",
+    "country": "CN",
+    "utm_source": "banner_network_x"
+  },
+  {
+    "signup_id": "s0073",
+    "affiliate_id": "aff_001",
+    "timestamp": "2025-06-03T12:00:25+00:00",
+    "email": "user4978@guerrillamail.com",
+    "device_fingerprint": "fp_4820666703ec",
+    "ip_hash": "ip_a003",
+    "country": "CN",
+    "utm_source": "banner_network_x"
+  },
+  {
+    "signup_id": "s0074",
+    "affiliate_id": "aff_001",
+    "timestamp": "2025-06-03T12:01:08+00:00",
+    "email": "user7071@trashmail.com",
+    "device_fingerprint": "fp_4820666703ec",
+    "ip_hash": "ip_a005",
+    "country": "CN",
+    "utm_source": "banner_network_x"
+  },
+  {
+    "signup_id": "s0075",
+    "affiliate_id": "aff_001",
+    "timestamp": "2025-06-03T12:00:55+00:00",
+    "email": "user8532@sharklasers.com",
+    "device_fingerprint": "fp_4b1f91c8b49b",
+    "ip_hash": "ip_a004",
+    "country": "CN",
+    "utm_source": "banner_network_x"
+  },
+  {
+    "signup_id": "s0076",
+    "affiliate_id": "aff_001",
+    "timestamp": "2025-06-03T12:01:06+00:00",
+    "email": "user9817@yopmail.com",
+    "device_fingerprint": "fp_b0ad1fd02778",
+    "ip_hash": "ip_a004",
+    "country": "CN",
+    "utm_source": "banner_network_x"
+  },
+  {
+    "signup_id": "s0077",
+    "affiliate_id": "aff_001",
+    "timestamp": "2025-06-03T12:00:35+00:00",
+    "email": "user4995@fakeinbox.com",
+    "device_fingerprint": "fp_b0ad1fd02778",
+    "ip_hash": "ip_a005",
+    "country": "CN",
+    "utm_source": "banner_network_x"
+  },
+  {
+    "signup_id": "s0078",
+    "affiliate_id": "aff_001",
+    "timestamp": "2025-06-03T12:01:02+00:00",
+    "email": "user6813@throwam.com",
+    "device_fingerprint": "fp_9e2dd0872f9e",
+    "ip_hash": "ip_a003",
+    "country": "CN",
+    "utm_source": "banner_network_x"
+  },
+  {
+    "signup_id": "s0079",
+    "affiliate_id": "aff_001",
+    "timestamp": "2025-06-03T12:01:16+00:00",
+    "email": "user1166@yopmail.com",
+    "device_fingerprint": "fp_4b1f91c8b49b",
+    "ip_hash": "ip_a001",
+    "country": "CN",
+    "utm_source": "banner_network_x"
+  },
+  {
+    "signup_id": "s0080",
+    "affiliate_id": "aff_001",
+    "timestamp": "2025-06-03T12:00:52+00:00",
+    "email": "user4937@fakeinbox.com",
+    "device_fingerprint": "fp_b0ad1fd02778",
+    "ip_hash": "ip_a004",
+    "country": "CN",
+    "utm_source": "banner_network_x"
+  },
+  {
+    "signup_id": "s0081",
+    "affiliate_id": "aff_001",
+    "timestamp": "2025-06-03T12:00:31+00:00",
+    "email": "user7046@yopmail.com",
+    "device_fingerprint": "fp_b0ad1fd02778",
+    "ip_hash": "ip_a005",
+    "country": "CN",
+    "utm_source": "banner_network_x"
+  },
+  {
+    "signup_id": "s0082",
+    "affiliate_id": "aff_001",
+    "timestamp": "2025-06-03T12:01:29+00:00",
+    "email": "user5438@fakeinbox.com",
+    "device_fingerprint": "fp_9e2dd0872f9e",
+    "ip_hash": "ip_a003",
+    "country": "CN",
+    "utm_source": "banner_network_x"
+  },
+  {
+    "signup_id": "s0083",
+    "affiliate_id": "aff_001",
+    "timestamp": "2025-06-03T12:00:24+00:00",
+    "email": "user2958@sharklasers.com",
+    "device_fingerprint": "fp_4b1f91c8b49b",
+    "ip_hash": "ip_a002",
+    "country": "CN",
+    "utm_source": "banner_network_x"
+  },
+  {
+    "signup_id": "s0084",
+    "affiliate_id": "aff_001",
+    "timestamp": "2025-06-03T12:01:01+00:00",
+    "email": "user9595@yopmail.com",
+    "device_fingerprint": "fp_9e2dd0872f9e",
+    "ip_hash": "ip_a001",
+    "country": "CN",
+    "utm_source": "banner_network_x"
+  },
+  {
+    "signup_id": "s0085",
+    "affiliate_id": "aff_001",
+    "timestamp": "2025-06-08T00:01:08+00:00",
+    "email": "usr380@guerrillamail.com",
+    "device_fingerprint": "fp_4820666703ec",
+    "ip_hash": "ip_a001",
+    "country": "CN",
+    "utm_source": "banner_network_x"
+  },
+  {
+    "signup_id": "s0086",
+    "affiliate_id": "aff_001",
+    "timestamp": "2025-06-07T00:00:37+00:00",
+    "email": "usr753@guerrillamail.com",
+    "device_fingerprint": "fp_4b1f91c8b49b",
+    "ip_hash": "ip_a001",
+    "country": "CN",
+    "utm_source": "banner_network_x"
+  },
+  {
+    "signup_id": "s0087",
+    "affiliate_id": "aff_001",
+    "timestamp": "2025-06-03T00:01:13+00:00",
+    "email": "usr580@mailinator.com",
+    "device_fingerprint": "fp_4b1f91c8b49b",
+    "ip_hash": "ip_a002",
+    "country": "CN",
+    "utm_source": "banner_network_x"
+  },
+  {
+    "signup_id": "s0088",
+    "affiliate_id": "aff_001",
+    "timestamp": "2025-06-05T00:00:23+00:00",
+    "email": "usr358@tempmail.io",
+    "device_fingerprint": "fp_4b1f91c8b49b",
+    "ip_hash": "ip_a001",
+    "country": "CN",
+    "utm_source": "banner_network_x"
+  },
+  {
+    "signup_id": "s0089",
+    "affiliate_id": "aff_001",
+    "timestamp": "2025-06-03T00:00:51+00:00",
+    "email": "usr175@throwam.com",
+    "device_fingerprint": "fp_4820666703ec",
+    "ip_hash": "ip_a001",
+    "country": "CN",
+    "utm_source": "banner_network_x"
+  },
+  {
+    "signup_id": "s0090",
+    "affiliate_id": "aff_001",
+    "timestamp": "2025-06-04T00:01:43+00:00",
+    "email": "usr187@mailinator.com",
+    "device_fingerprint": "fp_4820666703ec",
+    "ip_hash": "ip_a001",
+    "country": "CN",
+    "utm_source": "banner_network_x"
+  },
+  {
+    "signup_id": "s0091",
+    "affiliate_id": "aff_001",
+    "timestamp": "2025-06-07T00:01:37+00:00",
+    "email": "usr720@throwam.com",
+    "device_fingerprint": "fp_4820666703ec",
+    "ip_hash": "ip_a003",
+    "country": "CN",
+    "utm_source": "banner_network_x"
+  },
+  {
+    "signup_id": "s0092",
+    "affiliate_id": "aff_001",
+    "timestamp": "2025-06-06T00:00:57+00:00",
+    "email": "usr404@throwam.com",
+    "device_fingerprint": "fp_4b1f91c8b49b",
+    "ip_hash": "ip_a002",
+    "country": "CN",
+    "utm_source": "banner_network_x"
+  },
+  {
+    "signup_id": "s0093",
+    "affiliate_id": "aff_001",
+    "timestamp": "2025-06-07T00:01:19+00:00",
+    "email": "usr724@tempmail.io",
+    "device_fingerprint": "fp_4820666703ec",
+    "ip_hash": "ip_a001",
+    "country": "CN",
+    "utm_source": "banner_network_x"
+  },
+  {
+    "signup_id": "s0094",
+    "affiliate_id": "aff_001",
+    "timestamp": "2025-06-08T00:00:27+00:00",
+    "email": "usr776@mailinator.com",
+    "device_fingerprint": "fp_4820666703ec",
+    "ip_hash": "ip_a001",
+    "country": "CN",
+    "utm_source": "banner_network_x"
+  },
+  {
+    "signup_id": "s0095",
+    "affiliate_id": "aff_001",
+    "timestamp": "2025-06-04T00:00:22+00:00",
+    "email": "usr260@tempmail.io",
+    "device_fingerprint": "fp_4820666703ec",
+    "ip_hash": "ip_a002",
+    "country": "CN",
+    "utm_source": "banner_network_x"
+  },
+  {
+    "signup_id": "s0096",
+    "affiliate_id": "aff_001",
+    "timestamp": "2025-06-06T00:01:28+00:00",
+    "email": "usr398@throwam.com",
+    "device_fingerprint": "fp_4820666703ec",
+    "ip_hash": "ip_a001",
+    "country": "CN",
+    "utm_source": "banner_network_x"
+  },
+  {
+    "signup_id": "s0097",
+    "affiliate_id": "aff_001",
+    "timestamp": "2025-06-05T00:01:30+00:00",
+    "email": "usr819@mailinator.com",
+    "device_fingerprint": "fp_4b1f91c8b49b",
+    "ip_hash": "ip_a001",
+    "country": "CN",
+    "utm_source": "banner_network_x"
+  },
+  {
+    "signup_id": "s0098",
+    "affiliate_id": "aff_001",
+    "timestamp": "2025-06-08T00:00:29+00:00",
+    "email": "usr906@mailinator.com",
+    "device_fingerprint": "fp_4820666703ec",
+    "ip_hash": "ip_a002",
+    "country": "CN",
+    "utm_source": "banner_network_x"
+  },
+  {
+    "signup_id": "s0099",
+    "affiliate_id": "aff_001",
+    "timestamp": "2025-06-03T00:01:09+00:00",
+    "email": "usr763@guerrillamail.com",
+    "device_fingerprint": "fp_4820666703ec",
+    "ip_hash": "ip_a002",
+    "country": "CN",
+    "utm_source": "banner_network_x"
+  },
+  {
+    "signup_id": "s0100",
+    "affiliate_id": "aff_001",
+    "timestamp": "2025-06-04T00:00:09+00:00",
+    "email": "usr269@tempmail.io",
+    "device_fingerprint": "fp_4b1f91c8b49b",
+    "ip_hash": "ip_a003",
+    "country": "CN",
+    "utm_source": "banner_network_x"
+  },
+  {
+    "signup_id": "s0101",
+    "affiliate_id": "aff_001",
+    "timestamp": "2025-06-08T00:01:45+00:00",
+    "email": "usr549@mailinator.com",
+    "device_fingerprint": "fp_4820666703ec",
+    "ip_hash": "ip_a002",
+    "country": "CN",
+    "utm_source": "banner_network_x"
+  },
+  {
+    "signup_id": "s0102",
+    "affiliate_id": "aff_001",
+    "timestamp": "2025-06-08T00:00:38+00:00",
+    "email": "usr378@throwam.com",
+    "device_fingerprint": "fp_4b1f91c8b49b",
+    "ip_hash": "ip_a002",
+    "country": "CN",
+    "utm_source": "banner_network_x"
+  },
+  {
+    "signup_id": "s0103",
+    "affiliate_id": "aff_001",
+    "timestamp": "2025-06-03T00:01:16+00:00",
+    "email": "usr542@tempmail.io",
+    "device_fingerprint": "fp_4b1f91c8b49b",
+    "ip_hash": "ip_a003",
+    "country": "CN",
+    "utm_source": "banner_network_x"
+  },
+  {
+    "signup_id": "s0104",
+    "affiliate_id": "aff_001",
+    "timestamp": "2025-06-05T00:00:03+00:00",
+    "email": "usr334@tempmail.io",
+    "device_fingerprint": "fp_4820666703ec",
+    "ip_hash": "ip_a003",
+    "country": "CN",
+    "utm_source": "banner_network_x"
+  },
+  {
+    "signup_id": "s0105",
+    "affiliate_id": "aff_001",
+    "timestamp": "2025-06-05T00:01:13+00:00",
+    "email": "usr881@tempmail.io",
+    "device_fingerprint": "fp_4820666703ec",
+    "ip_hash": "ip_a002",
+    "country": "CN",
+    "utm_source": "banner_network_x"
+  },
+  {
+    "signup_id": "s0106",
+    "affiliate_id": "aff_001",
+    "timestamp": "2025-06-07T00:01:23+00:00",
+    "email": "usr384@throwam.com",
+    "device_fingerprint": "fp_4820666703ec",
+    "ip_hash": "ip_a003",
+    "country": "CN",
+    "utm_source": "banner_network_x"
+  },
+  {
+    "signup_id": "s0107",
+    "affiliate_id": "aff_001",
+    "timestamp": "2025-06-06T00:01:21+00:00",
+    "email": "usr193@throwam.com",
+    "device_fingerprint": "fp_4b1f91c8b49b",
+    "ip_hash": "ip_a002",
+    "country": "CN",
+    "utm_source": "banner_network_x"
+  },
+  {
+    "signup_id": "s0108",
+    "affiliate_id": "aff_001",
+    "timestamp": "2025-06-06T00:00:42+00:00",
+    "email": "usr786@mailinator.com",
+    "device_fingerprint": "fp_4820666703ec",
+    "ip_hash": "ip_a001",
+    "country": "CN",
+    "utm_source": "banner_network_x"
+  },
+  {
+    "signup_id": "s0109",
+    "affiliate_id": "aff_002",
+    "timestamp": "2025-06-11T13:00:00+00:00",
+    "email": "user47777@protonmail.com",
+    "device_fingerprint": "fp_a59ef01481d2",
+    "ip_hash": "ip_b61209",
+    "country": "BR",
+    "utm_source": "google"
+  },
+  {
+    "signup_id": "s0110",
+    "affiliate_id": "aff_002",
+    "timestamp": "2025-06-27T00:00:00+00:00",
+    "email": "user70552@hotmail.com",
+    "device_fingerprint": "fp_b6ed390639b5",
+    "ip_hash": "ip_b34133",
+    "country": "AU",
+    "utm_source": "email"
+  },
+  {
+    "signup_id": "s0111",
+    "affiliate_id": "aff_002",
+    "timestamp": "2025-06-30T09:00:00+00:00",
+    "email": "user73532@protonmail.com",
+    "device_fingerprint": "fp_9208e9d8b0e9",
+    "ip_hash": "ip_b90156",
+    "country": "FR",
+    "utm_source": "facebook"
+  },
+  {
+    "signup_id": "s0112",
+    "affiliate_id": "aff_002",
+    "timestamp": "2025-06-15T03:00:00+00:00",
+    "email": "user75323@outlook.com",
+    "device_fingerprint": "fp_88e035563037",
+    "ip_hash": "ip_b47131",
+    "country": "CA",
+    "utm_source": "email"
+  },
+  {
+    "signup_id": "s0113",
+    "affiliate_id": "aff_002",
+    "timestamp": "2025-06-13T06:00:00+00:00",
+    "email": "user76616@hotmail.com",
+    "device_fingerprint": "fp_88be4f728380",
+    "ip_hash": "ip_b27222",
+    "country": "GB",
+    "utm_source": "twitter"
+  },
+  {
+    "signup_id": "s0114",
+    "affiliate_id": "aff_002",
+    "timestamp": "2025-06-27T00:00:00+00:00",
+    "email": "user49132@yahoo.com",
+    "device_fingerprint": "fp_fd74e4157447",
+    "ip_hash": "ip_b84169",
+    "country": "SE",
+    "utm_source": "facebook"
+  },
+  {
+    "signup_id": "s0115",
+    "affiliate_id": "aff_002",
+    "timestamp": "2025-06-15T10:00:00+00:00",
+    "email": "user41300@outlook.com",
+    "device_fingerprint": "fp_c79f6125dfd2",
+    "ip_hash": "ip_b39220",
+    "country": "NL",
+    "utm_source": "google"
+  },
+  {
+    "signup_id": "s0116",
+    "affiliate_id": "aff_002",
+    "timestamp": "2025-06-22T20:00:00+00:00",
+    "email": "user74923@outlook.com",
+    "device_fingerprint": "fp_a1530dabc25d",
+    "ip_hash": "ip_b26129",
+    "country": "ZA",
+    "utm_source": "twitter"
+  },
+  {
+    "signup_id": "s0117",
+    "affiliate_id": "aff_002",
+    "timestamp": "2025-06-01T23:00:00+00:00",
+    "email": "user63736@outlook.com",
+    "device_fingerprint": "fp_9bf0ba399463",
+    "ip_hash": "ip_b2920",
+    "country": "SE",
+    "utm_source": "twitter"
+  },
+  {
+    "signup_id": "s0118",
+    "affiliate_id": "aff_002",
+    "timestamp": "2025-06-28T17:00:00+00:00",
+    "email": "user51505@protonmail.com",
+    "device_fingerprint": "fp_5f0f6e602e4a",
+    "ip_hash": "ip_b72224",
+    "country": "BR",
+    "utm_source": "google"
+  },
+  {
+    "signup_id": "s0119",
+    "affiliate_id": "aff_002",
+    "timestamp": "2025-06-24T02:00:00+00:00",
+    "email": "user22903@protonmail.com",
+    "device_fingerprint": "fp_1c7f12590cf8",
+    "ip_hash": "ip_b22114",
+    "country": "DE",
+    "utm_source": "twitter"
+  },
+  {
+    "signup_id": "s0120",
+    "affiliate_id": "aff_002",
+    "timestamp": "2025-06-12T13:00:00+00:00",
+    "email": "user42007@outlook.com",
+    "device_fingerprint": "fp_d079c4709108",
+    "ip_hash": "ip_b82175",
+    "country": "DE",
+    "utm_source": "facebook"
+  },
+  {
+    "signup_id": "s0121",
+    "affiliate_id": "aff_002",
+    "timestamp": "2025-06-30T18:00:00+00:00",
+    "email": "user40433@outlook.com",
+    "device_fingerprint": "fp_8b590e5128ce",
+    "ip_hash": "ip_b42118",
+    "country": "CA",
+    "utm_source": "google"
+  },
+  {
+    "signup_id": "s0122",
+    "affiliate_id": "aff_002",
+    "timestamp": "2025-06-03T14:00:00+00:00",
+    "email": "user87014@yahoo.com",
+    "device_fingerprint": "fp_3d456e451ee2",
+    "ip_hash": "ip_b64177",
+    "country": "CA",
+    "utm_source": "email"
+  },
+  {
+    "signup_id": "s0123",
+    "affiliate_id": "aff_002",
+    "timestamp": "2025-06-08T12:00:00+00:00",
+    "email": "user57049@hotmail.com",
+    "device_fingerprint": "fp_a0c0b1c790fe",
+    "ip_hash": "ip_b9976",
+    "country": "US",
+    "utm_source": "email"
+  },
+  {
+    "signup_id": "s0124",
+    "affiliate_id": "aff_002",
+    "timestamp": "2025-06-24T15:00:00+00:00",
+    "email": "user40162@yahoo.com",
+    "device_fingerprint": "fp_ad986c2f3334",
+    "ip_hash": "ip_b5557",
+    "country": "FR",
+    "utm_source": "twitter"
+  },
+  {
+    "signup_id": "s0125",
+    "affiliate_id": "aff_002",
+    "timestamp": "2025-06-04T20:00:00+00:00",
+    "email": "user50492@gmail.com",
+    "device_fingerprint": "fp_5f38cd44a7c9",
+    "ip_hash": "ip_b14149",
+    "country": "AU",
+    "utm_source": "facebook"
+  },
+  {
+    "signup_id": "s0126",
+    "affiliate_id": "aff_002",
+    "timestamp": "2025-06-05T17:00:00+00:00",
+    "email": "user79579@yahoo.com",
+    "device_fingerprint": "fp_f5b2ae24e960",
+    "ip_hash": "ip_b44213",
+    "country": "DE",
+    "utm_source": "twitter"
+  },
+  {
+    "signup_id": "s0127",
+    "affiliate_id": "aff_002",
+    "timestamp": "2025-06-26T03:00:00+00:00",
+    "email": "user19869@protonmail.com",
+    "device_fingerprint": "fp_826d7850de71",
+    "ip_hash": "ip_b38221",
+    "country": "NL",
+    "utm_source": "twitter"
+  },
+  {
+    "signup_id": "s0128",
+    "affiliate_id": "aff_002",
+    "timestamp": "2025-06-12T21:00:00+00:00",
+    "email": "user86619@yahoo.com",
+    "device_fingerprint": "fp_a10c99d3465d",
+    "ip_hash": "ip_b91241",
+    "country": "AU",
+    "utm_source": "google"
+  },
+  {
+    "signup_id": "s0129",
+    "affiliate_id": "aff_002",
+    "timestamp": "2025-06-30T19:00:00+00:00",
+    "email": "user94889@outlook.com",
+    "device_fingerprint": "fp_389598cef864",
+    "ip_hash": "ip_b69233",
+    "country": "CA",
+    "utm_source": "email"
+  },
+  {
+    "signup_id": "s0130",
+    "affiliate_id": "aff_002",
+    "timestamp": "2025-06-04T07:00:00+00:00",
+    "email": "user27781@hotmail.com",
+    "device_fingerprint": "fp_e8b217207ede",
+    "ip_hash": "ip_b57172",
+    "country": "BR",
+    "utm_source": "email"
+  },
+  {
+    "signup_id": "s0131",
+    "affiliate_id": "aff_002",
+    "timestamp": "2025-06-20T13:00:00+00:00",
+    "email": "user14288@yahoo.com",
+    "device_fingerprint": "fp_acf4426e1869",
+    "ip_hash": "ip_b37114",
+    "country": "SE",
+    "utm_source": "facebook"
+  },
+  {
+    "signup_id": "s0132",
+    "affiliate_id": "aff_002",
+    "timestamp": "2025-06-12T01:00:00+00:00",
+    "email": "user46160@protonmail.com",
+    "device_fingerprint": "fp_f1584251d586",
+    "ip_hash": "ip_b25243",
+    "country": "SE",
+    "utm_source": "google"
+  },
+  {
+    "signup_id": "s0133",
+    "affiliate_id": "aff_002",
+    "timestamp": "2025-06-26T10:00:00+00:00",
+    "email": "user26505@outlook.com",
+    "device_fingerprint": "fp_00cc12ab73d4",
+    "ip_hash": "ip_b3618",
+    "country": "BR",
+    "utm_source": "facebook"
+  },
+  {
+    "signup_id": "s0134",
+    "affiliate_id": "aff_002",
+    "timestamp": "2025-06-01T08:00:00+00:00",
+    "email": "user27038@outlook.com",
+    "device_fingerprint": "fp_f1766e2887a5",
+    "ip_hash": "ip_b3229",
+    "country": "US",
+    "utm_source": "facebook"
+  },
+  {
+    "signup_id": "s0135",
+    "affiliate_id": "aff_002",
+    "timestamp": "2025-06-06T08:00:00+00:00",
+    "email": "user26614@gmail.com",
+    "device_fingerprint": "fp_c8bd462a7d98",
+    "ip_hash": "ip_b7730",
+    "country": "GB",
+    "utm_source": "email"
+  },
+  {
+    "signup_id": "s0136",
+    "affiliate_id": "aff_002",
+    "timestamp": "2025-06-08T19:00:00+00:00",
+    "email": "user96363@gmail.com",
+    "device_fingerprint": "fp_cde200a88667",
+    "ip_hash": "ip_b68165",
+    "country": "US",
+    "utm_source": "google"
+  },
+  {
+    "signup_id": "s0137",
+    "affiliate_id": "aff_002",
+    "timestamp": "2025-06-23T14:00:00+00:00",
+    "email": "user20589@gmail.com",
+    "device_fingerprint": "fp_bc62b757aa13",
+    "ip_hash": "ip_b2817",
+    "country": "DE",
+    "utm_source": "twitter"
+  },
+  {
+    "signup_id": "s0138",
+    "affiliate_id": "aff_002",
+    "timestamp": "2025-06-17T09:00:00+00:00",
+    "email": "user76263@protonmail.com",
+    "device_fingerprint": "fp_76bcef0a96ae",
+    "ip_hash": "ip_b22204",
+    "country": "GB",
+    "utm_source": "facebook"
+  },
+  {
+    "signup_id": "s0139",
+    "affiliate_id": "aff_002",
+    "timestamp": "2025-06-14T23:00:00+00:00",
+    "email": "user50966@gmail.com",
+    "device_fingerprint": "fp_426505b6ee32",
+    "ip_hash": "ip_b9566",
+    "country": "AU",
+    "utm_source": "facebook"
+  },
+  {
+    "signup_id": "s0140",
+    "affiliate_id": "aff_002",
+    "timestamp": "2025-06-14T03:00:00+00:00",
+    "email": "user27054@yahoo.com",
+    "device_fingerprint": "fp_af5bfbe92a84",
+    "ip_hash": "ip_b85245",
+    "country": "BR",
+    "utm_source": "twitter"
+  },
+  {
+    "signup_id": "s0141",
+    "affiliate_id": "aff_002",
+    "timestamp": "2025-06-10T19:00:00+00:00",
+    "email": "user56090@yahoo.com",
+    "device_fingerprint": "fp_ee561d21ff99",
+    "ip_hash": "ip_b7455",
+    "country": "DE",
+    "utm_source": "email"
+  },
+  {
+    "signup_id": "s0142",
+    "affiliate_id": "aff_002",
+    "timestamp": "2025-06-25T08:00:00+00:00",
+    "email": "user39643@hotmail.com",
+    "device_fingerprint": "fp_d1f21d270a44",
+    "ip_hash": "ip_b81250",
+    "country": "ZA",
+    "utm_source": "google"
+  },
+  {
+    "signup_id": "s0143",
+    "affiliate_id": "aff_002",
+    "timestamp": "2025-06-09T22:00:00+00:00",
+    "email": "user54541@yahoo.com",
+    "device_fingerprint": "fp_2329928a3eed",
+    "ip_hash": "ip_b33223",
+    "country": "DE",
+    "utm_source": "email"
+  },
+  {
+    "signup_id": "s0144",
+    "affiliate_id": "aff_002",
+    "timestamp": "2025-06-07T12:00:00+00:00",
+    "email": "user69460@protonmail.com",
+    "device_fingerprint": "fp_18079688f463",
+    "ip_hash": "ip_b5780",
+    "country": "AU",
+    "utm_source": "google"
+  },
+  {
+    "signup_id": "s0145",
+    "affiliate_id": "aff_002",
+    "timestamp": "2025-06-03T08:00:00+00:00",
+    "email": "user96761@protonmail.com",
+    "device_fingerprint": "fp_b8964345dbf2",
+    "ip_hash": "ip_b87114",
+    "country": "NL",
+    "utm_source": "twitter"
+  },
+  {
+    "signup_id": "s0146",
+    "affiliate_id": "aff_002",
+    "timestamp": "2025-06-22T21:00:00+00:00",
+    "email": "user73783@hotmail.com",
+    "device_fingerprint": "fp_2b766cb10be9",
+    "ip_hash": "ip_b4912",
+    "country": "FR",
+    "utm_source": "email"
+  },
+  {
+    "signup_id": "s0147",
+    "affiliate_id": "aff_002",
+    "timestamp": "2025-06-25T08:00:00+00:00",
+    "email": "user53007@yahoo.com",
+    "device_fingerprint": "fp_ddc8db96f3e0",
+    "ip_hash": "ip_b73192",
+    "country": "NL",
+    "utm_source": "facebook"
+  },
+  {
+    "signup_id": "s0148",
+    "affiliate_id": "aff_002",
+    "timestamp": "2025-06-26T11:00:00+00:00",
+    "email": "user62044@gmail.com",
+    "device_fingerprint": "fp_435620692e5f",
+    "ip_hash": "ip_b15112",
+    "country": "US",
+    "utm_source": "email"
+  },
+  {
+    "signup_id": "s0149",
+    "affiliate_id": "aff_002",
+    "timestamp": "2025-06-23T20:00:00+00:00",
+    "email": "user47947@protonmail.com",
+    "device_fingerprint": "fp_c02a77903fda",
+    "ip_hash": "ip_b12248",
+    "country": "AU",
+    "utm_source": "facebook"
+  },
+  {
+    "signup_id": "s0150",
+    "affiliate_id": "aff_002",
+    "timestamp": "2025-06-14T03:00:00+00:00",
+    "email": "user67104@outlook.com",
+    "device_fingerprint": "fp_6d9a633260fa",
+    "ip_hash": "ip_b7721",
+    "country": "NL",
+    "utm_source": "twitter"
+  },
+  {
+    "signup_id": "s0151",
+    "affiliate_id": "aff_002",
+    "timestamp": "2025-06-21T03:00:00+00:00",
+    "email": "user76840@hotmail.com",
+    "device_fingerprint": "fp_92522489c258",
+    "ip_hash": "ip_b5490",
+    "country": "DE",
+    "utm_source": "facebook"
+  },
+  {
+    "signup_id": "s0152",
+    "affiliate_id": "aff_002",
+    "timestamp": "2025-06-03T05:00:00+00:00",
+    "email": "user70811@protonmail.com",
+    "device_fingerprint": "fp_3156aa123e07",
+    "ip_hash": "ip_b84115",
+    "country": "ZA",
+    "utm_source": "twitter"
+  },
+  {
+    "signup_id": "s0153",
+    "affiliate_id": "aff_002",
+    "timestamp": "2025-06-15T20:00:00+00:00",
+    "email": "user46002@yahoo.com",
+    "device_fingerprint": "fp_6207164cc34d",
+    "ip_hash": "ip_b55130",
+    "country": "GB",
+    "utm_source": "twitter"
+  },
+  {
+    "signup_id": "s0154",
+    "affiliate_id": "aff_002",
+    "timestamp": "2025-06-21T02:00:00+00:00",
+    "email": "user87867@hotmail.com",
+    "device_fingerprint": "fp_8db011a85b7f",
+    "ip_hash": "ip_b69149",
+    "country": "BR",
+    "utm_source": "google"
+  },
+  {
+    "signup_id": "s0155",
+    "affiliate_id": "aff_002",
+    "timestamp": "2025-06-16T16:00:00+00:00",
+    "email": "user18109@outlook.com",
+    "device_fingerprint": "fp_dc8cc487a293",
+    "ip_hash": "ip_b53252",
+    "country": "GB",
+    "utm_source": "facebook"
+  },
+  {
+    "signup_id": "s0156",
+    "affiliate_id": "aff_002",
+    "timestamp": "2025-06-20T05:00:00+00:00",
+    "email": "user58870@yahoo.com",
+    "device_fingerprint": "fp_25da0927334b",
+    "ip_hash": "ip_b59105",
+    "country": "AU",
+    "utm_source": "google"
+  },
+  {
+    "signup_id": "s0157",
+    "affiliate_id": "aff_002",
+    "timestamp": "2025-06-22T12:00:00+00:00",
+    "email": "user43029@yahoo.com",
+    "device_fingerprint": "fp_55eae65828b7",
+    "ip_hash": "ip_b94247",
+    "country": "ZA",
+    "utm_source": "facebook"
+  },
+  {
+    "signup_id": "s0158",
+    "affiliate_id": "aff_002",
+    "timestamp": "2025-06-21T22:00:00+00:00",
+    "email": "user26901@protonmail.com",
+    "device_fingerprint": "fp_6b9d0f4df584",
+    "ip_hash": "ip_b2080",
+    "country": "BR",
+    "utm_source": "email"
+  },
+  {
+    "signup_id": "s0159",
+    "affiliate_id": "aff_002",
+    "timestamp": "2025-06-21T21:00:00+00:00",
+    "email": "user76648@protonmail.com",
+    "device_fingerprint": "fp_80292c1fc1b6",
+    "ip_hash": "ip_b5680",
+    "country": "DE",
+    "utm_source": "facebook"
+  },
+  {
+    "signup_id": "s0160",
+    "affiliate_id": "aff_002",
+    "timestamp": "2025-06-03T09:00:00+00:00",
+    "email": "user76543@gmail.com",
+    "device_fingerprint": "fp_742921a6c17a",
+    "ip_hash": "ip_b7710",
+    "country": "AU",
+    "utm_source": "facebook"
+  },
+  {
+    "signup_id": "s0161",
+    "affiliate_id": "aff_002",
+    "timestamp": "2025-06-24T14:00:00+00:00",
+    "email": "user63852@gmail.com",
+    "device_fingerprint": "fp_2d57e2d221f3",
+    "ip_hash": "ip_b40249",
+    "country": "SE",
+    "utm_source": "twitter"
+  },
+  {
+    "signup_id": "s0162",
+    "affiliate_id": "aff_002",
+    "timestamp": "2025-06-26T15:00:00+00:00",
+    "email": "user58213@outlook.com",
+    "device_fingerprint": "fp_ca8c67e50758",
+    "ip_hash": "ip_b83253",
+    "country": "SE",
+    "utm_source": "email"
+  },
+  {
+    "signup_id": "s0163",
+    "affiliate_id": "aff_002",
+    "timestamp": "2025-06-27T06:00:00+00:00",
+    "email": "user28140@hotmail.com",
+    "device_fingerprint": "fp_f537b02b1ed2",
+    "ip_hash": "ip_b16165",
+    "country": "SE",
+    "utm_source": "twitter"
+  },
+  {
+    "signup_id": "s0164",
+    "affiliate_id": "aff_002",
+    "timestamp": "2025-06-03T05:00:00+00:00",
+    "email": "user68893@yahoo.com",
+    "device_fingerprint": "fp_0236b7286a18",
+    "ip_hash": "ip_b28213",
+    "country": "NL",
+    "utm_source": "google"
+  },
+  {
+    "signup_id": "s0165",
+    "affiliate_id": "aff_002",
+    "timestamp": "2025-06-14T01:00:00+00:00",
+    "email": "user75799@protonmail.com",
+    "device_fingerprint": "fp_87fb11248d1a",
+    "ip_hash": "ip_b5921",
+    "country": "AU",
+    "utm_source": "facebook"
+  },
+  {
+    "signup_id": "s0166",
+    "affiliate_id": "aff_002",
+    "timestamp": "2025-06-05T01:00:00+00:00",
+    "email": "user71925@yahoo.com",
+    "device_fingerprint": "fp_6a2032009ec4",
+    "ip_hash": "ip_b27195",
+    "country": "SE",
+    "utm_source": "email"
+  },
+  {
+    "signup_id": "s0167",
+    "affiliate_id": "aff_002",
+    "timestamp": "2025-06-18T23:00:00+00:00",
+    "email": "user79176@hotmail.com",
+    "device_fingerprint": "fp_ea20dc9e40c5",
+    "ip_hash": "ip_b4661",
+    "country": "CA",
+    "utm_source": "google"
+  },
+  {
+    "signup_id": "s0168",
+    "affiliate_id": "aff_002",
+    "timestamp": "2025-06-04T15:00:00+00:00",
+    "email": "user80261@hotmail.com",
+    "device_fingerprint": "fp_28104eb89791",
+    "ip_hash": "ip_b75148",
+    "country": "FR",
+    "utm_source": "facebook"
+  },
+  {
+    "signup_id": "s0169",
+    "affiliate_id": "aff_002",
+    "timestamp": "2025-06-06T21:00:00+00:00",
+    "email": "user78614@gmail.com",
+    "device_fingerprint": "fp_bfb1adcff317",
+    "ip_hash": "ip_b18245",
+    "country": "BR",
+    "utm_source": "google"
+  },
+  {
+    "signup_id": "s0170",
+    "affiliate_id": "aff_002",
+    "timestamp": "2025-06-24T00:00:00+00:00",
+    "email": "user18855@yahoo.com",
+    "device_fingerprint": "fp_fcb52dd10032",
+    "ip_hash": "ip_b94161",
+    "country": "GB",
+    "utm_source": "twitter"
+  },
+  {
+    "signup_id": "s0171",
+    "affiliate_id": "aff_002",
+    "timestamp": "2025-06-15T22:00:00+00:00",
+    "email": "user92802@protonmail.com",
+    "device_fingerprint": "fp_d52df747091a",
+    "ip_hash": "ip_b2717",
+    "country": "SE",
+    "utm_source": "google"
+  },
+  {
+    "signup_id": "s0172",
+    "affiliate_id": "aff_002",
+    "timestamp": "2025-06-30T09:00:00+00:00",
+    "email": "user62196@hotmail.com",
+    "device_fingerprint": "fp_5f35e9c94acc",
+    "ip_hash": "ip_b79122",
+    "country": "CA",
+    "utm_source": "google"
+  },
+  {
+    "signup_id": "s0173",
+    "affiliate_id": "aff_002",
+    "timestamp": "2025-06-11T08:00:00+00:00",
+    "email": "user58237@gmail.com",
+    "device_fingerprint": "fp_710f993c1ce5",
+    "ip_hash": "ip_b61191",
+    "country": "SE",
+    "utm_source": "email"
+  },
+  {
+    "signup_id": "s0174",
+    "affiliate_id": "aff_002",
+    "timestamp": "2025-06-09T02:00:00+00:00",
+    "email": "user20345@protonmail.com",
+    "device_fingerprint": "fp_1e1cbfbc082e",
+    "ip_hash": "ip_b33140",
+    "country": "CA",
+    "utm_source": "twitter"
+  },
+  {
+    "signup_id": "s0175",
+    "affiliate_id": "aff_002",
+    "timestamp": "2025-06-23T13:00:00+00:00",
+    "email": "user68183@outlook.com",
+    "device_fingerprint": "fp_bd1dec6e92be",
+    "ip_hash": "ip_b15187",
+    "country": "AU",
+    "utm_source": "email"
+  },
+  {
+    "signup_id": "s0176",
+    "affiliate_id": "aff_002",
+    "timestamp": "2025-06-21T12:00:00+00:00",
+    "email": "user77251@yahoo.com",
+    "device_fingerprint": "fp_a077d1a44429",
+    "ip_hash": "ip_b9641",
+    "country": "US",
+    "utm_source": "facebook"
+  },
+  {
+    "signup_id": "s0177",
+    "affiliate_id": "aff_002",
+    "timestamp": "2025-06-08T20:00:00+00:00",
+    "email": "user57467@yahoo.com",
+    "device_fingerprint": "fp_a64703038a2f",
+    "ip_hash": "ip_b8209",
+    "country": "ZA",
+    "utm_source": "facebook"
+  },
+  {
+    "signup_id": "s0178",
+    "affiliate_id": "aff_002",
+    "timestamp": "2025-06-05T16:00:00+00:00",
+    "email": "user62171@yahoo.com",
+    "device_fingerprint": "fp_6ed33fff22f7",
+    "ip_hash": "ip_b4564",
+    "country": "GB",
+    "utm_source": "google"
+  },
+  {
+    "signup_id": "s0179",
+    "affiliate_id": "aff_002",
+    "timestamp": "2025-06-09T08:00:00+00:00",
+    "email": "user38124@protonmail.com",
+    "device_fingerprint": "fp_83e997930ac7",
+    "ip_hash": "ip_b46178",
+    "country": "SE",
+    "utm_source": "facebook"
+  },
+  {
+    "signup_id": "s0180",
+    "affiliate_id": "aff_002",
+    "timestamp": "2025-06-26T21:00:00+00:00",
+    "email": "user97535@yahoo.com",
+    "device_fingerprint": "fp_df544dcb4d03",
+    "ip_hash": "ip_b18141",
+    "country": "BR",
+    "utm_source": "twitter"
+  },
+  {
+    "signup_id": "s0181",
+    "affiliate_id": "aff_002",
+    "timestamp": "2025-06-26T11:00:00+00:00",
+    "email": "user39391@hotmail.com",
+    "device_fingerprint": "fp_23e5ebafe895",
+    "ip_hash": "ip_b35203",
+    "country": "DE",
+    "utm_source": "facebook"
+  },
+  {
+    "signup_id": "s0182",
+    "affiliate_id": "aff_002",
+    "timestamp": "2025-06-26T17:00:00+00:00",
+    "email": "user90209@outlook.com",
+    "device_fingerprint": "fp_c49d0c3ee069",
+    "ip_hash": "ip_b1880",
+    "country": "NL",
+    "utm_source": "email"
+  },
+  {
+    "signup_id": "s0183",
+    "affiliate_id": "aff_002",
+    "timestamp": "2025-06-11T20:00:00+00:00",
+    "email": "user68979@gmail.com",
+    "device_fingerprint": "fp_699b3f65e07e",
+    "ip_hash": "ip_b7689",
+    "country": "DE",
+    "utm_source": "facebook"
+  },
+  {
+    "signup_id": "s0184",
+    "affiliate_id": "aff_002",
+    "timestamp": "2025-06-17T04:00:00+00:00",
+    "email": "user31581@yahoo.com",
+    "device_fingerprint": "fp_4b5d2349e10b",
+    "ip_hash": "ip_b3889",
+    "country": "BR",
+    "utm_source": "twitter"
+  },
+  {
+    "signup_id": "s0185",
+    "affiliate_id": "aff_002",
+    "timestamp": "2025-06-05T20:00:00+00:00",
+    "email": "user90534@yahoo.com",
+    "device_fingerprint": "fp_30a1749a5993",
+    "ip_hash": "ip_b74165",
+    "country": "DE",
+    "utm_source": "facebook"
+  },
+  {
+    "signup_id": "s0186",
+    "affiliate_id": "aff_002",
+    "timestamp": "2025-06-02T00:00:00+00:00",
+    "email": "user15958@gmail.com",
+    "device_fingerprint": "fp_ecbd607d56b9",
+    "ip_hash": "ip_b8368",
+    "country": "FR",
+    "utm_source": "email"
+  },
+  {
+    "signup_id": "s0187",
+    "affiliate_id": "aff_002",
+    "timestamp": "2025-06-21T09:00:00+00:00",
+    "email": "user42096@protonmail.com",
+    "device_fingerprint": "fp_c4baea7038cb",
+    "ip_hash": "ip_b97104",
+    "country": "CA",
+    "utm_source": "email"
+  },
+  {
+    "signup_id": "s0188",
+    "affiliate_id": "aff_002",
+    "timestamp": "2025-06-07T10:00:00+00:00",
+    "email": "user28830@hotmail.com",
+    "device_fingerprint": "fp_1691a57ae8a9",
+    "ip_hash": "ip_b50188",
+    "country": "AU",
+    "utm_source": "email"
+  },
+  {
+    "signup_id": "s0189",
+    "affiliate_id": "aff_002",
+    "timestamp": "2025-06-15T03:00:00+00:00",
+    "email": "user68929@yahoo.com",
+    "device_fingerprint": "fp_14f90ac4d4e4",
+    "ip_hash": "ip_b2213",
+    "country": "CA",
+    "utm_source": "email"
+  },
+  {
+    "signup_id": "s0190",
+    "affiliate_id": "aff_002",
+    "timestamp": "2025-06-30T18:00:00+00:00",
+    "email": "user34881@yahoo.com",
+    "device_fingerprint": "fp_2d2aa112b17c",
+    "ip_hash": "ip_b73132",
+    "country": "SE",
+    "utm_source": "email"
+  },
+  {
+    "signup_id": "s0191",
+    "affiliate_id": "aff_002",
+    "timestamp": "2025-06-15T07:00:00+00:00",
+    "email": "user86460@outlook.com",
+    "device_fingerprint": "fp_76f4aca725bb",
+    "ip_hash": "ip_b1673",
+    "country": "SE",
+    "utm_source": "email"
+  },
+  {
+    "signup_id": "s0192",
+    "affiliate_id": "aff_002",
+    "timestamp": "2025-06-24T11:00:00+00:00",
+    "email": "user57964@protonmail.com",
+    "device_fingerprint": "fp_a025e4d20afc",
+    "ip_hash": "ip_b16146",
+    "country": "BR",
+    "utm_source": "facebook"
+  },
+  {
+    "signup_id": "s0193",
+    "affiliate_id": "aff_002",
+    "timestamp": "2025-06-09T19:00:00+00:00",
+    "email": "user25572@hotmail.com",
+    "device_fingerprint": "fp_4c1b4f96e572",
+    "ip_hash": "ip_b22101",
+    "country": "AU",
+    "utm_source": "twitter"
+  },
+  {
+    "signup_id": "s0194",
+    "affiliate_id": "aff_002",
+    "timestamp": "2025-06-13T16:00:00+00:00",
+    "email": "user15938@gmail.com",
+    "device_fingerprint": "fp_f89016ebebf8",
+    "ip_hash": "ip_b52206",
+    "country": "SE",
+    "utm_source": "email"
+  },
+  {
+    "signup_id": "s0195",
+    "affiliate_id": "aff_002",
+    "timestamp": "2025-06-06T12:00:00+00:00",
+    "email": "user49221@hotmail.com",
+    "device_fingerprint": "fp_954f6330fd8d",
+    "ip_hash": "ip_b74213",
+    "country": "BR",
+    "utm_source": "email"
+  },
+  {
+    "signup_id": "s0196",
+    "affiliate_id": "aff_002",
+    "timestamp": "2025-06-22T03:00:00+00:00",
+    "email": "user86507@protonmail.com",
+    "device_fingerprint": "fp_dc4755300679",
+    "ip_hash": "ip_b98162",
+    "country": "US",
+    "utm_source": "email"
+  },
+  {
+    "signup_id": "s0197",
+    "affiliate_id": "aff_002",
+    "timestamp": "2025-06-08T23:00:00+00:00",
+    "email": "user86483@gmail.com",
+    "device_fingerprint": "fp_b45e6af0df86",
+    "ip_hash": "ip_b77162",
+    "country": "ZA",
+    "utm_source": "email"
+  },
+  {
+    "signup_id": "s0198",
+    "affiliate_id": "aff_002",
+    "timestamp": "2025-06-01T14:00:00+00:00",
+    "email": "user64890@yahoo.com",
+    "device_fingerprint": "fp_f921336cceba",
+    "ip_hash": "ip_b9853",
+    "country": "NL",
+    "utm_source": "email"
+  },
+  {
+    "signup_id": "s0199",
+    "affiliate_id": "aff_003",
+    "timestamp": "2025-06-04T17:00:00+00:00",
+    "email": "acct8837@yahoo.com",
+    "device_fingerprint": "fp_88bc28717d10",
+    "ip_hash": "ip_c081",
+    "country": "GB",
+    "utm_source": "email"
+  },
+  {
+    "signup_id": "s0200",
+    "affiliate_id": "aff_003",
+    "timestamp": "2025-06-08T06:00:00+00:00",
+    "email": "acct5571@outlook.com",
+    "device_fingerprint": "fp_70e64e94257e",
+    "ip_hash": "ip_c058",
+    "country": "DE",
+    "utm_source": "influencer_b"
+  },
+  {
+    "signup_id": "s0201",
+    "affiliate_id": "aff_003",
+    "timestamp": "2025-06-06T17:00:00+00:00",
+    "email": "acct5480@guerrillamail.com",
+    "device_fingerprint": "fp_1b70384f904b",
+    "ip_hash": "ip_c0147",
+    "country": "CA",
+    "utm_source": "email"
+  },
+  {
+    "signup_id": "s0202",
+    "affiliate_id": "aff_003",
+    "timestamp": "2025-06-01T09:00:00+00:00",
+    "email": "acct2294@tempmail.io",
+    "device_fingerprint": "fp_f4a19d0249bc",
+    "ip_hash": "ip_c0114",
+    "country": "DE",
+    "utm_source": "influencer_a"
+  },
+  {
+    "signup_id": "s0203",
+    "affiliate_id": "aff_003",
+    "timestamp": "2025-06-02T19:00:00+00:00",
+    "email": "acct4920@tempmail.io",
+    "device_fingerprint": "fp_4071e939ed56",
+    "ip_hash": "ip_c0172",
+    "country": "CA",
+    "utm_source": "facebook"
+  },
+  {
+    "signup_id": "s0204",
+    "affiliate_id": "aff_003",
+    "timestamp": "2025-06-11T04:00:00+00:00",
+    "email": "acct3587@gmail.com",
+    "device_fingerprint": "fp_ff59eff15e45",
+    "ip_hash": "ip_c0240",
+    "country": "FR",
+    "utm_source": "email"
+  },
+  {
+    "signup_id": "s0205",
+    "affiliate_id": "aff_003",
+    "timestamp": "2025-06-15T02:00:00+00:00",
+    "email": "acct4804@tempmail.io",
+    "device_fingerprint": "fp_9e6e339533b3",
+    "ip_hash": "ip_c0186",
+    "country": "US",
+    "utm_source": "facebook"
+  },
+  {
+    "signup_id": "s0206",
+    "affiliate_id": "aff_003",
+    "timestamp": "2025-06-13T15:00:00+00:00",
+    "email": "acct5742@outlook.com",
+    "device_fingerprint": "fp_40feafcfba1a",
+    "ip_hash": "ip_c003",
+    "country": "DE",
+    "utm_source": "direct"
+  },
+  {
+    "signup_id": "s0207",
+    "affiliate_id": "aff_003",
+    "timestamp": "2025-06-09T15:00:00+00:00",
+    "email": "acct9261@outlook.com",
+    "device_fingerprint": "fp_235e04fde575",
+    "ip_hash": "ip_c050",
+    "country": "US",
+    "utm_source": "twitter"
+  },
+  {
+    "signup_id": "s0208",
+    "affiliate_id": "aff_003",
+    "timestamp": "2025-06-12T10:00:00+00:00",
+    "email": "acct5833@guerrillamail.com",
+    "device_fingerprint": "fp_eb2a35b5c035",
+    "ip_hash": "ip_c0194",
+    "country": "GB",
+    "utm_source": "facebook"
+  },
+  {
+    "signup_id": "s0209",
+    "affiliate_id": "aff_003",
+    "timestamp": "2025-06-06T02:00:00+00:00",
+    "email": "acct2562@protonmail.com",
+    "device_fingerprint": "fp_4fb47c33570d",
+    "ip_hash": "ip_c036",
+    "country": "FR",
+    "utm_source": "twitter"
+  },
+  {
+    "signup_id": "s0210",
+    "affiliate_id": "aff_003",
+    "timestamp": "2025-06-06T09:00:00+00:00",
+    "email": "acct1187@hotmail.com",
+    "device_fingerprint": "fp_45f1ab3e92a7",
+    "ip_hash": "ip_c093",
+    "country": "GB",
+    "utm_source": "google"
+  },
+  {
+    "signup_id": "s0211",
+    "affiliate_id": "aff_003",
+    "timestamp": "2025-06-11T09:00:00+00:00",
+    "email": "acct4618@yahoo.com",
+    "device_fingerprint": "fp_a638fe0a1647",
+    "ip_hash": "ip_c035",
+    "country": "FR",
+    "utm_source": "facebook"
+  },
+  {
+    "signup_id": "s0212",
+    "affiliate_id": "aff_003",
+    "timestamp": "2025-06-13T21:00:00+00:00",
+    "email": "acct4578@guerrillamail.com",
+    "device_fingerprint": "fp_91de4eaf23bf",
+    "ip_hash": "ip_c0175",
+    "country": "CA",
+    "utm_source": "influencer_b"
+  },
+  {
+    "signup_id": "s0213",
+    "affiliate_id": "aff_003",
+    "timestamp": "2025-06-15T18:00:00+00:00",
+    "email": "acct2011@gmail.com",
+    "device_fingerprint": "fp_17758ecd0642",
+    "ip_hash": "ip_c0232",
+    "country": "CA",
+    "utm_source": "facebook"
+  },
+  {
+    "signup_id": "s0214",
+    "affiliate_id": "aff_003",
+    "timestamp": "2025-06-11T06:00:00+00:00",
+    "email": "acct9008@tempmail.io",
+    "device_fingerprint": "fp_b3dc0cb33f30",
+    "ip_hash": "ip_c0131",
+    "country": "FR",
+    "utm_source": "influencer_b"
+  },
+  {
+    "signup_id": "s0215",
+    "affiliate_id": "aff_003",
+    "timestamp": "2025-06-08T21:00:00+00:00",
+    "email": "acct6049@guerrillamail.com",
+    "device_fingerprint": "fp_5e0bed3021ab",
+    "ip_hash": "ip_c0102",
+    "country": "DE",
+    "utm_source": "influencer_b"
+  },
+  {
+    "signup_id": "s0216",
+    "affiliate_id": "aff_003",
+    "timestamp": "2025-06-12T02:00:00+00:00",
+    "email": "acct1987@hotmail.com",
+    "device_fingerprint": "fp_92d1a849244c",
+    "ip_hash": "ip_c018",
+    "country": "FR",
+    "utm_source": "google"
+  },
+  {
+    "signup_id": "s0217",
+    "affiliate_id": "aff_003",
+    "timestamp": "2025-06-15T12:00:00+00:00",
+    "email": "acct7184@protonmail.com",
+    "device_fingerprint": "fp_08cac0088774",
+    "ip_hash": "ip_c0175",
+    "country": "CA",
+    "utm_source": "facebook"
+  },
+  {
+    "signup_id": "s0218",
+    "affiliate_id": "aff_003",
+    "timestamp": "2025-06-03T23:00:00+00:00",
+    "email": "acct1056@outlook.com",
+    "device_fingerprint": "fp_12de87e0991c",
+    "ip_hash": "ip_c0251",
+    "country": "DE",
+    "utm_source": "email"
+  },
+  {
+    "signup_id": "s0219",
+    "affiliate_id": "aff_003",
+    "timestamp": "2025-06-08T11:00:00+00:00",
+    "email": "acct5516@outlook.com",
+    "device_fingerprint": "fp_06711e3a978e",
+    "ip_hash": "ip_c0225",
+    "country": "US",
+    "utm_source": "google"
+  },
+  {
+    "signup_id": "s0220",
+    "affiliate_id": "aff_003",
+    "timestamp": "2025-06-04T02:00:00+00:00",
+    "email": "acct1550@gmail.com",
+    "device_fingerprint": "fp_f1563cde0af6",
+    "ip_hash": "ip_c0173",
+    "country": "US",
+    "utm_source": "facebook"
+  },
+  {
+    "signup_id": "s0221",
+    "affiliate_id": "aff_003",
+    "timestamp": "2025-06-03T16:00:00+00:00",
+    "email": "acct4836@yahoo.com",
+    "device_fingerprint": "fp_cda35fe8060c",
+    "ip_hash": "ip_c0188",
+    "country": "CA",
+    "utm_source": "twitter"
+  },
+  {
+    "signup_id": "s0222",
+    "affiliate_id": "aff_003",
+    "timestamp": "2025-06-15T04:00:00+00:00",
+    "email": "acct9540@tempmail.io",
+    "device_fingerprint": "fp_39b46f31b4c3",
+    "ip_hash": "ip_c077",
+    "country": "DE",
+    "utm_source": "google"
+  },
+  {
+    "signup_id": "s0223",
+    "affiliate_id": "aff_003",
+    "timestamp": "2025-06-09T15:00:00+00:00",
+    "email": "acct6642@gmail.com",
+    "device_fingerprint": "fp_8ce8c80532b0",
+    "ip_hash": "ip_c0172",
+    "country": "FR",
+    "utm_source": "influencer_b"
+  },
+  {
+    "signup_id": "s0224",
+    "affiliate_id": "aff_003",
+    "timestamp": "2025-06-03T17:00:00+00:00",
+    "email": "acct4948@protonmail.com",
+    "device_fingerprint": "fp_67835a5af373",
+    "ip_hash": "ip_c077",
+    "country": "GB",
+    "utm_source": "influencer_b"
+  },
+  {
+    "signup_id": "s0225",
+    "affiliate_id": "aff_003",
+    "timestamp": "2025-06-09T04:00:00+00:00",
+    "email": "acct4978@protonmail.com",
+    "device_fingerprint": "fp_c6b18d05e910",
+    "ip_hash": "ip_c085",
+    "country": "US",
+    "utm_source": "email"
+  },
+  {
+    "signup_id": "s0226",
+    "affiliate_id": "aff_003",
+    "timestamp": "2025-06-05T12:00:00+00:00",
+    "email": "acct1647@tempmail.io",
+    "device_fingerprint": "fp_1ba48db7fc3f",
+    "ip_hash": "ip_c049",
+    "country": "CA",
+    "utm_source": "influencer_a"
+  },
+  {
+    "signup_id": "s0227",
+    "affiliate_id": "aff_003",
+    "timestamp": "2025-06-15T00:00:00+00:00",
+    "email": "acct4113@outlook.com",
+    "device_fingerprint": "fp_49141540b18e",
+    "ip_hash": "ip_c031",
+    "country": "FR",
+    "utm_source": "facebook"
+  },
+  {
+    "signup_id": "s0228",
+    "affiliate_id": "aff_003",
+    "timestamp": "2025-06-06T09:00:00+00:00",
+    "email": "acct8639@protonmail.com",
+    "device_fingerprint": "fp_273300bd88dc",
+    "ip_hash": "ip_c092",
+    "country": "DE",
+    "utm_source": "twitter"
+  },
+  {
+    "signup_id": "s0229",
+    "affiliate_id": "aff_003",
+    "timestamp": "2025-06-15T06:00:00+00:00",
+    "email": "acct6126@yahoo.com",
+    "device_fingerprint": "fp_d4d1a0a591f6",
+    "ip_hash": "ip_c0145",
+    "country": "GB",
+    "utm_source": "influencer_a"
+  },
+  {
+    "signup_id": "s0230",
+    "affiliate_id": "aff_003",
+    "timestamp": "2025-06-03T06:00:00+00:00",
+    "email": "acct4768@yahoo.com",
+    "device_fingerprint": "fp_80bdae2aa15f",
+    "ip_hash": "ip_c0214",
+    "country": "GB",
+    "utm_source": "email"
+  },
+  {
+    "signup_id": "s0231",
+    "affiliate_id": "aff_003",
+    "timestamp": "2025-06-08T05:00:00+00:00",
+    "email": "acct6770@tempmail.io",
+    "device_fingerprint": "fp_53559eb42d1a",
+    "ip_hash": "ip_c0185",
+    "country": "CA",
+    "utm_source": "email"
+  },
+  {
+    "signup_id": "s0232",
+    "affiliate_id": "aff_003",
+    "timestamp": "2025-06-01T02:00:00+00:00",
+    "email": "acct1794@guerrillamail.com",
+    "device_fingerprint": "fp_44bd859337e0",
+    "ip_hash": "ip_c0106",
+    "country": "GB",
+    "utm_source": "influencer_b"
+  },
+  {
+    "signup_id": "s0233",
+    "affiliate_id": "aff_003",
+    "timestamp": "2025-06-08T11:00:00+00:00",
+    "email": "acct8916@gmail.com",
+    "device_fingerprint": "fp_f10337f07a98",
+    "ip_hash": "ip_c005",
+    "country": "US",
+    "utm_source": "direct"
+  },
+  {
+    "signup_id": "s0234",
+    "affiliate_id": "aff_003",
+    "timestamp": "2025-06-05T00:00:00+00:00",
+    "email": "acct8054@hotmail.com",
+    "device_fingerprint": "fp_0107e51a5c52",
+    "ip_hash": "ip_c0233",
+    "country": "GB",
+    "utm_source": "google"
+  },
+  {
+    "signup_id": "s0235",
+    "affiliate_id": "aff_003",
+    "timestamp": "2025-06-05T12:00:00+00:00",
+    "email": "acct7112@gmail.com",
+    "device_fingerprint": "fp_37e7b7e0cc42",
+    "ip_hash": "ip_c0118",
+    "country": "CA",
+    "utm_source": "facebook"
+  },
+  {
+    "signup_id": "s0236",
+    "affiliate_id": "aff_003",
+    "timestamp": "2025-06-02T12:00:00+00:00",
+    "email": "acct7179@protonmail.com",
+    "device_fingerprint": "fp_7979559d0e88",
+    "ip_hash": "ip_c015",
+    "country": "US",
+    "utm_source": "influencer_a"
+  },
+  {
+    "signup_id": "s0237",
+    "affiliate_id": "aff_003",
+    "timestamp": "2025-06-14T03:00:00+00:00",
+    "email": "acct1697@hotmail.com",
+    "device_fingerprint": "fp_5a6bf4a2f432",
+    "ip_hash": "ip_c0231",
+    "country": "CA",
+    "utm_source": "email"
+  },
+  {
+    "signup_id": "s0238",
+    "affiliate_id": "aff_003",
+    "timestamp": "2025-06-10T21:00:00+00:00",
+    "email": "acct3938@gmail.com",
+    "device_fingerprint": "fp_c83fbafa41dc",
+    "ip_hash": "ip_c081",
+    "country": "US",
+    "utm_source": "facebook"
+  },
+  {
+    "signup_id": "s0239",
+    "affiliate_id": "aff_003",
+    "timestamp": "2025-06-05T05:00:00+00:00",
+    "email": "acct4939@hotmail.com",
+    "device_fingerprint": "fp_f083786d8902",
+    "ip_hash": "ip_c0218",
+    "country": "FR",
+    "utm_source": "influencer_a"
+  },
+  {
+    "signup_id": "s0240",
+    "affiliate_id": "aff_003",
+    "timestamp": "2025-06-09T23:00:00+00:00",
+    "email": "acct1879@yahoo.com",
+    "device_fingerprint": "fp_13dc09452c2f",
+    "ip_hash": "ip_c060",
+    "country": "US",
+    "utm_source": "twitter"
+  },
+  {
+    "signup_id": "s0241",
+    "affiliate_id": "aff_003",
+    "timestamp": "2025-06-11T08:00:00+00:00",
+    "email": "acct8381@guerrillamail.com",
+    "device_fingerprint": "fp_cdda0ac4b756",
+    "ip_hash": "ip_c092",
+    "country": "CA",
+    "utm_source": "email"
+  },
+  {
+    "signup_id": "s0242",
+    "affiliate_id": "aff_003",
+    "timestamp": "2025-06-05T07:00:00+00:00",
+    "email": "acct2204@tempmail.io",
+    "device_fingerprint": "fp_bd763923a8e1",
+    "ip_hash": "ip_c040",
+    "country": "FR",
+    "utm_source": "influencer_a"
+  },
+  {
+    "signup_id": "s0243",
+    "affiliate_id": "aff_003",
+    "timestamp": "2025-06-02T00:00:00+00:00",
+    "email": "acct8286@yahoo.com",
+    "device_fingerprint": "fp_5daf92e367d7",
+    "ip_hash": "ip_c070",
+    "country": "US",
+    "utm_source": "facebook"
+  },
+  {
+    "signup_id": "s0244",
+    "affiliate_id": "aff_003",
+    "timestamp": "2025-06-01T02:00:00+00:00",
+    "email": "acct2524@yahoo.com",
+    "device_fingerprint": "fp_ca0b26601e1c",
+    "ip_hash": "ip_c0201",
+    "country": "DE",
+    "utm_source": "influencer_b"
+  },
+  {
+    "signup_id": "s0245",
+    "affiliate_id": "aff_003",
+    "timestamp": "2025-06-15T07:00:00+00:00",
+    "email": "acct9537@hotmail.com",
+    "device_fingerprint": "fp_afebee8daba9",
+    "ip_hash": "ip_c098",
+    "country": "GB",
+    "utm_source": "facebook"
+  },
+  {
+    "signup_id": "s0246",
+    "affiliate_id": "aff_003",
+    "timestamp": "2025-06-05T13:00:00+00:00",
+    "email": "acct8933@yahoo.com",
+    "device_fingerprint": "fp_086d60c10a70",
+    "ip_hash": "ip_c093",
+    "country": "DE",
+    "utm_source": "facebook"
+  },
+  {
+    "signup_id": "s0247",
+    "affiliate_id": "aff_003",
+    "timestamp": "2025-06-03T09:00:00+00:00",
+    "email": "acct7483@gmail.com",
+    "device_fingerprint": "fp_489bad86d036",
+    "ip_hash": "ip_c0159",
+    "country": "FR",
+    "utm_source": "influencer_b"
+  },
+  {
+    "signup_id": "s0248",
+    "affiliate_id": "aff_003",
+    "timestamp": "2025-06-06T19:00:00+00:00",
+    "email": "acct4290@tempmail.io",
+    "device_fingerprint": "fp_34b8fd49ae78",
+    "ip_hash": "ip_c046",
+    "country": "FR",
+    "utm_source": "twitter"
+  },
+  {
+    "signup_id": "s0249",
+    "affiliate_id": "aff_003",
+    "timestamp": "2025-06-07T08:00:00+00:00",
+    "email": "acct7437@guerrillamail.com",
+    "device_fingerprint": "fp_9d1db0d65ec1",
+    "ip_hash": "ip_c0239",
+    "country": "CA",
+    "utm_source": "facebook"
+  },
+  {
+    "signup_id": "s0250",
+    "affiliate_id": "aff_003",
+    "timestamp": "2025-06-12T06:00:00+00:00",
+    "email": "acct5773@protonmail.com",
+    "device_fingerprint": "fp_47684dd61fdb",
+    "ip_hash": "ip_c018",
+    "country": "FR",
+    "utm_source": "influencer_a"
+  },
+  {
+    "signup_id": "s0251",
+    "affiliate_id": "aff_003",
+    "timestamp": "2025-06-13T12:00:00+00:00",
+    "email": "acct8357@gmail.com",
+    "device_fingerprint": "fp_15b972b221c3",
+    "ip_hash": "ip_c0123",
+    "country": "CA",
+    "utm_source": "email"
+  },
+  {
+    "signup_id": "s0252",
+    "affiliate_id": "aff_003",
+    "timestamp": "2025-06-01T11:00:00+00:00",
+    "email": "acct9796@tempmail.io",
+    "device_fingerprint": "fp_517d5ffea409",
+    "ip_hash": "ip_c0235",
+    "country": "US",
+    "utm_source": "google"
+  },
+  {
+    "signup_id": "s0253",
+    "affiliate_id": "aff_003",
+    "timestamp": "2025-06-11T21:00:00+00:00",
+    "email": "acct7547@tempmail.io",
+    "device_fingerprint": "fp_b6382a2c5fc5",
+    "ip_hash": "ip_c085",
+    "country": "FR",
+    "utm_source": "google"
+  },
+  {
+    "signup_id": "s0254",
+    "affiliate_id": "aff_003",
+    "timestamp": "2025-06-06T12:00:00+00:00",
+    "email": "acct9199@protonmail.com",
+    "device_fingerprint": "fp_5eb70a89844b",
+    "ip_hash": "ip_c007",
+    "country": "FR",
+    "utm_source": "google"
+  },
+  {
+    "signup_id": "s0255",
+    "affiliate_id": "aff_003",
+    "timestamp": "2025-06-05T10:00:00+00:00",
+    "email": "acct4389@protonmail.com",
+    "device_fingerprint": "fp_a0d84d7c5134",
+    "ip_hash": "ip_c090",
+    "country": "FR",
+    "utm_source": "google"
+  },
+  {
+    "signup_id": "s0256",
+    "affiliate_id": "aff_003",
+    "timestamp": "2025-06-13T22:00:00+00:00",
+    "email": "acct1370@gmail.com",
+    "device_fingerprint": "fp_bcdfb280571c",
+    "ip_hash": "ip_c0166",
+    "country": "US",
+    "utm_source": "influencer_a"
+  },
+  {
+    "signup_id": "s0257",
+    "affiliate_id": "aff_003",
+    "timestamp": "2025-06-03T10:00:00+00:00",
+    "email": "acct7985@hotmail.com",
+    "device_fingerprint": "fp_2bde15e340a5",
+    "ip_hash": "ip_c060",
+    "country": "FR",
+    "utm_source": "influencer_a"
+  },
+  {
+    "signup_id": "s0258",
+    "affiliate_id": "aff_003",
+    "timestamp": "2025-06-15T06:00:00+00:00",
+    "email": "acct8037@protonmail.com",
+    "device_fingerprint": "fp_2244b1f795fc",
+    "ip_hash": "ip_c0181",
+    "country": "GB",
+    "utm_source": "facebook"
+  },
+  {
+    "signup_id": "s0259",
+    "affiliate_id": "aff_003",
+    "timestamp": "2025-06-03T11:00:00+00:00",
+    "email": "acct4228@yahoo.com",
+    "device_fingerprint": "fp_99cfcf8434ad",
+    "ip_hash": "ip_c068",
+    "country": "FR",
+    "utm_source": "direct"
+  },
+  {
+    "signup_id": "s0260",
+    "affiliate_id": "aff_003",
+    "timestamp": "2025-06-02T11:00:00+00:00",
+    "email": "acct8501@yahoo.com",
+    "device_fingerprint": "fp_8cfe4f65d20d",
+    "ip_hash": "ip_c0209",
+    "country": "DE",
+    "utm_source": "direct"
+  },
+  {
+    "signup_id": "s0261",
+    "affiliate_id": "aff_003",
+    "timestamp": "2025-06-02T05:00:00+00:00",
+    "email": "acct3316@yahoo.com",
+    "device_fingerprint": "fp_e09343e7c413",
+    "ip_hash": "ip_c0108",
+    "country": "CA",
+    "utm_source": "facebook"
+  },
+  {
+    "signup_id": "s0262",
+    "affiliate_id": "aff_003",
+    "timestamp": "2025-06-03T15:00:00+00:00",
+    "email": "acct3298@yahoo.com",
+    "device_fingerprint": "fp_e2e81c4383e3",
+    "ip_hash": "ip_c0216",
+    "country": "FR",
+    "utm_source": "direct"
+  },
+  {
+    "signup_id": "s0263",
+    "affiliate_id": "aff_003",
+    "timestamp": "2025-06-14T12:00:00+00:00",
+    "email": "acct9281@hotmail.com",
+    "device_fingerprint": "fp_46a90b95b4bb",
+    "ip_hash": "ip_c0105",
+    "country": "FR",
+    "utm_source": "email"
+  },
+  {
+    "signup_id": "s0264",
+    "affiliate_id": "aff_003",
+    "timestamp": "2025-06-05T01:00:00+00:00",
+    "email": "acct4683@yahoo.com",
+    "device_fingerprint": "fp_871637c35714",
+    "ip_hash": "ip_c044",
+    "country": "FR",
+    "utm_source": "direct"
+  },
+  {
+    "signup_id": "s0265",
+    "affiliate_id": "aff_003",
+    "timestamp": "2025-06-02T08:00:00+00:00",
+    "email": "acct9898@guerrillamail.com",
+    "device_fingerprint": "fp_083016b60bc2",
+    "ip_hash": "ip_c094",
+    "country": "CA",
+    "utm_source": "influencer_b"
+  },
+  {
+    "signup_id": "s0266",
+    "affiliate_id": "aff_003",
+    "timestamp": "2025-06-02T23:00:00+00:00",
+    "email": "acct5055@guerrillamail.com",
+    "device_fingerprint": "fp_0a12b0c73403",
+    "ip_hash": "ip_c009",
+    "country": "FR",
+    "utm_source": "twitter"
+  },
+  {
+    "signup_id": "s0267",
+    "affiliate_id": "aff_003",
+    "timestamp": "2025-06-04T23:00:00+00:00",
+    "email": "acct6744@hotmail.com",
+    "device_fingerprint": "fp_10861b515fab",
+    "ip_hash": "ip_c0157",
+    "country": "FR",
+    "utm_source": "facebook"
+  },
+  {
+    "signup_id": "s0268",
+    "affiliate_id": "aff_003",
+    "timestamp": "2025-06-06T17:00:00+00:00",
+    "email": "acct9827@yahoo.com",
+    "device_fingerprint": "fp_e77e2d0c7dc2",
+    "ip_hash": "ip_c0251",
+    "country": "DE",
+    "utm_source": "twitter"
+  },
+  {
+    "signup_id": "s0269",
+    "affiliate_id": "aff_003",
+    "timestamp": "2025-06-13T13:00:00+00:00",
+    "email": "acct5543@gmail.com",
+    "device_fingerprint": "fp_fa6b37a949b5",
+    "ip_hash": "ip_c033",
+    "country": "GB",
+    "utm_source": "facebook"
+  },
+  {
+    "signup_id": "s0270",
+    "affiliate_id": "aff_003",
+    "timestamp": "2025-06-03T18:00:00+00:00",
+    "email": "acct5402@tempmail.io",
+    "device_fingerprint": "fp_b2c5aee00049",
+    "ip_hash": "ip_c097",
+    "country": "FR",
+    "utm_source": "google"
+  },
+  {
+    "signup_id": "s0271",
+    "affiliate_id": "aff_003",
+    "timestamp": "2025-06-08T15:00:00+00:00",
+    "email": "acct1040@yahoo.com",
+    "device_fingerprint": "fp_cb032e835dbb",
+    "ip_hash": "ip_c0217",
+    "country": "US",
+    "utm_source": "influencer_a"
+  },
+  {
+    "signup_id": "s0272",
+    "affiliate_id": "aff_003",
+    "timestamp": "2025-06-07T06:00:00+00:00",
+    "email": "acct4470@protonmail.com",
+    "device_fingerprint": "fp_52cd681ae72b",
+    "ip_hash": "ip_c083",
+    "country": "DE",
+    "utm_source": "twitter"
+  },
+  {
+    "signup_id": "s0273",
+    "affiliate_id": "aff_003",
+    "timestamp": "2025-06-01T03:00:00+00:00",
+    "email": "acct8529@tempmail.io",
+    "device_fingerprint": "fp_54cf2091c79e",
+    "ip_hash": "ip_c0238",
+    "country": "GB",
+    "utm_source": "email"
+  },
+  {
+    "signup_id": "s0274",
+    "affiliate_id": "aff_003",
+    "timestamp": "2025-06-03T08:00:00+00:00",
+    "email": "acct6905@gmail.com",
+    "device_fingerprint": "fp_cb8c0a52e31b",
+    "ip_hash": "ip_c096",
+    "country": "GB",
+    "utm_source": "google"
+  },
+  {
+    "signup_id": "s0275",
+    "affiliate_id": "aff_003",
+    "timestamp": "2025-06-11T02:00:00+00:00",
+    "email": "acct2559@tempmail.io",
+    "device_fingerprint": "fp_3eca05cd0fd5",
+    "ip_hash": "ip_c0123",
+    "country": "US",
+    "utm_source": "facebook"
+  },
+  {
+    "signup_id": "s0276",
+    "affiliate_id": "aff_003",
+    "timestamp": "2025-06-14T03:00:00+00:00",
+    "email": "acct7919@guerrillamail.com",
+    "device_fingerprint": "fp_0c09ea4bb9cb",
+    "ip_hash": "ip_c0123",
+    "country": "US",
+    "utm_source": "facebook"
+  },
+  {
+    "signup_id": "s0277",
+    "affiliate_id": "aff_003",
+    "timestamp": "2025-06-15T09:00:00+00:00",
+    "email": "acct7270@outlook.com",
+    "device_fingerprint": "fp_e39768d85ed0",
+    "ip_hash": "ip_c0193",
+    "country": "GB",
+    "utm_source": "influencer_a"
+  },
+  {
+    "signup_id": "s0278",
+    "affiliate_id": "aff_003",
+    "timestamp": "2025-06-11T05:00:00+00:00",
+    "email": "acct6753@protonmail.com",
+    "device_fingerprint": "fp_90c8654c4548",
+    "ip_hash": "ip_c0161",
+    "country": "GB",
+    "utm_source": "email"
+  },
+  {
+    "signup_id": "s0279",
+    "affiliate_id": "aff_003",
+    "timestamp": "2025-06-13T03:00:00+00:00",
+    "email": "acct7291@hotmail.com",
+    "device_fingerprint": "fp_7902c3052a84",
+    "ip_hash": "ip_c0110",
+    "country": "DE",
+    "utm_source": "influencer_b"
+  },
+  {
+    "signup_id": "s0280",
+    "affiliate_id": "aff_003",
+    "timestamp": "2025-06-14T21:00:00+00:00",
+    "email": "acct4366@yahoo.com",
+    "device_fingerprint": "fp_05fa44e21e41",
+    "ip_hash": "ip_c0131",
+    "country": "GB",
+    "utm_source": "influencer_a"
+  },
+  {
+    "signup_id": "s0281",
+    "affiliate_id": "aff_003",
+    "timestamp": "2025-06-07T03:00:00+00:00",
+    "email": "acct9185@outlook.com",
+    "device_fingerprint": "fp_f084052bcf19",
+    "ip_hash": "ip_c019",
+    "country": "CA",
+    "utm_source": "google"
+  },
+  {
+    "signup_id": "s0282",
+    "affiliate_id": "aff_003",
+    "timestamp": "2025-06-09T21:00:00+00:00",
+    "email": "acct8717@outlook.com",
+    "device_fingerprint": "fp_69de6049e234",
+    "ip_hash": "ip_c0198",
+    "country": "US",
+    "utm_source": "google"
+  },
+  {
+    "signup_id": "s0283",
+    "affiliate_id": "aff_003",
+    "timestamp": "2025-06-09T09:00:00+00:00",
+    "email": "acct9209@tempmail.io",
+    "device_fingerprint": "fp_6eb0587bbb86",
+    "ip_hash": "ip_c0109",
+    "country": "FR",
+    "utm_source": "google"
+  },
+  {
+    "signup_id": "s0284",
+    "affiliate_id": "aff_004",
+    "timestamp": "2025-06-03T16:00:00+00:00",
+    "email": "person9788@outlook.com",
+    "device_fingerprint": "fp_18f61744f0e9",
+    "ip_hash": "ip_d47163",
+    "country": "GB",
+    "utm_source": "twitter"
+  },
+  {
+    "signup_id": "s0285",
+    "affiliate_id": "aff_004",
+    "timestamp": "2025-06-04T14:00:00+00:00",
+    "email": "person6067@gmail.com",
+    "device_fingerprint": "fp_cfda17cf6c8f",
+    "ip_hash": "ip_d2131",
+    "country": "US",
+    "utm_source": "influencer_a"
+  },
+  {
+    "signup_id": "s0286",
+    "affiliate_id": "aff_004",
+    "timestamp": "2025-06-01T05:00:00+00:00",
+    "email": "person9568@yahoo.com",
+    "device_fingerprint": "fp_bcc14c646e12",
+    "ip_hash": "ip_d2643",
+    "country": "AU",
+    "utm_source": "facebook"
+  },
+  {
+    "signup_id": "s0287",
+    "affiliate_id": "aff_004",
+    "timestamp": "2025-06-26T13:00:00+00:00",
+    "email": "person5308@guerrillamail.com",
+    "device_fingerprint": "fp_af94c4a62df9",
+    "ip_hash": "ip_d46161",
+    "country": "GB",
+    "utm_source": "email"
+  },
+  {
+    "signup_id": "s0288",
+    "affiliate_id": "aff_004",
+    "timestamp": "2025-06-09T03:00:00+00:00",
+    "email": "person4742@gmail.com",
+    "device_fingerprint": "fp_2a6999363c42",
+    "ip_hash": "ip_d1012",
+    "country": "US",
+    "utm_source": "facebook"
+  },
+  {
+    "signup_id": "s0289",
+    "affiliate_id": "aff_004",
+    "timestamp": "2025-06-12T12:00:00+00:00",
+    "email": "person1579@outlook.com",
+    "device_fingerprint": "fp_e52d60d17095",
+    "ip_hash": "ip_d3658",
+    "country": "AU",
+    "utm_source": "facebook"
+  },
+  {
+    "signup_id": "s0290",
+    "affiliate_id": "aff_004",
+    "timestamp": "2025-06-17T21:00:00+00:00",
+    "email": "person4656@outlook.com",
+    "device_fingerprint": "fp_a33be5c0a9fc",
+    "ip_hash": "ip_d12245",
+    "country": "NL",
+    "utm_source": "google"
+  },
+  {
+    "signup_id": "s0291",
+    "affiliate_id": "aff_004",
+    "timestamp": "2025-06-15T00:00:00+00:00",
+    "email": "person5979@yahoo.com",
+    "device_fingerprint": "fp_23f2aa1605f5",
+    "ip_hash": "ip_d25119",
+    "country": "AU",
+    "utm_source": "direct"
+  },
+  {
+    "signup_id": "s0292",
+    "affiliate_id": "aff_004",
+    "timestamp": "2025-06-26T07:00:00+00:00",
+    "email": "person1391@trashmail.com",
+    "device_fingerprint": "fp_7d3ba8b6e937",
+    "ip_hash": "ip_d32163",
+    "country": "US",
+    "utm_source": "twitter"
+  },
+  {
+    "signup_id": "s0293",
+    "affiliate_id": "aff_004",
+    "timestamp": "2025-06-22T12:00:00+00:00",
+    "email": "person2703@yahoo.com",
+    "device_fingerprint": "fp_6a8bef8aaafb",
+    "ip_hash": "ip_d25108",
+    "country": "SE",
+    "utm_source": "google"
+  },
+  {
+    "signup_id": "s0294",
+    "affiliate_id": "aff_004",
+    "timestamp": "2025-06-14T22:00:00+00:00",
+    "email": "person2391@protonmail.com",
+    "device_fingerprint": "fp_72e37bf883df",
+    "ip_hash": "ip_d4235",
+    "country": "NL",
+    "utm_source": "google"
+  },
+  {
+    "signup_id": "s0295",
+    "affiliate_id": "aff_004",
+    "timestamp": "2025-06-28T10:00:00+00:00",
+    "email": "person6345@protonmail.com",
+    "device_fingerprint": "fp_1e0b5d54e557",
+    "ip_hash": "ip_d2760",
+    "country": "GB",
+    "utm_source": "facebook"
+  },
+  {
+    "signup_id": "s0296",
+    "affiliate_id": "aff_004",
+    "timestamp": "2025-06-25T18:00:00+00:00",
+    "email": "person3693@guerrillamail.com",
+    "device_fingerprint": "fp_685d4e8cc3e1",
+    "ip_hash": "ip_d30105",
+    "country": "GB",
+    "utm_source": "direct"
+  },
+  {
+    "signup_id": "s0297",
+    "affiliate_id": "aff_004",
+    "timestamp": "2025-06-06T21:00:00+00:00",
+    "email": "person4522@tempmail.io",
+    "device_fingerprint": "fp_8aea8148c29e",
+    "ip_hash": "ip_d3038",
+    "country": "GB",
+    "utm_source": "influencer_a"
+  },
+  {
+    "signup_id": "s0298",
+    "affiliate_id": "aff_004",
+    "timestamp": "2025-06-12T12:00:00+00:00",
+    "email": "person5262@yahoo.com",
+    "device_fingerprint": "fp_18f840f23c28",
+    "ip_hash": "ip_d2108",
+    "country": "NL",
+    "utm_source": "influencer_b"
+  },
+  {
+    "signup_id": "s0299",
+    "affiliate_id": "aff_004",
+    "timestamp": "2025-06-05T03:00:00+00:00",
+    "email": "person3141@throwam.com",
+    "device_fingerprint": "fp_2fa0b082ede4",
+    "ip_hash": "ip_d3596",
+    "country": "GB",
+    "utm_source": "direct"
+  },
+  {
+    "signup_id": "s0300",
+    "affiliate_id": "aff_004",
+    "timestamp": "2025-06-15T04:00:00+00:00",
+    "email": "person3007@sharklasers.com",
+    "device_fingerprint": "fp_3985d27b559d",
+    "ip_hash": "ip_d3913",
+    "country": "DE",
+    "utm_source": "direct"
+  },
+  {
+    "signup_id": "s0301",
+    "affiliate_id": "aff_004",
+    "timestamp": "2025-06-12T06:00:00+00:00",
+    "email": "person5585@yahoo.com",
+    "device_fingerprint": "fp_5ebd7373cc8f",
+    "ip_hash": "ip_d1909",
+    "country": "ZA",
+    "utm_source": "direct"
+  },
+  {
+    "signup_id": "s0302",
+    "affiliate_id": "aff_004",
+    "timestamp": "2025-06-03T08:00:00+00:00",
+    "email": "person4267@protonmail.com",
+    "device_fingerprint": "fp_e5f74c8e9667",
+    "ip_hash": "ip_d4364",
+    "country": "BR",
+    "utm_source": "influencer_b"
+  },
+  {
+    "signup_id": "s0303",
+    "affiliate_id": "aff_004",
+    "timestamp": "2025-06-13T22:00:00+00:00",
+    "email": "person8940@hotmail.com",
+    "device_fingerprint": "fp_34379f0f6285",
+    "ip_hash": "ip_d46129",
+    "country": "AU",
+    "utm_source": "email"
+  },
+  {
+    "signup_id": "s0304",
+    "affiliate_id": "aff_004",
+    "timestamp": "2025-06-01T10:00:00+00:00",
+    "email": "person5602@gmail.com",
+    "device_fingerprint": "fp_23bfd3d191eb",
+    "ip_hash": "ip_d40136",
+    "country": "AU",
+    "utm_source": "influencer_b"
+  },
+  {
+    "signup_id": "s0305",
+    "affiliate_id": "aff_004",
+    "timestamp": "2025-06-18T23:00:00+00:00",
+    "email": "person7363@throwam.com",
+    "device_fingerprint": "fp_149e168f7295",
+    "ip_hash": "ip_d2146",
+    "country": "FR",
+    "utm_source": "direct"
+  },
+  {
+    "signup_id": "s0306",
+    "affiliate_id": "aff_004",
+    "timestamp": "2025-06-24T22:00:00+00:00",
+    "email": "person1462@hotmail.com",
+    "device_fingerprint": "fp_2b2f8cedefc4",
+    "ip_hash": "ip_d32243",
+    "country": "ZA",
+    "utm_source": "direct"
+  },
+  {
+    "signup_id": "s0307",
+    "affiliate_id": "aff_004",
+    "timestamp": "2025-06-07T15:00:00+00:00",
+    "email": "person9035@outlook.com",
+    "device_fingerprint": "fp_8b5ebf5717dd",
+    "ip_hash": "ip_d1360",
+    "country": "ZA",
+    "utm_source": "facebook"
+  },
+  {
+    "signup_id": "s0308",
+    "affiliate_id": "aff_004",
+    "timestamp": "2025-06-16T00:00:00+00:00",
+    "email": "person3137@throwam.com",
+    "device_fingerprint": "fp_b171edc3f9d6",
+    "ip_hash": "ip_d21236",
+    "country": "AU",
+    "utm_source": "google"
+  },
+  {
+    "signup_id": "s0309",
+    "affiliate_id": "aff_004",
+    "timestamp": "2025-06-19T22:00:00+00:00",
+    "email": "person9622@gmail.com",
+    "device_fingerprint": "fp_be1baa80bffc",
+    "ip_hash": "ip_d1496",
+    "country": "NL",
+    "utm_source": "direct"
+  },
+  {
+    "signup_id": "s0310",
+    "affiliate_id": "aff_004",
+    "timestamp": "2025-06-10T10:00:00+00:00",
+    "email": "person8157@mailinator.com",
+    "device_fingerprint": "fp_d9159181383e",
+    "ip_hash": "ip_d41167",
+    "country": "AU",
+    "utm_source": "facebook"
+  },
+  {
+    "signup_id": "s0311",
+    "affiliate_id": "aff_004",
+    "timestamp": "2025-06-22T18:00:00+00:00",
+    "email": "person6026@protonmail.com",
+    "device_fingerprint": "fp_ba792d78ef3a",
+    "ip_hash": "ip_d2833",
+    "country": "DE",
+    "utm_source": "influencer_a"
+  },
+  {
+    "signup_id": "s0312",
+    "affiliate_id": "aff_004",
+    "timestamp": "2025-06-23T18:00:00+00:00",
+    "email": "person1530@hotmail.com",
+    "device_fingerprint": "fp_ea6701ad1de8",
+    "ip_hash": "ip_d30236",
+    "country": "ZA",
+    "utm_source": "facebook"
+  },
+  {
+    "signup_id": "s0313",
+    "affiliate_id": "aff_004",
+    "timestamp": "2025-06-12T10:00:00+00:00",
+    "email": "person6500@guerrillamail.com",
+    "device_fingerprint": "fp_ef63883d9342",
+    "ip_hash": "ip_d2654",
+    "country": "FR",
+    "utm_source": "influencer_a"
+  },
+  {
+    "signup_id": "s0314",
+    "affiliate_id": "aff_004",
+    "timestamp": "2025-06-09T03:00:00+00:00",
+    "email": "person7323@gmail.com",
+    "device_fingerprint": "fp_b284262f7c00",
+    "ip_hash": "ip_d36249",
+    "country": "DE",
+    "utm_source": "email"
+  },
+  {
+    "signup_id": "s0315",
+    "affiliate_id": "aff_004",
+    "timestamp": "2025-06-28T18:00:00+00:00",
+    "email": "person3664@outlook.com",
+    "device_fingerprint": "fp_2630a999b9a8",
+    "ip_hash": "ip_d1276",
+    "country": "US",
+    "utm_source": "twitter"
+  },
+  {
+    "signup_id": "s0316",
+    "affiliate_id": "aff_004",
+    "timestamp": "2025-06-04T02:00:00+00:00",
+    "email": "person3636@trashmail.com",
+    "device_fingerprint": "fp_f30003ee0fc9",
+    "ip_hash": "ip_d45242",
+    "country": "GB",
+    "utm_source": "twitter"
+  },
+  {
+    "signup_id": "s0317",
+    "affiliate_id": "aff_004",
+    "timestamp": "2025-06-20T13:00:00+00:00",
+    "email": "person6424@guerrillamail.com",
+    "device_fingerprint": "fp_bffd37896b0a",
+    "ip_hash": "ip_d22105",
+    "country": "BR",
+    "utm_source": "influencer_a"
+  },
+  {
+    "signup_id": "s0318",
+    "affiliate_id": "aff_004",
+    "timestamp": "2025-06-13T18:00:00+00:00",
+    "email": "person3516@protonmail.com",
+    "device_fingerprint": "fp_632b35f8d223",
+    "ip_hash": "ip_d10110",
+    "country": "GB",
+    "utm_source": "twitter"
+  },
+  {
+    "signup_id": "s0319",
+    "affiliate_id": "aff_004",
+    "timestamp": "2025-06-21T09:00:00+00:00",
+    "email": "person2892@protonmail.com",
+    "device_fingerprint": "fp_64c287d95de1",
+    "ip_hash": "ip_d35121",
+    "country": "SE",
+    "utm_source": "influencer_a"
+  },
+  {
+    "signup_id": "s0320",
+    "affiliate_id": "aff_004",
+    "timestamp": "2025-06-21T17:00:00+00:00",
+    "email": "person7249@yahoo.com",
+    "device_fingerprint": "fp_a106e6e5216c",
+    "ip_hash": "ip_d3812",
+    "country": "CA",
+    "utm_source": "email"
+  },
+  {
+    "signup_id": "s0321",
+    "affiliate_id": "aff_004",
+    "timestamp": "2025-06-22T03:00:00+00:00",
+    "email": "person9871@sharklasers.com",
+    "device_fingerprint": "fp_e251511310c8",
+    "ip_hash": "ip_d4759",
+    "country": "BR",
+    "utm_source": "google"
+  },
+  {
+    "signup_id": "s0322",
+    "affiliate_id": "aff_004",
+    "timestamp": "2025-06-29T07:00:00+00:00",
+    "email": "person7468@gmail.com",
+    "device_fingerprint": "fp_b2bf214ae279",
+    "ip_hash": "ip_d12129",
+    "country": "ZA",
+    "utm_source": "direct"
+  },
+  {
+    "signup_id": "s0323",
+    "affiliate_id": "aff_004",
+    "timestamp": "2025-06-06T05:00:00+00:00",
+    "email": "person3067@outlook.com",
+    "device_fingerprint": "fp_3ee4c9348cff",
+    "ip_hash": "ip_d15253",
+    "country": "NL",
+    "utm_source": "facebook"
+  },
+  {
+    "signup_id": "s0324",
+    "affiliate_id": "aff_004",
+    "timestamp": "2025-06-03T02:00:00+00:00",
+    "email": "person6343@protonmail.com",
+    "device_fingerprint": "fp_33e6ec50799d",
+    "ip_hash": "ip_d43118",
+    "country": "US",
+    "utm_source": "influencer_b"
+  },
+  {
+    "signup_id": "s0325",
+    "affiliate_id": "aff_004",
+    "timestamp": "2025-06-19T18:00:00+00:00",
+    "email": "person2730@gmail.com",
+    "device_fingerprint": "fp_327166a1a25a",
+    "ip_hash": "ip_d16202",
+    "country": "CA",
+    "utm_source": "influencer_b"
+  },
+  {
+    "signup_id": "s0326",
+    "affiliate_id": "aff_004",
+    "timestamp": "2025-06-20T15:00:00+00:00",
+    "email": "person7602@yopmail.com",
+    "device_fingerprint": "fp_9e0b15e2865e",
+    "ip_hash": "ip_d48175",
+    "country": "NL",
+    "utm_source": "google"
+  },
+  {
+    "signup_id": "s0327",
+    "affiliate_id": "aff_004",
+    "timestamp": "2025-06-29T11:00:00+00:00",
+    "email": "person6094@yopmail.com",
+    "device_fingerprint": "fp_29b10c9ab016",
+    "ip_hash": "ip_d41220",
+    "country": "GB",
+    "utm_source": "influencer_b"
+  },
+  {
+    "signup_id": "s0328",
+    "affiliate_id": "aff_004",
+    "timestamp": "2025-06-10T23:00:00+00:00",
+    "email": "person5414@yahoo.com",
+    "device_fingerprint": "fp_6f3c916316f8",
+    "ip_hash": "ip_d48166",
+    "country": "GB",
+    "utm_source": "facebook"
+  },
+  {
+    "signup_id": "s0329",
+    "affiliate_id": "aff_004",
+    "timestamp": "2025-06-27T01:00:00+00:00",
+    "email": "person2075@outlook.com",
+    "device_fingerprint": "fp_3d0d17a37413",
+    "ip_hash": "ip_d42104",
+    "country": "DE",
+    "utm_source": "influencer_b"
+  },
+  {
+    "signup_id": "s0330",
+    "affiliate_id": "aff_004",
+    "timestamp": "2025-06-08T01:00:00+00:00",
+    "email": "person4262@yahoo.com",
+    "device_fingerprint": "fp_2b0ac8e3c511",
+    "ip_hash": "ip_d39130",
+    "country": "NL",
+    "utm_source": "influencer_a"
+  },
+  {
+    "signup_id": "s0331",
+    "affiliate_id": "aff_004",
+    "timestamp": "2025-06-28T15:00:00+00:00",
+    "email": "person6640@yahoo.com",
+    "device_fingerprint": "fp_1596daab6360",
+    "ip_hash": "ip_d26192",
+    "country": "GB",
+    "utm_source": "twitter"
+  },
+  {
+    "signup_id": "s0332",
+    "affiliate_id": "aff_004",
+    "timestamp": "2025-06-02T05:00:00+00:00",
+    "email": "person4626@outlook.com",
+    "device_fingerprint": "fp_2ed9137cfe16",
+    "ip_hash": "ip_d2369",
+    "country": "NL",
+    "utm_source": "direct"
+  },
+  {
+    "signup_id": "s0333",
+    "affiliate_id": "aff_004",
+    "timestamp": "2025-06-25T21:00:00+00:00",
+    "email": "person3837@mailinator.com",
+    "device_fingerprint": "fp_3ed05381e61f",
+    "ip_hash": "ip_d1058",
+    "country": "CA",
+    "utm_source": "direct"
+  },
+  {
+    "signup_id": "s0334",
+    "affiliate_id": "aff_004",
+    "timestamp": "2025-06-28T11:00:00+00:00",
+    "email": "person8646@outlook.com",
+    "device_fingerprint": "fp_eaed3910cac1",
+    "ip_hash": "ip_d43212",
+    "country": "ZA",
+    "utm_source": "email"
+  },
+  {
+    "signup_id": "s0335",
+    "affiliate_id": "aff_004",
+    "timestamp": "2025-06-21T19:00:00+00:00",
+    "email": "person2771@yahoo.com",
+    "device_fingerprint": "fp_4d36d5c9adb7",
+    "ip_hash": "ip_d31254",
+    "country": "CA",
+    "utm_source": "influencer_a"
+  },
+  {
+    "signup_id": "s0336",
+    "affiliate_id": "aff_004",
+    "timestamp": "2025-06-09T08:00:00+00:00",
+    "email": "person4086@yahoo.com",
+    "device_fingerprint": "fp_6757d6466c19",
+    "ip_hash": "ip_d25231",
+    "country": "US",
+    "utm_source": "influencer_b"
+  },
+  {
+    "signup_id": "s0337",
+    "affiliate_id": "aff_004",
+    "timestamp": "2025-06-01T20:00:00+00:00",
+    "email": "person5250@yahoo.com",
+    "device_fingerprint": "fp_1d85fb25e44c",
+    "ip_hash": "ip_d35100",
+    "country": "US",
+    "utm_source": "direct"
+  },
+  {
+    "signup_id": "s0338",
+    "affiliate_id": "aff_004",
+    "timestamp": "2025-06-18T20:00:00+00:00",
+    "email": "person9311@yahoo.com",
+    "device_fingerprint": "fp_e66e1231e7b4",
+    "ip_hash": "ip_d20216",
+    "country": "BR",
+    "utm_source": "facebook"
+  },
+  {
+    "signup_id": "s0339",
+    "affiliate_id": "aff_004",
+    "timestamp": "2025-06-16T04:00:00+00:00",
+    "email": "person3999@hotmail.com",
+    "device_fingerprint": "fp_6c154b907529",
+    "ip_hash": "ip_d31168",
+    "country": "GB",
+    "utm_source": "facebook"
+  },
+  {
+    "signup_id": "s0340",
+    "affiliate_id": "aff_004",
+    "timestamp": "2025-06-09T18:00:00+00:00",
+    "email": "person8709@guerrillamail.com",
+    "device_fingerprint": "fp_69b90534d087",
+    "ip_hash": "ip_d50150",
+    "country": "ZA",
+    "utm_source": "direct"
+  },
+  {
+    "signup_id": "s0341",
+    "affiliate_id": "aff_004",
+    "timestamp": "2025-06-29T06:00:00+00:00",
+    "email": "person9680@protonmail.com",
+    "device_fingerprint": "fp_b609921e5155",
+    "ip_hash": "ip_d13223",
+    "country": "DE",
+    "utm_source": "facebook"
+  },
+  {
+    "signup_id": "s0342",
+    "affiliate_id": "aff_004",
+    "timestamp": "2025-06-11T22:00:00+00:00",
+    "email": "person8988@guerrillamail.com",
+    "device_fingerprint": "fp_a4070922d2ed",
+    "ip_hash": "ip_d2181",
+    "country": "US",
+    "utm_source": "google"
+  },
+  {
+    "signup_id": "s0343",
+    "affiliate_id": "aff_004",
+    "timestamp": "2025-06-26T02:00:00+00:00",
+    "email": "person8035@trashmail.com",
+    "device_fingerprint": "fp_25c8007dfbdd",
+    "ip_hash": "ip_d4099",
+    "country": "US",
+    "utm_source": "google"
+  },
+  {
+    "signup_id": "s0344",
+    "affiliate_id": "aff_004",
+    "timestamp": "2025-06-07T00:00:00+00:00",
+    "email": "person4707@outlook.com",
+    "device_fingerprint": "fp_47a6b1045cd8",
+    "ip_hash": "ip_d3280",
+    "country": "DE",
+    "utm_source": "google"
+  },
+  {
+    "signup_id": "s0345",
+    "affiliate_id": "aff_004",
+    "timestamp": "2025-06-15T23:00:00+00:00",
+    "email": "person6535@hotmail.com",
+    "device_fingerprint": "fp_58b1d85de6c6",
+    "ip_hash": "ip_d1888",
+    "country": "SE",
+    "utm_source": "twitter"
+  },
+  {
+    "signup_id": "s0346",
+    "affiliate_id": "aff_004",
+    "timestamp": "2025-06-08T23:00:00+00:00",
+    "email": "person1359@outlook.com",
+    "device_fingerprint": "fp_d5ceb917f001",
+    "ip_hash": "ip_d2032",
+    "country": "AU",
+    "utm_source": "influencer_a"
+  },
+  {
+    "signup_id": "s0347",
+    "affiliate_id": "aff_004",
+    "timestamp": "2025-06-02T19:00:00+00:00",
+    "email": "person1323@gmail.com",
+    "device_fingerprint": "fp_d18b82f54de8",
+    "ip_hash": "ip_d17107",
+    "country": "SE",
+    "utm_source": "email"
+  },
+  {
+    "signup_id": "s0348",
+    "affiliate_id": "aff_004",
+    "timestamp": "2025-06-09T15:00:00+00:00",
+    "email": "person1152@outlook.com",
+    "device_fingerprint": "fp_cb333443b58c",
+    "ip_hash": "ip_d16170",
+    "country": "BR",
+    "utm_source": "twitter"
+  },
+  {
+    "signup_id": "s0349",
+    "affiliate_id": "aff_004",
+    "timestamp": "2025-06-20T03:00:00+00:00",
+    "email": "person9154@guerrillamail.com",
+    "device_fingerprint": "fp_e92dd233ff41",
+    "ip_hash": "ip_d22200",
+    "country": "CA",
+    "utm_source": "influencer_b"
+  },
+  {
+    "signup_id": "s0350",
+    "affiliate_id": "aff_004",
+    "timestamp": "2025-06-16T06:00:00+00:00",
+    "email": "person6416@protonmail.com",
+    "device_fingerprint": "fp_cb8316b08a61",
+    "ip_hash": "ip_d10172",
+    "country": "GB",
+    "utm_source": "google"
+  },
+  {
+    "signup_id": "s0351",
+    "affiliate_id": "aff_004",
+    "timestamp": "2025-06-24T23:00:00+00:00",
+    "email": "person4787@yopmail.com",
+    "device_fingerprint": "fp_9119c0c55303",
+    "ip_hash": "ip_d2868",
+    "country": "SE",
+    "utm_source": "google"
+  },
+  {
+    "signup_id": "s0352",
+    "affiliate_id": "aff_004",
+    "timestamp": "2025-06-06T01:00:00+00:00",
+    "email": "person6123@yahoo.com",
+    "device_fingerprint": "fp_a88a02ec1450",
+    "ip_hash": "ip_d1725",
+    "country": "US",
+    "utm_source": "google"
+  },
+  {
+    "signup_id": "s0353",
+    "affiliate_id": "aff_004",
+    "timestamp": "2025-06-09T23:00:00+00:00",
+    "email": "person3996@sharklasers.com",
+    "device_fingerprint": "fp_e85c815c0e30",
+    "ip_hash": "ip_d35247",
+    "country": "SE",
+    "utm_source": "twitter"
+  },
+  {
+    "signup_id": "s0354",
+    "affiliate_id": "aff_004",
+    "timestamp": "2025-06-04T04:00:00+00:00",
+    "email": "person3611@gmail.com",
+    "device_fingerprint": "fp_74a969856347",
+    "ip_hash": "ip_d47124",
+    "country": "ZA",
+    "utm_source": "influencer_a"
+  },
+  {
+    "signup_id": "s0355",
+    "affiliate_id": "aff_004",
+    "timestamp": "2025-06-29T04:00:00+00:00",
+    "email": "person2850@protonmail.com",
+    "device_fingerprint": "fp_ba629b301b71",
+    "ip_hash": "ip_d3812",
+    "country": "GB",
+    "utm_source": "twitter"
+  },
+  {
+    "signup_id": "s0356",
+    "affiliate_id": "aff_004",
+    "timestamp": "2025-06-24T18:00:00+00:00",
+    "email": "person9504@sharklasers.com",
+    "device_fingerprint": "fp_9833f9039b61",
+    "ip_hash": "ip_d4925",
+    "country": "NL",
+    "utm_source": "influencer_a"
+  },
+  {
+    "signup_id": "s0357",
+    "affiliate_id": "aff_004",
+    "timestamp": "2025-06-29T19:00:00+00:00",
+    "email": "person9283@mailinator.com",
+    "device_fingerprint": "fp_2ecf0ba543f8",
+    "ip_hash": "ip_d41223",
+    "country": "DE",
+    "utm_source": "google"
+  },
+  {
+    "signup_id": "s0358",
+    "affiliate_id": "aff_004",
+    "timestamp": "2025-06-18T20:00:00+00:00",
+    "email": "person2291@outlook.com",
+    "device_fingerprint": "fp_486fa877ead1",
+    "ip_hash": "ip_d46115",
+    "country": "GB",
+    "utm_source": "influencer_b"
+  },
+  {
+    "signup_id": "s0359",
+    "affiliate_id": "aff_004",
+    "timestamp": "2025-06-13T13:00:00+00:00",
+    "email": "person2489@tempmail.io",
+    "device_fingerprint": "fp_d9f6fcdad4a1",
+    "ip_hash": "ip_d49164",
+    "country": "CA",
+    "utm_source": "direct"
+  },
+  {
+    "signup_id": "s0360",
+    "affiliate_id": "aff_004",
+    "timestamp": "2025-06-28T14:00:00+00:00",
+    "email": "person6952@fakeinbox.com",
+    "device_fingerprint": "fp_cce01b0598ea",
+    "ip_hash": "ip_d1725",
+    "country": "FR",
+    "utm_source": "google"
+  },
+  {
+    "signup_id": "s0361",
+    "affiliate_id": "aff_004",
+    "timestamp": "2025-06-27T20:00:00+00:00",
+    "email": "person9973@yahoo.com",
+    "device_fingerprint": "fp_4871e8ec9325",
+    "ip_hash": "ip_d1612",
+    "country": "DE",
+    "utm_source": "email"
+  },
+  {
+    "signup_id": "s0362",
+    "affiliate_id": "aff_004",
+    "timestamp": "2025-06-23T23:00:00+00:00",
+    "email": "person5166@gmail.com",
+    "device_fingerprint": "fp_d16e00e5a907",
+    "ip_hash": "ip_d2231",
+    "country": "NL",
+    "utm_source": "facebook"
+  },
+  {
+    "signup_id": "s0363",
+    "affiliate_id": "aff_004",
+    "timestamp": "2025-06-30T20:00:00+00:00",
+    "email": "person3018@hotmail.com",
+    "device_fingerprint": "fp_7f1994d34038",
+    "ip_hash": "ip_d38118",
+    "country": "ZA",
+    "utm_source": "direct"
+  },
+  {
+    "signup_id": "s0364",
+    "affiliate_id": "aff_005",
+    "timestamp": "2025-06-16T00:00:00+00:00",
+    "email": "trader1795@hotmail.com",
+    "device_fingerprint": "fp_2b7737be01ef",
+    "ip_hash": "ip_e37215",
+    "country": "ZA",
+    "utm_source": "email"
+  },
+  {
+    "signup_id": "s0365",
+    "affiliate_id": "aff_005",
+    "timestamp": "2025-06-04T12:00:00+00:00",
+    "email": "trader6273@mailinator.com",
+    "device_fingerprint": "fp_ba63fc8bc7ee",
+    "ip_hash": "ip_e34108",
+    "country": "ZA",
+    "utm_source": "influencer_a"
+  },
+  {
+    "signup_id": "s0366",
+    "affiliate_id": "aff_005",
+    "timestamp": "2025-06-26T04:00:00+00:00",
+    "email": "trader7762@outlook.com",
+    "device_fingerprint": "fp_e860d00261a8",
+    "ip_hash": "ip_e57132",
+    "country": "CA",
+    "utm_source": "influencer_b"
+  },
+  {
+    "signup_id": "s0367",
+    "affiliate_id": "aff_005",
+    "timestamp": "2025-06-07T19:00:00+00:00",
+    "email": "trader5760@mailinator.com",
+    "device_fingerprint": "fp_d30f47634d3e",
+    "ip_hash": "ip_e5334",
+    "country": "DE",
+    "utm_source": "direct"
+  },
+  {
+    "signup_id": "s0368",
+    "affiliate_id": "aff_005",
+    "timestamp": "2025-06-16T18:00:00+00:00",
+    "email": "trader7839@hotmail.com",
+    "device_fingerprint": "fp_02a2be0cebb2",
+    "ip_hash": "ip_e4474",
+    "country": "NL",
+    "utm_source": "influencer_b"
+  },
+  {
+    "signup_id": "s0369",
+    "affiliate_id": "aff_005",
+    "timestamp": "2025-06-07T08:00:00+00:00",
+    "email": "trader3636@throwam.com",
+    "device_fingerprint": "fp_08093a1b1cc8",
+    "ip_hash": "ip_e5365",
+    "country": "DE",
+    "utm_source": "influencer_b"
+  },
+  {
+    "signup_id": "s0370",
+    "affiliate_id": "aff_005",
+    "timestamp": "2025-06-27T14:00:00+00:00",
+    "email": "trader4675@gmail.com",
+    "device_fingerprint": "fp_29ef032b7cf5",
+    "ip_hash": "ip_e45100",
+    "country": "FR",
+    "utm_source": "direct"
+  },
+  {
+    "signup_id": "s0371",
+    "affiliate_id": "aff_005",
+    "timestamp": "2025-06-13T13:00:00+00:00",
+    "email": "trader6122@throwam.com",
+    "device_fingerprint": "fp_d83f9a0e5006",
+    "ip_hash": "ip_e1304",
+    "country": "CA",
+    "utm_source": "facebook"
+  },
+  {
+    "signup_id": "s0372",
+    "affiliate_id": "aff_005",
+    "timestamp": "2025-06-25T18:00:00+00:00",
+    "email": "trader4218@hotmail.com",
+    "device_fingerprint": "fp_7b1389c5b685",
+    "ip_hash": "ip_e2276",
+    "country": "SE",
+    "utm_source": "facebook"
+  },
+  {
+    "signup_id": "s0373",
+    "affiliate_id": "aff_005",
+    "timestamp": "2025-06-02T13:00:00+00:00",
+    "email": "trader5329@yahoo.com",
+    "device_fingerprint": "fp_72965c4372a1",
+    "ip_hash": "ip_e47217",
+    "country": "CA",
+    "utm_source": "google"
+  },
+  {
+    "signup_id": "s0374",
+    "affiliate_id": "aff_005",
+    "timestamp": "2025-06-20T01:00:00+00:00",
+    "email": "trader5934@throwam.com",
+    "device_fingerprint": "fp_bd2256c1fdb6",
+    "ip_hash": "ip_e46141",
+    "country": "AU",
+    "utm_source": "google"
+  },
+  {
+    "signup_id": "s0375",
+    "affiliate_id": "aff_005",
+    "timestamp": "2025-06-03T16:00:00+00:00",
+    "email": "trader7814@outlook.com",
+    "device_fingerprint": "fp_675e0f0b64f3",
+    "ip_hash": "ip_e3524",
+    "country": "AU",
+    "utm_source": "facebook"
+  },
+  {
+    "signup_id": "s0376",
+    "affiliate_id": "aff_005",
+    "timestamp": "2025-06-25T19:00:00+00:00",
+    "email": "trader8780@hotmail.com",
+    "device_fingerprint": "fp_81f6578d580b",
+    "ip_hash": "ip_e58252",
+    "country": "US",
+    "utm_source": "google"
+  },
+  {
+    "signup_id": "s0377",
+    "affiliate_id": "aff_005",
+    "timestamp": "2025-06-22T10:00:00+00:00",
+    "email": "trader2857@protonmail.com",
+    "device_fingerprint": "fp_9d8695fce69a",
+    "ip_hash": "ip_e44186",
+    "country": "CA",
+    "utm_source": "google"
+  },
+  {
+    "signup_id": "s0378",
+    "affiliate_id": "aff_005",
+    "timestamp": "2025-06-02T09:00:00+00:00",
+    "email": "trader4154@mailinator.com",
+    "device_fingerprint": "fp_2d41fca146b5",
+    "ip_hash": "ip_e15243",
+    "country": "GB",
+    "utm_source": "facebook"
+  },
+  {
+    "signup_id": "s0379",
+    "affiliate_id": "aff_005",
+    "timestamp": "2025-06-22T20:00:00+00:00",
+    "email": "trader4492@throwam.com",
+    "device_fingerprint": "fp_14d1546ae5d9",
+    "ip_hash": "ip_e37214",
+    "country": "GB",
+    "utm_source": "facebook"
+  },
+  {
+    "signup_id": "s0380",
+    "affiliate_id": "aff_005",
+    "timestamp": "2025-06-24T21:00:00+00:00",
+    "email": "trader1389@outlook.com",
+    "device_fingerprint": "fp_624b0c1a1324",
+    "ip_hash": "ip_e3110",
+    "country": "GB",
+    "utm_source": "google"
+  },
+  {
+    "signup_id": "s0381",
+    "affiliate_id": "aff_005",
+    "timestamp": "2025-06-14T12:00:00+00:00",
+    "email": "trader7626@protonmail.com",
+    "device_fingerprint": "fp_6d7c0338c7cf",
+    "ip_hash": "ip_e11100",
+    "country": "GB",
+    "utm_source": "direct"
+  },
+  {
+    "signup_id": "s0382",
+    "affiliate_id": "aff_005",
+    "timestamp": "2025-06-12T16:00:00+00:00",
+    "email": "trader5748@gmail.com",
+    "device_fingerprint": "fp_730347e233f8",
+    "ip_hash": "ip_e29156",
+    "country": "GB",
+    "utm_source": "twitter"
+  },
+  {
+    "signup_id": "s0383",
+    "affiliate_id": "aff_005",
+    "timestamp": "2025-06-06T17:00:00+00:00",
+    "email": "trader3234@outlook.com",
+    "device_fingerprint": "fp_6eb24b0b3aba",
+    "ip_hash": "ip_e60205",
+    "country": "BR",
+    "utm_source": "twitter"
+  },
+  {
+    "signup_id": "s0384",
+    "affiliate_id": "aff_005",
+    "timestamp": "2025-06-18T17:00:00+00:00",
+    "email": "trader3019@outlook.com",
+    "device_fingerprint": "fp_a7d8b2cd751c",
+    "ip_hash": "ip_e46153",
+    "country": "NL",
+    "utm_source": "direct"
+  },
+  {
+    "signup_id": "s0385",
+    "affiliate_id": "aff_005",
+    "timestamp": "2025-06-14T20:00:00+00:00",
+    "email": "trader9397@throwam.com",
+    "device_fingerprint": "fp_cfeb98dbb5b7",
+    "ip_hash": "ip_e2157",
+    "country": "ZA",
+    "utm_source": "influencer_b"
+  },
+  {
+    "signup_id": "s0386",
+    "affiliate_id": "aff_005",
+    "timestamp": "2025-06-15T20:00:00+00:00",
+    "email": "trader2198@hotmail.com",
+    "device_fingerprint": "fp_1c8b5623e434",
+    "ip_hash": "ip_e1465",
+    "country": "GB",
+    "utm_source": "facebook"
+  },
+  {
+    "signup_id": "s0387",
+    "affiliate_id": "aff_005",
+    "timestamp": "2025-06-04T09:00:00+00:00",
+    "email": "trader2143@hotmail.com",
+    "device_fingerprint": "fp_72cc5c8eda97",
+    "ip_hash": "ip_e30125",
+    "country": "SE",
+    "utm_source": "twitter"
+  },
+  {
+    "signup_id": "s0388",
+    "affiliate_id": "aff_005",
+    "timestamp": "2025-06-14T05:00:00+00:00",
+    "email": "trader6131@gmail.com",
+    "device_fingerprint": "fp_af6cf33469bd",
+    "ip_hash": "ip_e24183",
+    "country": "NL",
+    "utm_source": "twitter"
+  },
+  {
+    "signup_id": "s0389",
+    "affiliate_id": "aff_005",
+    "timestamp": "2025-06-15T11:00:00+00:00",
+    "email": "trader6004@throwam.com",
+    "device_fingerprint": "fp_8382ea7d719c",
+    "ip_hash": "ip_e1645",
+    "country": "ZA",
+    "utm_source": "google"
+  },
+  {
+    "signup_id": "s0390",
+    "affiliate_id": "aff_005",
+    "timestamp": "2025-06-24T20:00:00+00:00",
+    "email": "trader2235@gmail.com",
+    "device_fingerprint": "fp_f570b96e9522",
+    "ip_hash": "ip_e42162",
+    "country": "US",
+    "utm_source": "influencer_b"
+  },
+  {
+    "signup_id": "s0391",
+    "affiliate_id": "aff_005",
+    "timestamp": "2025-06-09T17:00:00+00:00",
+    "email": "trader8734@hotmail.com",
+    "device_fingerprint": "fp_1e93bac1a807",
+    "ip_hash": "ip_e1994",
+    "country": "NL",
+    "utm_source": "facebook"
+  },
+  {
+    "signup_id": "s0392",
+    "affiliate_id": "aff_005",
+    "timestamp": "2025-06-17T16:00:00+00:00",
+    "email": "trader7500@gmail.com",
+    "device_fingerprint": "fp_1ace9a4080e6",
+    "ip_hash": "ip_e10170",
+    "country": "FR",
+    "utm_source": "influencer_b"
+  },
+  {
+    "signup_id": "s0393",
+    "affiliate_id": "aff_005",
+    "timestamp": "2025-06-06T05:00:00+00:00",
+    "email": "trader3395@hotmail.com",
+    "device_fingerprint": "fp_3dcdf0f56a66",
+    "ip_hash": "ip_e40241",
+    "country": "AU",
+    "utm_source": "google"
+  },
+  {
+    "signup_id": "s0394",
+    "affiliate_id": "aff_005",
+    "timestamp": "2025-06-02T21:00:00+00:00",
+    "email": "trader9485@outlook.com",
+    "device_fingerprint": "fp_552e56754bbd",
+    "ip_hash": "ip_e33100",
+    "country": "SE",
+    "utm_source": "email"
+  },
+  {
+    "signup_id": "s0395",
+    "affiliate_id": "aff_005",
+    "timestamp": "2025-06-21T08:00:00+00:00",
+    "email": "trader5314@throwam.com",
+    "device_fingerprint": "fp_ca07956e11bf",
+    "ip_hash": "ip_e4645",
+    "country": "NL",
+    "utm_source": "influencer_a"
+  },
+  {
+    "signup_id": "s0396",
+    "affiliate_id": "aff_005",
+    "timestamp": "2025-06-09T12:00:00+00:00",
+    "email": "trader9460@outlook.com",
+    "device_fingerprint": "fp_c920aeab5f3d",
+    "ip_hash": "ip_e32125",
+    "country": "SE",
+    "utm_source": "direct"
+  },
+  {
+    "signup_id": "s0397",
+    "affiliate_id": "aff_005",
+    "timestamp": "2025-06-17T20:00:00+00:00",
+    "email": "trader4465@yahoo.com",
+    "device_fingerprint": "fp_0686361e0bad",
+    "ip_hash": "ip_e2093",
+    "country": "ZA",
+    "utm_source": "influencer_a"
+  },
+  {
+    "signup_id": "s0398",
+    "affiliate_id": "aff_005",
+    "timestamp": "2025-06-16T21:00:00+00:00",
+    "email": "trader8848@protonmail.com",
+    "device_fingerprint": "fp_30b4e191736b",
+    "ip_hash": "ip_e20166",
+    "country": "NL",
+    "utm_source": "google"
+  },
+  {
+    "signup_id": "s0399",
+    "affiliate_id": "aff_005",
+    "timestamp": "2025-06-02T18:00:00+00:00",
+    "email": "trader1916@outlook.com",
+    "device_fingerprint": "fp_59f9fd58daae",
+    "ip_hash": "ip_e21133",
+    "country": "NL",
+    "utm_source": "direct"
+  },
+  {
+    "signup_id": "s0400",
+    "affiliate_id": "aff_005",
+    "timestamp": "2025-06-07T14:00:00+00:00",
+    "email": "trader8723@hotmail.com",
+    "device_fingerprint": "fp_4b39c5d23e22",
+    "ip_hash": "ip_e2057",
+    "country": "NL",
+    "utm_source": "direct"
+  },
+  {
+    "signup_id": "s0401",
+    "affiliate_id": "aff_005",
+    "timestamp": "2025-06-24T21:00:00+00:00",
+    "email": "trader8429@yahoo.com",
+    "device_fingerprint": "fp_f706411b5d3f",
+    "ip_hash": "ip_e1459",
+    "country": "NL",
+    "utm_source": "email"
+  },
+  {
+    "signup_id": "s0402",
+    "affiliate_id": "aff_005",
+    "timestamp": "2025-06-20T03:00:00+00:00",
+    "email": "trader8796@outlook.com",
+    "device_fingerprint": "fp_8f06d5a6982a",
+    "ip_hash": "ip_e4810",
+    "country": "BR",
+    "utm_source": "direct"
+  },
+  {
+    "signup_id": "s0403",
+    "affiliate_id": "aff_005",
+    "timestamp": "2025-06-17T13:00:00+00:00",
+    "email": "trader1711@yahoo.com",
+    "device_fingerprint": "fp_471192a96364",
+    "ip_hash": "ip_e3759",
+    "country": "SE",
+    "utm_source": "influencer_b"
+  },
+  {
+    "signup_id": "s0404",
+    "affiliate_id": "aff_005",
+    "timestamp": "2025-06-05T08:00:00+00:00",
+    "email": "trader4809@protonmail.com",
+    "device_fingerprint": "fp_4b501359764d",
+    "ip_hash": "ip_e1573",
+    "country": "ZA",
+    "utm_source": "direct"
+  },
+  {
+    "signup_id": "s0405",
+    "affiliate_id": "aff_005",
+    "timestamp": "2025-06-17T03:00:00+00:00",
+    "email": "trader1117@hotmail.com",
+    "device_fingerprint": "fp_f2a7a8949a3b",
+    "ip_hash": "ip_e23177",
+    "country": "AU",
+    "utm_source": "email"
+  },
+  {
+    "signup_id": "s0406",
+    "affiliate_id": "aff_005",
+    "timestamp": "2025-06-28T17:00:00+00:00",
+    "email": "trader6990@protonmail.com",
+    "device_fingerprint": "fp_8ceea30ea0b6",
+    "ip_hash": "ip_e53102",
+    "country": "FR",
+    "utm_source": "email"
+  },
+  {
+    "signup_id": "s0407",
+    "affiliate_id": "aff_005",
+    "timestamp": "2025-06-10T18:00:00+00:00",
+    "email": "trader7522@yahoo.com",
+    "device_fingerprint": "fp_541b19eafbda",
+    "ip_hash": "ip_e5231",
+    "country": "FR",
+    "utm_source": "email"
+  },
+  {
+    "signup_id": "s0408",
+    "affiliate_id": "aff_005",
+    "timestamp": "2025-06-26T17:00:00+00:00",
+    "email": "trader1852@hotmail.com",
+    "device_fingerprint": "fp_89e124d95b71",
+    "ip_hash": "ip_e5002",
+    "country": "GB",
+    "utm_source": "influencer_b"
+  },
+  {
+    "signup_id": "s0409",
+    "affiliate_id": "aff_005",
+    "timestamp": "2025-06-08T11:00:00+00:00",
+    "email": "trader1618@gmail.com",
+    "device_fingerprint": "fp_5ff07106b954",
+    "ip_hash": "ip_e35158",
+    "country": "BR",
+    "utm_source": "twitter"
+  },
+  {
+    "signup_id": "s0410",
+    "affiliate_id": "aff_005",
+    "timestamp": "2025-06-15T00:00:00+00:00",
+    "email": "trader9489@outlook.com",
+    "device_fingerprint": "fp_c045b58f0d84",
+    "ip_hash": "ip_e12201",
+    "country": "ZA",
+    "utm_source": "direct"
+  },
+  {
+    "signup_id": "s0411",
+    "affiliate_id": "aff_005",
+    "timestamp": "2025-06-08T20:00:00+00:00",
+    "email": "trader3579@gmail.com",
+    "device_fingerprint": "fp_4de949938526",
+    "ip_hash": "ip_e27200",
+    "country": "NL",
+    "utm_source": "twitter"
+  },
+  {
+    "signup_id": "s0412",
+    "affiliate_id": "aff_005",
+    "timestamp": "2025-06-30T02:00:00+00:00",
+    "email": "trader5661@hotmail.com",
+    "device_fingerprint": "fp_09dae71498e5",
+    "ip_hash": "ip_e45235",
+    "country": "ZA",
+    "utm_source": "twitter"
+  },
+  {
+    "signup_id": "s0413",
+    "affiliate_id": "aff_005",
+    "timestamp": "2025-06-30T12:00:00+00:00",
+    "email": "trader1076@hotmail.com",
+    "device_fingerprint": "fp_0c9caa81679d",
+    "ip_hash": "ip_e36130",
+    "country": "GB",
+    "utm_source": "direct"
+  },
+  {
+    "signup_id": "s0414",
+    "affiliate_id": "aff_005",
+    "timestamp": "2025-06-27T18:00:00+00:00",
+    "email": "trader8254@yahoo.com",
+    "device_fingerprint": "fp_cfb166d413fd",
+    "ip_hash": "ip_e46124",
+    "country": "FR",
+    "utm_source": "influencer_b"
+  },
+  {
+    "signup_id": "s0415",
+    "affiliate_id": "aff_005",
+    "timestamp": "2025-06-04T08:00:00+00:00",
+    "email": "trader7269@gmail.com",
+    "device_fingerprint": "fp_a9af21dbd4b3",
+    "ip_hash": "ip_e24174",
+    "country": "FR",
+    "utm_source": "influencer_b"
+  },
+  {
+    "signup_id": "s0416",
+    "affiliate_id": "aff_005",
+    "timestamp": "2025-06-08T09:00:00+00:00",
+    "email": "trader7536@gmail.com",
+    "device_fingerprint": "fp_802ca45ac4d5",
+    "ip_hash": "ip_e3120",
+    "country": "BR",
+    "utm_source": "facebook"
+  },
+  {
+    "signup_id": "s0417",
+    "affiliate_id": "aff_005",
+    "timestamp": "2025-06-24T21:00:00+00:00",
+    "email": "trader9175@outlook.com",
+    "device_fingerprint": "fp_dfa159f34a67",
+    "ip_hash": "ip_e25189",
+    "country": "FR",
+    "utm_source": "influencer_b"
+  },
+  {
+    "signup_id": "s0418",
+    "affiliate_id": "aff_005",
+    "timestamp": "2025-06-25T03:00:00+00:00",
+    "email": "trader2285@gmail.com",
+    "device_fingerprint": "fp_a9f48ab3ca24",
+    "ip_hash": "ip_e52127",
+    "country": "ZA",
+    "utm_source": "google"
+  },
+  {
+    "signup_id": "s0419",
+    "affiliate_id": "aff_005",
+    "timestamp": "2025-06-20T10:00:00+00:00",
+    "email": "trader5501@protonmail.com",
+    "device_fingerprint": "fp_28b46f2f5e12",
+    "ip_hash": "ip_e58235",
+    "country": "BR",
+    "utm_source": "twitter"
+  },
+  {
+    "signup_id": "s0420",
+    "affiliate_id": "aff_005",
+    "timestamp": "2025-06-18T01:00:00+00:00",
+    "email": "trader6689@hotmail.com",
+    "device_fingerprint": "fp_a2ca4678e105",
+    "ip_hash": "ip_e53199",
+    "country": "DE",
+    "utm_source": "email"
+  },
+  {
+    "signup_id": "s0421",
+    "affiliate_id": "aff_005",
+    "timestamp": "2025-06-22T06:00:00+00:00",
+    "email": "trader2650@protonmail.com",
+    "device_fingerprint": "fp_0167918805ac",
+    "ip_hash": "ip_e49221",
+    "country": "CA",
+    "utm_source": "facebook"
+  },
+  {
+    "signup_id": "s0422",
+    "affiliate_id": "aff_005",
+    "timestamp": "2025-06-06T15:00:00+00:00",
+    "email": "trader4449@protonmail.com",
+    "device_fingerprint": "fp_f80ad185818f",
+    "ip_hash": "ip_e5896",
+    "country": "AU",
+    "utm_source": "influencer_b"
+  },
+  {
+    "signup_id": "s0423",
+    "affiliate_id": "aff_005",
+    "timestamp": "2025-06-24T08:00:00+00:00",
+    "email": "trader4863@throwam.com",
+    "device_fingerprint": "fp_0df1d362127b",
+    "ip_hash": "ip_e3451",
+    "country": "DE",
+    "utm_source": "influencer_b"
+  },
+  {
+    "signup_id": "s0424",
+    "affiliate_id": "aff_005",
+    "timestamp": "2025-06-16T04:00:00+00:00",
+    "email": "trader9470@throwam.com",
+    "device_fingerprint": "fp_b265e69e8adc",
+    "ip_hash": "ip_e30202",
+    "country": "SE",
+    "utm_source": "twitter"
+  },
+  {
+    "signup_id": "s0425",
+    "affiliate_id": "aff_005",
+    "timestamp": "2025-06-02T06:00:00+00:00",
+    "email": "trader5166@throwam.com",
+    "device_fingerprint": "fp_dd12242aacb0",
+    "ip_hash": "ip_e5025",
+    "country": "SE",
+    "utm_source": "influencer_a"
+  },
+  {
+    "signup_id": "s0426",
+    "affiliate_id": "aff_005",
+    "timestamp": "2025-06-01T13:00:00+00:00",
+    "email": "trader6752@gmail.com",
+    "device_fingerprint": "fp_f71acbd269a1",
+    "ip_hash": "ip_e4851",
+    "country": "ZA",
+    "utm_source": "direct"
+  },
+  {
+    "signup_id": "s0427",
+    "affiliate_id": "aff_005",
+    "timestamp": "2025-06-11T21:00:00+00:00",
+    "email": "trader8987@hotmail.com",
+    "device_fingerprint": "fp_1c8ac567aa53",
+    "ip_hash": "ip_e38228",
+    "country": "GB",
+    "utm_source": "email"
+  },
+  {
+    "signup_id": "s0428",
+    "affiliate_id": "aff_005",
+    "timestamp": "2025-06-14T20:00:00+00:00",
+    "email": "trader7631@hotmail.com",
+    "device_fingerprint": "fp_48c64e305c64",
+    "ip_hash": "ip_e1421",
+    "country": "DE",
+    "utm_source": "twitter"
+  },
+  {
+    "signup_id": "s0429",
+    "affiliate_id": "aff_005",
+    "timestamp": "2025-06-21T12:00:00+00:00",
+    "email": "trader8289@yahoo.com",
+    "device_fingerprint": "fp_a03b85a02334",
+    "ip_hash": "ip_e33192",
+    "country": "ZA",
+    "utm_source": "direct"
+  },
+  {
+    "signup_id": "s0430",
+    "affiliate_id": "aff_005",
+    "timestamp": "2025-06-24T07:00:00+00:00",
+    "email": "trader5122@mailinator.com",
+    "device_fingerprint": "fp_c7807964d28a",
+    "ip_hash": "ip_e54192",
+    "country": "GB",
+    "utm_source": "facebook"
+  },
+  {
+    "signup_id": "s0431",
+    "affiliate_id": "aff_005",
+    "timestamp": "2025-06-02T00:00:00+00:00",
+    "email": "trader7504@throwam.com",
+    "device_fingerprint": "fp_f26d085463f8",
+    "ip_hash": "ip_e1527",
+    "country": "CA",
+    "utm_source": "direct"
+  },
+  {
+    "signup_id": "s0432",
+    "affiliate_id": "aff_005",
+    "timestamp": "2025-06-08T23:00:00+00:00",
+    "email": "trader8260@yahoo.com",
+    "device_fingerprint": "fp_c21d31eb918f",
+    "ip_hash": "ip_e18135",
+    "country": "DE",
+    "utm_source": "google"
+  },
+  {
+    "signup_id": "s0433",
+    "affiliate_id": "aff_005",
+    "timestamp": "2025-06-28T17:00:00+00:00",
+    "email": "trader9987@yahoo.com",
+    "device_fingerprint": "fp_7605a90baf11",
+    "ip_hash": "ip_e54139",
+    "country": "DE",
+    "utm_source": "direct"
+  },
+  {
+    "signup_id": "s0434",
+    "affiliate_id": "aff_005",
+    "timestamp": "2025-06-21T20:00:00+00:00",
+    "email": "trader6073@hotmail.com",
+    "device_fingerprint": "fp_29b74c82c51f",
+    "ip_hash": "ip_e40139",
+    "country": "FR",
+    "utm_source": "influencer_b"
+  },
+  {
+    "signup_id": "s0435",
+    "affiliate_id": "aff_005",
+    "timestamp": "2025-06-01T00:00:00+00:00",
+    "email": "trader3233@hotmail.com",
+    "device_fingerprint": "fp_d49128125172",
+    "ip_hash": "ip_e40137",
+    "country": "US",
+    "utm_source": "influencer_a"
+  },
+  {
+    "signup_id": "s0436",
+    "affiliate_id": "aff_005",
+    "timestamp": "2025-06-26T09:00:00+00:00",
+    "email": "trader4788@hotmail.com",
+    "device_fingerprint": "fp_7b00a57f15fc",
+    "ip_hash": "ip_e4596",
+    "country": "FR",
+    "utm_source": "email"
+  },
+  {
+    "signup_id": "s0437",
+    "affiliate_id": "aff_005",
+    "timestamp": "2025-06-08T08:00:00+00:00",
+    "email": "trader7917@gmail.com",
+    "device_fingerprint": "fp_edab6bc0ca93",
+    "ip_hash": "ip_e43196",
+    "country": "ZA",
+    "utm_source": "influencer_b"
+  },
+  {
+    "signup_id": "s0438",
+    "affiliate_id": "aff_005",
+    "timestamp": "2025-06-07T02:00:00+00:00",
+    "email": "trader3238@outlook.com",
+    "device_fingerprint": "fp_e464a9203fa9",
+    "ip_hash": "ip_e50117",
+    "country": "ZA",
+    "utm_source": "email"
+  },
+  {
+    "signup_id": "s0439",
+    "affiliate_id": "aff_006",
+    "timestamp": "2025-06-02T17:00:00+00:00",
+    "email": "mixed2675@tempmail.io",
+    "device_fingerprint": "fp_b7db503a5a62",
+    "ip_hash": "ip_f001",
+    "country": "CA",
+    "utm_source": "twitter"
+  },
+  {
+    "signup_id": "s0440",
+    "affiliate_id": "aff_006",
+    "timestamp": "2025-06-15T23:00:00+00:00",
+    "email": "mixed9086@gmail.com",
+    "device_fingerprint": "fp_9af1c73a9b2e",
+    "ip_hash": "ip_f2904",
+    "country": "FR",
+    "utm_source": "twitter"
+  },
+  {
+    "signup_id": "s0441",
+    "affiliate_id": "aff_006",
+    "timestamp": "2025-06-03T04:00:00+00:00",
+    "email": "mixed9899@gmail.com",
+    "device_fingerprint": "fp_abb1f503e3dd",
+    "ip_hash": "ip_f6019",
+    "country": "SE",
+    "utm_source": "facebook"
+  },
+  {
+    "signup_id": "s0442",
+    "affiliate_id": "aff_006",
+    "timestamp": "2025-06-27T08:00:00+00:00",
+    "email": "mixed5078@protonmail.com",
+    "device_fingerprint": "fp_333d0a34ca33",
+    "ip_hash": "ip_f25250",
+    "country": "NL",
+    "utm_source": "influencer_b"
+  },
+  {
+    "signup_id": "s0443",
+    "affiliate_id": "aff_006",
+    "timestamp": "2025-06-22T06:00:00+00:00",
+    "email": "mixed6293@protonmail.com",
+    "device_fingerprint": "fp_72dbab07b356",
+    "ip_hash": "ip_f49240",
+    "country": "DE",
+    "utm_source": "influencer_a"
+  },
+  {
+    "signup_id": "s0444",
+    "affiliate_id": "aff_006",
+    "timestamp": "2025-06-07T11:00:00+00:00",
+    "email": "mixed4568@tempmail.io",
+    "device_fingerprint": "fp_b7db503a5a62",
+    "ip_hash": "ip_f003",
+    "country": "GB",
+    "utm_source": "facebook"
+  },
+  {
+    "signup_id": "s0445",
+    "affiliate_id": "aff_006",
+    "timestamp": "2025-06-26T07:00:00+00:00",
+    "email": "mixed8786@gmail.com",
+    "device_fingerprint": "fp_001e3a83c887",
+    "ip_hash": "ip_f84201",
+    "country": "ZA",
+    "utm_source": "facebook"
+  },
+  {
+    "signup_id": "s0446",
+    "affiliate_id": "aff_006",
+    "timestamp": "2025-06-02T11:00:00+00:00",
+    "email": "mixed8992@outlook.com",
+    "device_fingerprint": "fp_4845e4ab0b9f",
+    "ip_hash": "ip_f2333",
+    "country": "FR",
+    "utm_source": "twitter"
+  },
+  {
+    "signup_id": "s0447",
+    "affiliate_id": "aff_006",
+    "timestamp": "2025-06-01T22:00:00+00:00",
+    "email": "mixed1646@protonmail.com",
+    "device_fingerprint": "fp_057ab4db785f",
+    "ip_hash": "ip_f2765",
+    "country": "SE",
+    "utm_source": "influencer_a"
+  },
+  {
+    "signup_id": "s0448",
+    "affiliate_id": "aff_006",
+    "timestamp": "2025-06-12T10:00:00+00:00",
+    "email": "mixed3627@protonmail.com",
+    "device_fingerprint": "fp_3a3093d97f16",
+    "ip_hash": "ip_f86235",
+    "country": "GB",
+    "utm_source": "direct"
+  },
+  {
+    "signup_id": "s0449",
+    "affiliate_id": "aff_006",
+    "timestamp": "2025-06-10T08:00:00+00:00",
+    "email": "mixed1011@sharklasers.com",
+    "device_fingerprint": "fp_b7db503a5a62",
+    "ip_hash": "ip_f002",
+    "country": "BR",
+    "utm_source": "email"
+  },
+  {
+    "signup_id": "s0450",
+    "affiliate_id": "aff_006",
+    "timestamp": "2025-06-24T02:00:00+00:00",
+    "email": "mixed9151@hotmail.com",
+    "device_fingerprint": "fp_7d28c1363b06",
+    "ip_hash": "ip_f34135",
+    "country": "BR",
+    "utm_source": "facebook"
+  },
+  {
+    "signup_id": "s0451",
+    "affiliate_id": "aff_006",
+    "timestamp": "2025-06-02T04:00:00+00:00",
+    "email": "mixed8952@outlook.com",
+    "device_fingerprint": "fp_15dc3a77e49e",
+    "ip_hash": "ip_f3528",
+    "country": "FR",
+    "utm_source": "google"
+  },
+  {
+    "signup_id": "s0452",
+    "affiliate_id": "aff_006",
+    "timestamp": "2025-06-21T12:00:00+00:00",
+    "email": "mixed5193@protonmail.com",
+    "device_fingerprint": "fp_d592ab0b503d",
+    "ip_hash": "ip_f99152",
+    "country": "US",
+    "utm_source": "twitter"
+  },
+  {
+    "signup_id": "s0453",
+    "affiliate_id": "aff_006",
+    "timestamp": "2025-06-15T20:00:00+00:00",
+    "email": "mixed7046@gmail.com",
+    "device_fingerprint": "fp_96282c2f76ca",
+    "ip_hash": "ip_f63211",
+    "country": "US",
+    "utm_source": "influencer_b"
+  },
+  {
+    "signup_id": "s0454",
+    "affiliate_id": "aff_006",
+    "timestamp": "2025-06-17T03:00:00+00:00",
+    "email": "mixed4784@guerrillamail.com",
+    "device_fingerprint": "fp_b7db503a5a62",
+    "ip_hash": "ip_f003",
+    "country": "BR",
+    "utm_source": "email"
+  },
+  {
+    "signup_id": "s0455",
+    "affiliate_id": "aff_006",
+    "timestamp": "2025-06-17T21:00:00+00:00",
+    "email": "mixed7802@outlook.com",
+    "device_fingerprint": "fp_6e0f5233062b",
+    "ip_hash": "ip_f32143",
+    "country": "GB",
+    "utm_source": "influencer_b"
+  },
+  {
+    "signup_id": "s0456",
+    "affiliate_id": "aff_006",
+    "timestamp": "2025-06-26T05:00:00+00:00",
+    "email": "mixed3591@hotmail.com",
+    "device_fingerprint": "fp_686c095c3e3f",
+    "ip_hash": "ip_f53169",
+    "country": "BR",
+    "utm_source": "direct"
+  },
+  {
+    "signup_id": "s0457",
+    "affiliate_id": "aff_006",
+    "timestamp": "2025-06-14T20:00:00+00:00",
+    "email": "mixed4943@protonmail.com",
+    "device_fingerprint": "fp_1c60b3031d38",
+    "ip_hash": "ip_f51156",
+    "country": "ZA",
+    "utm_source": "direct"
+  },
+  {
+    "signup_id": "s0458",
+    "affiliate_id": "aff_006",
+    "timestamp": "2025-06-13T00:00:00+00:00",
+    "email": "mixed9480@gmail.com",
+    "device_fingerprint": "fp_1d7c6431a02a",
+    "ip_hash": "ip_f8605",
+    "country": "DE",
+    "utm_source": "twitter"
+  },
+  {
+    "signup_id": "s0459",
+    "affiliate_id": "aff_006",
+    "timestamp": "2025-06-08T06:00:00+00:00",
+    "email": "mixed5521@sharklasers.com",
+    "device_fingerprint": "fp_b7db503a5a62",
+    "ip_hash": "ip_f001",
+    "country": "BR",
+    "utm_source": "direct"
+  },
+  {
+    "signup_id": "s0460",
+    "affiliate_id": "aff_006",
+    "timestamp": "2025-06-05T08:00:00+00:00",
+    "email": "mixed5198@yahoo.com",
+    "device_fingerprint": "fp_52e097f46194",
+    "ip_hash": "ip_f4160",
+    "country": "CA",
+    "utm_source": "google"
+  },
+  {
+    "signup_id": "s0461",
+    "affiliate_id": "aff_006",
+    "timestamp": "2025-06-06T15:00:00+00:00",
+    "email": "mixed5921@hotmail.com",
+    "device_fingerprint": "fp_aaf824ae01a8",
+    "ip_hash": "ip_f22153",
+    "country": "US",
+    "utm_source": "influencer_a"
+  },
+  {
+    "signup_id": "s0462",
+    "affiliate_id": "aff_006",
+    "timestamp": "2025-06-29T13:00:00+00:00",
+    "email": "mixed4714@protonmail.com",
+    "device_fingerprint": "fp_7d3024e59e9a",
+    "ip_hash": "ip_f25223",
+    "country": "ZA",
+    "utm_source": "google"
+  },
+  {
+    "signup_id": "s0463",
+    "affiliate_id": "aff_006",
+    "timestamp": "2025-06-19T04:00:00+00:00",
+    "email": "mixed1827@yahoo.com",
+    "device_fingerprint": "fp_56c49debb157",
+    "ip_hash": "ip_f3840",
+    "country": "NL",
+    "utm_source": "email"
+  },
+  {
+    "signup_id": "s0464",
+    "affiliate_id": "aff_006",
+    "timestamp": "2025-06-05T10:00:00+00:00",
+    "email": "mixed1807@guerrillamail.com",
+    "device_fingerprint": "fp_b7db503a5a62",
+    "ip_hash": "ip_f002",
+    "country": "BR",
+    "utm_source": "email"
+  },
+  {
+    "signup_id": "s0465",
+    "affiliate_id": "aff_006",
+    "timestamp": "2025-06-18T06:00:00+00:00",
+    "email": "mixed9589@protonmail.com",
+    "device_fingerprint": "fp_1fa6e7bb74a6",
+    "ip_hash": "ip_f8351",
+    "country": "FR",
+    "utm_source": "facebook"
+  },
+  {
+    "signup_id": "s0466",
+    "affiliate_id": "aff_006",
+    "timestamp": "2025-06-25T13:00:00+00:00",
+    "email": "mixed2843@yahoo.com",
+    "device_fingerprint": "fp_8ca4d9d17b1c",
+    "ip_hash": "ip_f8323",
+    "country": "NL",
+    "utm_source": "email"
+  },
+  {
+    "signup_id": "s0467",
+    "affiliate_id": "aff_006",
+    "timestamp": "2025-06-12T19:00:00+00:00",
+    "email": "mixed4825@protonmail.com",
+    "device_fingerprint": "fp_ffbf2ddc637f",
+    "ip_hash": "ip_f6612",
+    "country": "FR",
+    "utm_source": "influencer_a"
+  },
+  {
+    "signup_id": "s0468",
+    "affiliate_id": "aff_006",
+    "timestamp": "2025-06-20T04:00:00+00:00",
+    "email": "mixed2823@yahoo.com",
+    "device_fingerprint": "fp_fa0ba6f3fe0a",
+    "ip_hash": "ip_f98206",
+    "country": "CA",
+    "utm_source": "email"
+  },
+  {
+    "signup_id": "s0469",
+    "affiliate_id": "aff_006",
+    "timestamp": "2025-06-25T08:00:00+00:00",
+    "email": "mixed3315@fakeinbox.com",
+    "device_fingerprint": "fp_b7db503a5a62",
+    "ip_hash": "ip_f003",
+    "country": "US",
+    "utm_source": "email"
+  },
+  {
+    "signup_id": "s0470",
+    "affiliate_id": "aff_006",
+    "timestamp": "2025-06-26T22:00:00+00:00",
+    "email": "mixed1136@hotmail.com",
+    "device_fingerprint": "fp_a26d48c0a802",
+    "ip_hash": "ip_f69168",
+    "country": "GB",
+    "utm_source": "email"
+  },
+  {
+    "signup_id": "s0471",
+    "affiliate_id": "aff_006",
+    "timestamp": "2025-06-10T20:00:00+00:00",
+    "email": "mixed2631@protonmail.com",
+    "device_fingerprint": "fp_2e7620ed08c9",
+    "ip_hash": "ip_f58131",
+    "country": "AU",
+    "utm_source": "email"
+  },
+  {
+    "signup_id": "s0472",
+    "affiliate_id": "aff_006",
+    "timestamp": "2025-06-30T22:00:00+00:00",
+    "email": "mixed6465@gmail.com",
+    "device_fingerprint": "fp_90cf06fb50b2",
+    "ip_hash": "ip_f7779",
+    "country": "SE",
+    "utm_source": "email"
+  },
+  {
+    "signup_id": "s0473",
+    "affiliate_id": "aff_006",
+    "timestamp": "2025-06-17T08:00:00+00:00",
+    "email": "mixed1482@gmail.com",
+    "device_fingerprint": "fp_c757011dccda",
+    "ip_hash": "ip_f59228",
+    "country": "BR",
+    "utm_source": "twitter"
+  },
+  {
+    "signup_id": "s0474",
+    "affiliate_id": "aff_006",
+    "timestamp": "2025-06-22T19:00:00+00:00",
+    "email": "mixed4938@throwam.com",
+    "device_fingerprint": "fp_b7db503a5a62",
+    "ip_hash": "ip_f002",
+    "country": "ZA",
+    "utm_source": "facebook"
+  },
+  {
+    "signup_id": "s0475",
+    "affiliate_id": "aff_006",
+    "timestamp": "2025-06-21T04:00:00+00:00",
+    "email": "mixed3262@hotmail.com",
+    "device_fingerprint": "fp_45a9bcaddc73",
+    "ip_hash": "ip_f35221",
+    "country": "CA",
+    "utm_source": "influencer_a"
+  },
+  {
+    "signup_id": "s0476",
+    "affiliate_id": "aff_006",
+    "timestamp": "2025-06-30T05:00:00+00:00",
+    "email": "mixed2939@yahoo.com",
+    "device_fingerprint": "fp_b4c4befa0056",
+    "ip_hash": "ip_f78243",
+    "country": "DE",
+    "utm_source": "twitter"
+  },
+  {
+    "signup_id": "s0477",
+    "affiliate_id": "aff_006",
+    "timestamp": "2025-06-10T14:00:00+00:00",
+    "email": "mixed3155@yahoo.com",
+    "device_fingerprint": "fp_9e317187b2c1",
+    "ip_hash": "ip_f3428",
+    "country": "DE",
+    "utm_source": "google"
+  },
+  {
+    "signup_id": "s0478",
+    "affiliate_id": "aff_006",
+    "timestamp": "2025-06-08T07:00:00+00:00",
+    "email": "mixed8808@gmail.com",
+    "device_fingerprint": "fp_18a400cb7ac0",
+    "ip_hash": "ip_f98200",
+    "country": "DE",
+    "utm_source": "direct"
+  },
+  {
+    "signup_id": "s0479",
+    "affiliate_id": "aff_006",
+    "timestamp": "2025-06-16T04:00:00+00:00",
+    "email": "mixed4707@mailinator.com",
+    "device_fingerprint": "fp_b7db503a5a62",
+    "ip_hash": "ip_f001",
+    "country": "US",
+    "utm_source": "email"
+  },
+  {
+    "signup_id": "s0480",
+    "affiliate_id": "aff_006",
+    "timestamp": "2025-06-03T05:00:00+00:00",
+    "email": "mixed6323@protonmail.com",
+    "device_fingerprint": "fp_dbcfe370dc09",
+    "ip_hash": "ip_f72177",
+    "country": "SE",
+    "utm_source": "facebook"
+  },
+  {
+    "signup_id": "s0481",
+    "affiliate_id": "aff_006",
+    "timestamp": "2025-06-20T23:00:00+00:00",
+    "email": "mixed1630@hotmail.com",
+    "device_fingerprint": "fp_d461cc08c422",
+    "ip_hash": "ip_f77165",
+    "country": "BR",
+    "utm_source": "google"
+  },
+  {
+    "signup_id": "s0482",
+    "affiliate_id": "aff_006",
+    "timestamp": "2025-06-13T23:00:00+00:00",
+    "email": "mixed1807@gmail.com",
+    "device_fingerprint": "fp_0cfd0afd705f",
+    "ip_hash": "ip_f76196",
+    "country": "FR",
+    "utm_source": "twitter"
+  },
+  {
+    "signup_id": "s0483",
+    "affiliate_id": "aff_006",
+    "timestamp": "2025-06-10T19:00:00+00:00",
+    "email": "mixed8400@gmail.com",
+    "device_fingerprint": "fp_66e74ee4207b",
+    "ip_hash": "ip_f28119",
+    "country": "GB",
+    "utm_source": "influencer_a"
+  },
+  {
+    "signup_id": "s0484",
+    "affiliate_id": "aff_006",
+    "timestamp": "2025-06-13T13:00:00+00:00",
+    "email": "mixed1408@sharklasers.com",
+    "device_fingerprint": "fp_b7db503a5a62",
+    "ip_hash": "ip_f002",
+    "country": "DE",
+    "utm_source": "email"
+  },
+  {
+    "signup_id": "s0485",
+    "affiliate_id": "aff_006",
+    "timestamp": "2025-06-23T20:00:00+00:00",
+    "email": "mixed2870@outlook.com",
+    "device_fingerprint": "fp_9b0d00b64ef9",
+    "ip_hash": "ip_f2524",
+    "country": "SE",
+    "utm_source": "influencer_a"
+  },
+  {
+    "signup_id": "s0486",
+    "affiliate_id": "aff_006",
+    "timestamp": "2025-06-06T12:00:00+00:00",
+    "email": "mixed6491@hotmail.com",
+    "device_fingerprint": "fp_8d22fb23a37c",
+    "ip_hash": "ip_f31234",
+    "country": "ZA",
+    "utm_source": "influencer_b"
+  },
+  {
+    "signup_id": "s0487",
+    "affiliate_id": "aff_006",
+    "timestamp": "2025-06-10T09:00:00+00:00",
+    "email": "mixed3155@protonmail.com",
+    "device_fingerprint": "fp_db5e0389bfed",
+    "ip_hash": "ip_f3331",
+    "country": "FR",
+    "utm_source": "google"
+  },
+  {
+    "signup_id": "s0488",
+    "affiliate_id": "aff_006",
+    "timestamp": "2025-06-20T15:00:00+00:00",
+    "email": "mixed8434@outlook.com",
+    "device_fingerprint": "fp_5f8afdb29184",
+    "ip_hash": "ip_f94122",
+    "country": "NL",
+    "utm_source": "email"
+  },
+  {
+    "signup_id": "s0489",
+    "affiliate_id": "aff_006",
+    "timestamp": "2025-06-20T00:00:00+00:00",
+    "email": "mixed5556@throwam.com",
+    "device_fingerprint": "fp_b7db503a5a62",
+    "ip_hash": "ip_f003",
+    "country": "ZA",
+    "utm_source": "influencer_a"
+  },
+  {
+    "signup_id": "s0490",
+    "affiliate_id": "aff_006",
+    "timestamp": "2025-06-05T01:00:00+00:00",
+    "email": "mixed2436@hotmail.com",
+    "device_fingerprint": "fp_82fc2ace52b5",
+    "ip_hash": "ip_f4885",
+    "country": "US",
+    "utm_source": "google"
+  },
+  {
+    "signup_id": "s0491",
+    "affiliate_id": "aff_006",
+    "timestamp": "2025-06-26T17:00:00+00:00",
+    "email": "mixed1587@outlook.com",
+    "device_fingerprint": "fp_effdba3be83e",
+    "ip_hash": "ip_f8493",
+    "country": "GB",
+    "utm_source": "influencer_b"
+  },
+  {
+    "signup_id": "s0492",
+    "affiliate_id": "aff_006",
+    "timestamp": "2025-06-03T09:00:00+00:00",
+    "email": "mixed5496@protonmail.com",
+    "device_fingerprint": "fp_566a26bfc368",
+    "ip_hash": "ip_f98221",
+    "country": "AU",
+    "utm_source": "direct"
+  },
+  {
+    "signup_id": "s0493",
+    "affiliate_id": "aff_006",
+    "timestamp": "2025-06-03T15:00:00+00:00",
+    "email": "mixed6185@hotmail.com",
+    "device_fingerprint": "fp_31dee3790bb7",
+    "ip_hash": "ip_f46110",
+    "country": "CA",
+    "utm_source": "direct"
+  },
+  {
+    "signup_id": "s0494",
+    "affiliate_id": "aff_006",
+    "timestamp": "2025-06-24T20:00:00+00:00",
+    "email": "mixed3947@fakeinbox.com",
+    "device_fingerprint": "fp_b7db503a5a62",
+    "ip_hash": "ip_f002",
+    "country": "ZA",
+    "utm_source": "facebook"
+  },
+  {
+    "signup_id": "s0495",
+    "affiliate_id": "aff_006",
+    "timestamp": "2025-06-26T19:00:00+00:00",
+    "email": "mixed4478@protonmail.com",
+    "device_fingerprint": "fp_7fa8b7389282",
+    "ip_hash": "ip_f5290",
+    "country": "US",
+    "utm_source": "influencer_a"
+  },
+  {
+    "signup_id": "s0496",
+    "affiliate_id": "aff_006",
+    "timestamp": "2025-06-11T00:00:00+00:00",
+    "email": "mixed1477@gmail.com",
+    "device_fingerprint": "fp_de1cc6fe4f44",
+    "ip_hash": "ip_f53102",
+    "country": "DE",
+    "utm_source": "facebook"
+  },
+  {
+    "signup_id": "s0497",
+    "affiliate_id": "aff_006",
+    "timestamp": "2025-06-16T04:00:00+00:00",
+    "email": "mixed6490@protonmail.com",
+    "device_fingerprint": "fp_56312061962b",
+    "ip_hash": "ip_f78230",
+    "country": "SE",
+    "utm_source": "influencer_b"
+  },
+  {
+    "signup_id": "s0498",
+    "affiliate_id": "aff_006",
+    "timestamp": "2025-06-18T17:00:00+00:00",
+    "email": "mixed6793@gmail.com",
+    "device_fingerprint": "fp_eaa732fa84d5",
+    "ip_hash": "ip_f9785",
+    "country": "GB",
+    "utm_source": "facebook"
+  },
+  {
+    "signup_id": "s0499",
+    "affiliate_id": "aff_006",
+    "timestamp": "2025-06-20T12:00:00+00:00",
+    "email": "mixed2914@mailinator.com",
+    "device_fingerprint": "fp_b7db503a5a62",
+    "ip_hash": "ip_f003",
+    "country": "CA",
+    "utm_source": "influencer_a"
+  },
+  {
+    "signup_id": "s0500",
+    "affiliate_id": "aff_006",
+    "timestamp": "2025-06-15T09:00:00+00:00",
+    "email": "mixed7131@outlook.com",
+    "device_fingerprint": "fp_c47175b0e813",
+    "ip_hash": "ip_f3229",
+    "country": "US",
+    "utm_source": "influencer_b"
+  },
+  {
+    "signup_id": "s0501",
+    "affiliate_id": "aff_006",
+    "timestamp": "2025-06-07T10:00:00+00:00",
+    "email": "mixed6363@protonmail.com",
+    "device_fingerprint": "fp_aacd3ddc3aec",
+    "ip_hash": "ip_f7780",
+    "country": "DE",
+    "utm_source": "influencer_b"
+  },
+  {
+    "signup_id": "s0502",
+    "affiliate_id": "aff_006",
+    "timestamp": "2025-06-24T01:00:00+00:00",
+    "email": "mixed1067@protonmail.com",
+    "device_fingerprint": "fp_becc602f1f8f",
+    "ip_hash": "ip_f7630",
+    "country": "CA",
+    "utm_source": "google"
+  },
+  {
+    "signup_id": "s0503",
+    "affiliate_id": "aff_006",
+    "timestamp": "2025-06-17T21:00:00+00:00",
+    "email": "mixed4438@yahoo.com",
+    "device_fingerprint": "fp_19dab32450f1",
+    "ip_hash": "ip_f49164",
+    "country": "AU",
+    "utm_source": "facebook"
+  },
+  {
+    "signup_id": "s0504",
+    "affiliate_id": "aff_006",
+    "timestamp": "2025-06-09T17:00:00+00:00",
+    "email": "mixed2927@sharklasers.com",
+    "device_fingerprint": "fp_b7db503a5a62",
+    "ip_hash": "ip_f002",
+    "country": "CA",
+    "utm_source": "facebook"
+  },
+  {
+    "signup_id": "s0505",
+    "affiliate_id": "aff_006",
+    "timestamp": "2025-06-04T00:00:00+00:00",
+    "email": "mixed9888@hotmail.com",
+    "device_fingerprint": "fp_c45687d0976a",
+    "ip_hash": "ip_f2353",
+    "country": "AU",
+    "utm_source": "direct"
+  },
+  {
+    "signup_id": "s0506",
+    "affiliate_id": "aff_006",
+    "timestamp": "2025-06-03T09:00:00+00:00",
+    "email": "mixed1831@hotmail.com",
+    "device_fingerprint": "fp_43944b376a79",
+    "ip_hash": "ip_f79114",
+    "country": "DE",
+    "utm_source": "google"
+  },
+  {
+    "signup_id": "s0507",
+    "affiliate_id": "aff_006",
+    "timestamp": "2025-06-06T22:00:00+00:00",
+    "email": "mixed8304@hotmail.com",
+    "device_fingerprint": "fp_987aa45516fd",
+    "ip_hash": "ip_f90215",
+    "country": "ZA",
+    "utm_source": "twitter"
+  },
+  {
+    "signup_id": "s0508",
+    "affiliate_id": "aff_006",
+    "timestamp": "2025-06-30T14:00:00+00:00",
+    "email": "mixed2593@hotmail.com",
+    "device_fingerprint": "fp_fc86167b3bdd",
+    "ip_hash": "ip_f99120",
+    "country": "SE",
+    "utm_source": "twitter"
+  },
+  {
+    "signup_id": "s0509",
+    "affiliate_id": "aff_006",
+    "timestamp": "2025-06-28T19:00:00+00:00",
+    "email": "mixed7423@yopmail.com",
+    "device_fingerprint": "fp_b7db503a5a62",
+    "ip_hash": "ip_f002",
+    "country": "DE",
+    "utm_source": "influencer_a"
+  },
+  {
+    "signup_id": "s0510",
+    "affiliate_id": "aff_006",
+    "timestamp": "2025-06-03T15:00:00+00:00",
+    "email": "mixed3798@gmail.com",
+    "device_fingerprint": "fp_bb440306ad1e",
+    "ip_hash": "ip_f69217",
+    "country": "CA",
+    "utm_source": "influencer_b"
+  },
+  {
+    "signup_id": "s0511",
+    "affiliate_id": "aff_006",
+    "timestamp": "2025-06-18T20:00:00+00:00",
+    "email": "mixed7566@gmail.com",
+    "device_fingerprint": "fp_83b4a07d1866",
+    "ip_hash": "ip_f78119",
+    "country": "ZA",
+    "utm_source": "email"
+  },
+  {
+    "signup_id": "s0512",
+    "affiliate_id": "aff_006",
+    "timestamp": "2025-06-07T22:00:00+00:00",
+    "email": "mixed6606@hotmail.com",
+    "device_fingerprint": "fp_576e71a9b20a",
+    "ip_hash": "ip_f65146",
+    "country": "BR",
+    "utm_source": "influencer_a"
+  },
+  {
+    "signup_id": "s0513",
+    "affiliate_id": "aff_006",
+    "timestamp": "2025-06-04T18:00:00+00:00",
+    "email": "mixed8294@hotmail.com",
+    "device_fingerprint": "fp_452b3ecedad0",
+    "ip_hash": "ip_f8125",
+    "country": "DE",
+    "utm_source": "twitter"
+  },
+  {
+    "signup_id": "s0514",
+    "affiliate_id": "aff_006",
+    "timestamp": "2025-06-16T20:00:00+00:00",
+    "email": "mixed4565@tempmail.io",
+    "device_fingerprint": "fp_b7db503a5a62",
+    "ip_hash": "ip_f001",
+    "country": "DE",
+    "utm_source": "direct"
+  },
+  {
+    "signup_id": "s0515",
+    "affiliate_id": "aff_006",
+    "timestamp": "2025-06-18T09:00:00+00:00",
+    "email": "mixed4369@protonmail.com",
+    "device_fingerprint": "fp_19b87b0fd6c0",
+    "ip_hash": "ip_f6751",
+    "country": "AU",
+    "utm_source": "twitter"
+  },
+  {
+    "signup_id": "s0516",
+    "affiliate_id": "aff_006",
+    "timestamp": "2025-06-03T18:00:00+00:00",
+    "email": "mixed3089@gmail.com",
+    "device_fingerprint": "fp_efeebb2de61d",
+    "ip_hash": "ip_f75104",
+    "country": "CA",
+    "utm_source": "google"
+  }
+]

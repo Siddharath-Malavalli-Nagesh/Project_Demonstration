@@ -1,0 +1,4646 @@
+[
+  {
+    "signup_id": "s0001",
+    "affiliate_id": "aff_001",
+    "first_deposit_usd": 0.0,
+    "total_deposits_usd": 0.0,
+    "total_withdrawals_usd": 0.0,
+    "trades_count": 0,
+    "first_30d_active_days": 0
+  },
+  {
+    "signup_id": "s0002",
+    "affiliate_id": "aff_001",
+    "first_deposit_usd": 0.0,
+    "total_deposits_usd": 0.0,
+    "total_withdrawals_usd": 0.0,
+    "trades_count": 0,
+    "first_30d_active_days": 0
+  },
+  {
+    "signup_id": "s0003",
+    "affiliate_id": "aff_001",
+    "first_deposit_usd": 14.17,
+    "total_deposits_usd": 15.4,
+    "total_withdrawals_usd": 0.0,
+    "trades_count": 1,
+    "first_30d_active_days": 2
+  },
+  {
+    "signup_id": "s0004",
+    "affiliate_id": "aff_001",
+    "first_deposit_usd": 15.05,
+    "total_deposits_usd": 15.19,
+    "total_withdrawals_usd": 0.0,
+    "trades_count": 0,
+    "first_30d_active_days": 1
+  },
+  {
+    "signup_id": "s0005",
+    "affiliate_id": "aff_001",
+    "first_deposit_usd": 0.0,
+    "total_deposits_usd": 0.0,
+    "total_withdrawals_usd": 0.0,
+    "trades_count": 0,
+    "first_30d_active_days": 0
+  },
+  {
+    "signup_id": "s0006",
+    "affiliate_id": "aff_001",
+    "first_deposit_usd": 0.0,
+    "total_deposits_usd": 0.0,
+    "total_withdrawals_usd": 0.0,
+    "trades_count": 0,
+    "first_30d_active_days": 0
+  },
+  {
+    "signup_id": "s0007",
+    "affiliate_id": "aff_001",
+    "first_deposit_usd": 23.0,
+    "total_deposits_usd": 23.87,
+    "total_withdrawals_usd": 0.0,
+    "trades_count": 3,
+    "first_30d_active_days": 2
+  },
+  {
+    "signup_id": "s0008",
+    "affiliate_id": "aff_001",
+    "first_deposit_usd": 20.53,
+    "total_deposits_usd": 21.93,
+    "total_withdrawals_usd": 0.0,
+    "trades_count": 0,
+    "first_30d_active_days": 2
+  },
+  {
+    "signup_id": "s0009",
+    "affiliate_id": "aff_001",
+    "first_deposit_usd": 14.05,
+    "total_deposits_usd": 15.35,
+    "total_withdrawals_usd": 0.0,
+    "trades_count": 1,
+    "first_30d_active_days": 2
+  },
+  {
+    "signup_id": "s0010",
+    "affiliate_id": "aff_001",
+    "first_deposit_usd": 10.99,
+    "total_deposits_usd": 12.0,
+    "total_withdrawals_usd": 0.0,
+    "trades_count": 2,
+    "first_30d_active_days": 0
+  },
+  {
+    "signup_id": "s0011",
+    "affiliate_id": "aff_001",
+    "first_deposit_usd": 0.0,
+    "total_deposits_usd": 0.0,
+    "total_withdrawals_usd": 0.0,
+    "trades_count": 0,
+    "first_30d_active_days": 0
+  },
+  {
+    "signup_id": "s0012",
+    "affiliate_id": "aff_001",
+    "first_deposit_usd": 0.0,
+    "total_deposits_usd": 0.0,
+    "total_withdrawals_usd": 0.0,
+    "trades_count": 0,
+    "first_30d_active_days": 0
+  },
+  {
+    "signup_id": "s0013",
+    "affiliate_id": "aff_001",
+    "first_deposit_usd": 0.0,
+    "total_deposits_usd": 0.0,
+    "total_withdrawals_usd": 0.0,
+    "trades_count": 0,
+    "first_30d_active_days": 0
+  },
+  {
+    "signup_id": "s0014",
+    "affiliate_id": "aff_001",
+    "first_deposit_usd": 17.02,
+    "total_deposits_usd": 17.45,
+    "total_withdrawals_usd": 0.0,
+    "trades_count": 0,
+    "first_30d_active_days": 2
+  },
+  {
+    "signup_id": "s0015",
+    "affiliate_id": "aff_001",
+    "first_deposit_usd": 16.81,
+    "total_deposits_usd": 18.41,
+    "total_withdrawals_usd": 0.0,
+    "trades_count": 2,
+    "first_30d_active_days": 2
+  },
+  {
+    "signup_id": "s0016",
+    "affiliate_id": "aff_001",
+    "first_deposit_usd": 0.0,
+    "total_deposits_usd": 0.0,
+    "total_withdrawals_usd": 0.0,
+    "trades_count": 0,
+    "first_30d_active_days": 0
+  },
+  {
+    "signup_id": "s0017",
+    "affiliate_id": "aff_001",
+    "first_deposit_usd": 0.0,
+    "total_deposits_usd": 0.0,
+    "total_withdrawals_usd": 0.0,
+    "trades_count": 0,
+    "first_30d_active_days": 0
+  },
+  {
+    "signup_id": "s0018",
+    "affiliate_id": "aff_001",
+    "first_deposit_usd": 24.2,
+    "total_deposits_usd": 24.41,
+    "total_withdrawals_usd": 0.0,
+    "trades_count": 3,
+    "first_30d_active_days": 0
+  },
+  {
+    "signup_id": "s0019",
+    "affiliate_id": "aff_001",
+    "first_deposit_usd": 0.0,
+    "total_deposits_usd": 0.0,
+    "total_withdrawals_usd": 0.0,
+    "trades_count": 0,
+    "first_30d_active_days": 0
+  },
+  {
+    "signup_id": "s0020",
+    "affiliate_id": "aff_001",
+    "first_deposit_usd": 0.0,
+    "total_deposits_usd": 0.0,
+    "total_withdrawals_usd": 0.0,
+    "trades_count": 0,
+    "first_30d_active_days": 0
+  },
+  {
+    "signup_id": "s0021",
+    "affiliate_id": "aff_001",
+    "first_deposit_usd": 0.0,
+    "total_deposits_usd": 0.0,
+    "total_withdrawals_usd": 0.0,
+    "trades_count": 0,
+    "first_30d_active_days": 0
+  },
+  {
+    "signup_id": "s0022",
+    "affiliate_id": "aff_001",
+    "first_deposit_usd": 0.0,
+    "total_deposits_usd": 0.0,
+    "total_withdrawals_usd": 0.0,
+    "trades_count": 0,
+    "first_30d_active_days": 0
+  },
+  {
+    "signup_id": "s0023",
+    "affiliate_id": "aff_001",
+    "first_deposit_usd": 11.06,
+    "total_deposits_usd": 11.33,
+    "total_withdrawals_usd": 0.0,
+    "trades_count": 3,
+    "first_30d_active_days": 0
+  },
+  {
+    "signup_id": "s0024",
+    "affiliate_id": "aff_001",
+    "first_deposit_usd": 12.86,
+    "total_deposits_usd": 12.98,
+    "total_withdrawals_usd": 0.0,
+    "trades_count": 3,
+    "first_30d_active_days": 1
+  },
+  {
+    "signup_id": "s0025",
+    "affiliate_id": "aff_001",
+    "first_deposit_usd": 0.0,
+    "total_deposits_usd": 0.0,
+    "total_withdrawals_usd": 0.0,
+    "trades_count": 0,
+    "first_30d_active_days": 0
+  },
+  {
+    "signup_id": "s0026",
+    "affiliate_id": "aff_001",
+    "first_deposit_usd": 12.1,
+    "total_deposits_usd": 12.32,
+    "total_withdrawals_usd": 0.0,
+    "trades_count": 3,
+    "first_30d_active_days": 0
+  },
+  {
+    "signup_id": "s0027",
+    "affiliate_id": "aff_001",
+    "first_deposit_usd": 24.53,
+    "total_deposits_usd": 26.81,
+    "total_withdrawals_usd": 0.0,
+    "trades_count": 1,
+    "first_30d_active_days": 0
+  },
+  {
+    "signup_id": "s0028",
+    "affiliate_id": "aff_001",
+    "first_deposit_usd": 12.47,
+    "total_deposits_usd": 12.47,
+    "total_withdrawals_usd": 0.0,
+    "trades_count": 3,
+    "first_30d_active_days": 1
+  },
+  {
+    "signup_id": "s0029",
+    "affiliate_id": "aff_001",
+    "first_deposit_usd": 0.0,
+    "total_deposits_usd": 0.0,
+    "total_withdrawals_usd": 0.0,
+    "trades_count": 0,
+    "first_30d_active_days": 0
+  },
+  {
+    "signup_id": "s0030",
+    "affiliate_id": "aff_001",
+    "first_deposit_usd": 0.0,
+    "total_deposits_usd": 0.0,
+    "total_withdrawals_usd": 0.0,
+    "trades_count": 0,
+    "first_30d_active_days": 0
+  },
+  {
+    "signup_id": "s0031",
+    "affiliate_id": "aff_001",
+    "first_deposit_usd": 11.2,
+    "total_deposits_usd": 11.41,
+    "total_withdrawals_usd": 0.0,
+    "trades_count": 0,
+    "first_30d_active_days": 2
+  },
+  {
+    "signup_id": "s0032",
+    "affiliate_id": "aff_001",
+    "first_deposit_usd": 19.29,
+    "total_deposits_usd": 20.1,
+    "total_withdrawals_usd": 0.0,
+    "trades_count": 2,
+    "first_30d_active_days": 1
+  },
+  {
+    "signup_id": "s0033",
+    "affiliate_id": "aff_001",
+    "first_deposit_usd": 0.0,
+    "total_deposits_usd": 0.0,
+    "total_withdrawals_usd": 0.0,
+    "trades_count": 0,
+    "first_30d_active_days": 0
+  },
+  {
+    "signup_id": "s0034",
+    "affiliate_id": "aff_001",
+    "first_deposit_usd": 0.0,
+    "total_deposits_usd": 0.0,
+    "total_withdrawals_usd": 0.0,
+    "trades_count": 0,
+    "first_30d_active_days": 0
+  },
+  {
+    "signup_id": "s0035",
+    "affiliate_id": "aff_001",
+    "first_deposit_usd": 0.0,
+    "total_deposits_usd": 0.0,
+    "total_withdrawals_usd": 0.0,
+    "trades_count": 0,
+    "first_30d_active_days": 0
+  },
+  {
+    "signup_id": "s0036",
+    "affiliate_id": "aff_001",
+    "first_deposit_usd": 0.0,
+    "total_deposits_usd": 0.0,
+    "total_withdrawals_usd": 0.0,
+    "trades_count": 0,
+    "first_30d_active_days": 0
+  },
+  {
+    "signup_id": "s0037",
+    "affiliate_id": "aff_001",
+    "first_deposit_usd": 0.0,
+    "total_deposits_usd": 0.0,
+    "total_withdrawals_usd": 0.0,
+    "trades_count": 0,
+    "first_30d_active_days": 0
+  },
+  {
+    "signup_id": "s0038",
+    "affiliate_id": "aff_001",
+    "first_deposit_usd": 21.14,
+    "total_deposits_usd": 21.46,
+    "total_withdrawals_usd": 0.0,
+    "trades_count": 2,
+    "first_30d_active_days": 2
+  },
+  {
+    "signup_id": "s0039",
+    "affiliate_id": "aff_001",
+    "first_deposit_usd": 23.58,
+    "total_deposits_usd": 25.58,
+    "total_withdrawals_usd": 0.0,
+    "trades_count": 0,
+    "first_30d_active_days": 2
+  },
+  {
+    "signup_id": "s0040",
+    "affiliate_id": "aff_001",
+    "first_deposit_usd": 19.56,
+    "total_deposits_usd": 20.07,
+    "total_withdrawals_usd": 0.0,
+    "trades_count": 3,
+    "first_30d_active_days": 2
+  },
+  {
+    "signup_id": "s0041",
+    "affiliate_id": "aff_001",
+    "first_deposit_usd": 20.37,
+    "total_deposits_usd": 20.67,
+    "total_withdrawals_usd": 0.0,
+    "trades_count": 0,
+    "first_30d_active_days": 1
+  },
+  {
+    "signup_id": "s0042",
+    "affiliate_id": "aff_001",
+    "first_deposit_usd": 0.0,
+    "total_deposits_usd": 0.0,
+    "total_withdrawals_usd": 0.0,
+    "trades_count": 0,
+    "first_30d_active_days": 0
+  },
+  {
+    "signup_id": "s0043",
+    "affiliate_id": "aff_001",
+    "first_deposit_usd": 0.0,
+    "total_deposits_usd": 0.0,
+    "total_withdrawals_usd": 0.0,
+    "trades_count": 0,
+    "first_30d_active_days": 0
+  },
+  {
+    "signup_id": "s0044",
+    "affiliate_id": "aff_001",
+    "first_deposit_usd": 22.16,
+    "total_deposits_usd": 24.11,
+    "total_withdrawals_usd": 0.0,
+    "trades_count": 0,
+    "first_30d_active_days": 0
+  },
+  {
+    "signup_id": "s0045",
+    "affiliate_id": "aff_001",
+    "first_deposit_usd": 11.62,
+    "total_deposits_usd": 12.64,
+    "total_withdrawals_usd": 0.0,
+    "trades_count": 3,
+    "first_30d_active_days": 0
+  },
+  {
+    "signup_id": "s0046",
+    "affiliate_id": "aff_001",
+    "first_deposit_usd": 0.0,
+    "total_deposits_usd": 0.0,
+    "total_withdrawals_usd": 0.0,
+    "trades_count": 0,
+    "first_30d_active_days": 0
+  },
+  {
+    "signup_id": "s0047",
+    "affiliate_id": "aff_001",
+    "first_deposit_usd": 24.5,
+    "total_deposits_usd": 25.19,
+    "total_withdrawals_usd": 0.0,
+    "trades_count": 3,
+    "first_30d_active_days": 2
+  },
+  {
+    "signup_id": "s0048",
+    "affiliate_id": "aff_001",
+    "first_deposit_usd": 0.0,
+    "total_deposits_usd": 0.0,
+    "total_withdrawals_usd": 0.0,
+    "trades_count": 0,
+    "first_30d_active_days": 0
+  },
+  {
+    "signup_id": "s0049",
+    "affiliate_id": "aff_001",
+    "first_deposit_usd": 14.71,
+    "total_deposits_usd": 15.6,
+    "total_withdrawals_usd": 0.0,
+    "trades_count": 0,
+    "first_30d_active_days": 1
+  },
+  {
+    "signup_id": "s0050",
+    "affiliate_id": "aff_001",
+    "first_deposit_usd": 0.0,
+    "total_deposits_usd": 0.0,
+    "total_withdrawals_usd": 0.0,
+    "trades_count": 0,
+    "first_30d_active_days": 0
+  },
+  {
+    "signup_id": "s0051",
+    "affiliate_id": "aff_001",
+    "first_deposit_usd": 23.81,
+    "total_deposits_usd": 25.3,
+    "total_withdrawals_usd": 0.0,
+    "trades_count": 0,
+    "first_30d_active_days": 2
+  },
+  {
+    "signup_id": "s0052",
+    "affiliate_id": "aff_001",
+    "first_deposit_usd": 18.32,
+    "total_deposits_usd": 18.67,
+    "total_withdrawals_usd": 0.0,
+    "trades_count": 3,
+    "first_30d_active_days": 2
+  },
+  {
+    "signup_id": "s0053",
+    "affiliate_id": "aff_001",
+    "first_deposit_usd": 0.0,
+    "total_deposits_usd": 0.0,
+    "total_withdrawals_usd": 0.0,
+    "trades_count": 0,
+    "first_30d_active_days": 0
+  },
+  {
+    "signup_id": "s0054",
+    "affiliate_id": "aff_001",
+    "first_deposit_usd": 17.67,
+    "total_deposits_usd": 19.07,
+    "total_withdrawals_usd": 0.0,
+    "trades_count": 1,
+    "first_30d_active_days": 2
+  },
+  {
+    "signup_id": "s0055",
+    "affiliate_id": "aff_001",
+    "first_deposit_usd": 21.27,
+    "total_deposits_usd": 22.7,
+    "total_withdrawals_usd": 0.0,
+    "trades_count": 1,
+    "first_30d_active_days": 0
+  },
+  {
+    "signup_id": "s0056",
+    "affiliate_id": "aff_001",
+    "first_deposit_usd": 21.53,
+    "total_deposits_usd": 22.51,
+    "total_withdrawals_usd": 0.0,
+    "trades_count": 1,
+    "first_30d_active_days": 2
+  },
+  {
+    "signup_id": "s0057",
+    "affiliate_id": "aff_001",
+    "first_deposit_usd": 0.0,
+    "total_deposits_usd": 0.0,
+    "total_withdrawals_usd": 0.0,
+    "trades_count": 0,
+    "first_30d_active_days": 0
+  },
+  {
+    "signup_id": "s0058",
+    "affiliate_id": "aff_001",
+    "first_deposit_usd": 0.0,
+    "total_deposits_usd": 0.0,
+    "total_withdrawals_usd": 0.0,
+    "trades_count": 0,
+    "first_30d_active_days": 0
+  },
+  {
+    "signup_id": "s0059",
+    "affiliate_id": "aff_001",
+    "first_deposit_usd": 22.02,
+    "total_deposits_usd": 23.49,
+    "total_withdrawals_usd": 0.0,
+    "trades_count": 2,
+    "first_30d_active_days": 1
+  },
+  {
+    "signup_id": "s0060",
+    "affiliate_id": "aff_001",
+    "first_deposit_usd": 17.12,
+    "total_deposits_usd": 17.56,
+    "total_withdrawals_usd": 0.0,
+    "trades_count": 1,
+    "first_30d_active_days": 2
+  },
+  {
+    "signup_id": "s0061",
+    "affiliate_id": "aff_001",
+    "first_deposit_usd": 0.0,
+    "total_deposits_usd": 0.0,
+    "total_withdrawals_usd": 0.0,
+    "trades_count": 0,
+    "first_30d_active_days": 0
+  },
+  {
+    "signup_id": "s0062",
+    "affiliate_id": "aff_001",
+    "first_deposit_usd": 11.21,
+    "total_deposits_usd": 11.38,
+    "total_withdrawals_usd": 0.0,
+    "trades_count": 3,
+    "first_30d_active_days": 2
+  },
+  {
+    "signup_id": "s0063",
+    "affiliate_id": "aff_001",
+    "first_deposit_usd": 0.0,
+    "total_deposits_usd": 0.0,
+    "total_withdrawals_usd": 0.0,
+    "trades_count": 0,
+    "first_30d_active_days": 0
+  },
+  {
+    "signup_id": "s0064",
+    "affiliate_id": "aff_001",
+    "first_deposit_usd": 0.0,
+    "total_deposits_usd": 0.0,
+    "total_withdrawals_usd": 0.0,
+    "trades_count": 0,
+    "first_30d_active_days": 0
+  },
+  {
+    "signup_id": "s0065",
+    "affiliate_id": "aff_001",
+    "first_deposit_usd": 14.48,
+    "total_deposits_usd": 15.04,
+    "total_withdrawals_usd": 0.0,
+    "trades_count": 3,
+    "first_30d_active_days": 2
+  },
+  {
+    "signup_id": "s0066",
+    "affiliate_id": "aff_001",
+    "first_deposit_usd": 10.44,
+    "total_deposits_usd": 10.79,
+    "total_withdrawals_usd": 0.0,
+    "trades_count": 3,
+    "first_30d_active_days": 2
+  },
+  {
+    "signup_id": "s0067",
+    "affiliate_id": "aff_001",
+    "first_deposit_usd": 19.94,
+    "total_deposits_usd": 20.11,
+    "total_withdrawals_usd": 0.0,
+    "trades_count": 3,
+    "first_30d_active_days": 0
+  },
+  {
+    "signup_id": "s0068",
+    "affiliate_id": "aff_001",
+    "first_deposit_usd": 0.0,
+    "total_deposits_usd": 0.0,
+    "total_withdrawals_usd": 0.0,
+    "trades_count": 0,
+    "first_30d_active_days": 0
+  },
+  {
+    "signup_id": "s0069",
+    "affiliate_id": "aff_001",
+    "first_deposit_usd": 22.48,
+    "total_deposits_usd": 23.05,
+    "total_withdrawals_usd": 0.0,
+    "trades_count": 0,
+    "first_30d_active_days": 1
+  },
+  {
+    "signup_id": "s0070",
+    "affiliate_id": "aff_001",
+    "first_deposit_usd": 19.78,
+    "total_deposits_usd": 21.27,
+    "total_withdrawals_usd": 0.0,
+    "trades_count": 1,
+    "first_30d_active_days": 0
+  },
+  {
+    "signup_id": "s0071",
+    "affiliate_id": "aff_001",
+    "first_deposit_usd": 18.46,
+    "total_deposits_usd": 18.86,
+    "total_withdrawals_usd": 0.0,
+    "trades_count": 2,
+    "first_30d_active_days": 1
+  },
+  {
+    "signup_id": "s0072",
+    "affiliate_id": "aff_001",
+    "first_deposit_usd": 23.93,
+    "total_deposits_usd": 25.31,
+    "total_withdrawals_usd": 0.0,
+    "trades_count": 3,
+    "first_30d_active_days": 1
+  },
+  {
+    "signup_id": "s0073",
+    "affiliate_id": "aff_001",
+    "first_deposit_usd": 19.01,
+    "total_deposits_usd": 19.24,
+    "total_withdrawals_usd": 0.0,
+    "trades_count": 0,
+    "first_30d_active_days": 1
+  },
+  {
+    "signup_id": "s0074",
+    "affiliate_id": "aff_001",
+    "first_deposit_usd": 10.19,
+    "total_deposits_usd": 10.62,
+    "total_withdrawals_usd": 0.0,
+    "trades_count": 3,
+    "first_30d_active_days": 0
+  },
+  {
+    "signup_id": "s0075",
+    "affiliate_id": "aff_001",
+    "first_deposit_usd": 0.0,
+    "total_deposits_usd": 0.0,
+    "total_withdrawals_usd": 0.0,
+    "trades_count": 0,
+    "first_30d_active_days": 0
+  },
+  {
+    "signup_id": "s0076",
+    "affiliate_id": "aff_001",
+    "first_deposit_usd": 20.97,
+    "total_deposits_usd": 21.53,
+    "total_withdrawals_usd": 0.0,
+    "trades_count": 1,
+    "first_30d_active_days": 0
+  },
+  {
+    "signup_id": "s0077",
+    "affiliate_id": "aff_001",
+    "first_deposit_usd": 15.68,
+    "total_deposits_usd": 15.73,
+    "total_withdrawals_usd": 0.0,
+    "trades_count": 2,
+    "first_30d_active_days": 0
+  },
+  {
+    "signup_id": "s0078",
+    "affiliate_id": "aff_001",
+    "first_deposit_usd": 0.0,
+    "total_deposits_usd": 0.0,
+    "total_withdrawals_usd": 0.0,
+    "trades_count": 0,
+    "first_30d_active_days": 0
+  },
+  {
+    "signup_id": "s0079",
+    "affiliate_id": "aff_001",
+    "first_deposit_usd": 0.0,
+    "total_deposits_usd": 0.0,
+    "total_withdrawals_usd": 0.0,
+    "trades_count": 0,
+    "first_30d_active_days": 0
+  },
+  {
+    "signup_id": "s0080",
+    "affiliate_id": "aff_001",
+    "first_deposit_usd": 10.26,
+    "total_deposits_usd": 10.56,
+    "total_withdrawals_usd": 0.0,
+    "trades_count": 3,
+    "first_30d_active_days": 2
+  },
+  {
+    "signup_id": "s0081",
+    "affiliate_id": "aff_001",
+    "first_deposit_usd": 16.38,
+    "total_deposits_usd": 17.6,
+    "total_withdrawals_usd": 0.0,
+    "trades_count": 2,
+    "first_30d_active_days": 1
+  },
+  {
+    "signup_id": "s0082",
+    "affiliate_id": "aff_001",
+    "first_deposit_usd": 0.0,
+    "total_deposits_usd": 0.0,
+    "total_withdrawals_usd": 0.0,
+    "trades_count": 0,
+    "first_30d_active_days": 0
+  },
+  {
+    "signup_id": "s0083",
+    "affiliate_id": "aff_001",
+    "first_deposit_usd": 0.0,
+    "total_deposits_usd": 0.0,
+    "total_withdrawals_usd": 0.0,
+    "trades_count": 0,
+    "first_30d_active_days": 0
+  },
+  {
+    "signup_id": "s0084",
+    "affiliate_id": "aff_001",
+    "first_deposit_usd": 14.44,
+    "total_deposits_usd": 14.96,
+    "total_withdrawals_usd": 0.0,
+    "trades_count": 2,
+    "first_30d_active_days": 0
+  },
+  {
+    "signup_id": "s0085",
+    "affiliate_id": "aff_001",
+    "first_deposit_usd": 0.0,
+    "total_deposits_usd": 0.0,
+    "total_withdrawals_usd": 0.0,
+    "trades_count": 0,
+    "first_30d_active_days": 0
+  },
+  {
+    "signup_id": "s0086",
+    "affiliate_id": "aff_001",
+    "first_deposit_usd": 0.0,
+    "total_deposits_usd": 0.0,
+    "total_withdrawals_usd": 0.0,
+    "trades_count": 0,
+    "first_30d_active_days": 0
+  },
+  {
+    "signup_id": "s0087",
+    "affiliate_id": "aff_001",
+    "first_deposit_usd": 0.0,
+    "total_deposits_usd": 0.0,
+    "total_withdrawals_usd": 0.0,
+    "trades_count": 0,
+    "first_30d_active_days": 0
+  },
+  {
+    "signup_id": "s0088",
+    "affiliate_id": "aff_001",
+    "first_deposit_usd": 0.0,
+    "total_deposits_usd": 0.0,
+    "total_withdrawals_usd": 0.0,
+    "trades_count": 0,
+    "first_30d_active_days": 0
+  },
+  {
+    "signup_id": "s0089",
+    "affiliate_id": "aff_001",
+    "first_deposit_usd": 0.0,
+    "total_deposits_usd": 0.0,
+    "total_withdrawals_usd": 0.0,
+    "trades_count": 0,
+    "first_30d_active_days": 0
+  },
+  {
+    "signup_id": "s0090",
+    "affiliate_id": "aff_001",
+    "first_deposit_usd": 0.0,
+    "total_deposits_usd": 0.0,
+    "total_withdrawals_usd": 0.0,
+    "trades_count": 0,
+    "first_30d_active_days": 0
+  },
+  {
+    "signup_id": "s0091",
+    "affiliate_id": "aff_001",
+    "first_deposit_usd": 0.0,
+    "total_deposits_usd": 0.0,
+    "total_withdrawals_usd": 0.0,
+    "trades_count": 0,
+    "first_30d_active_days": 0
+  },
+  {
+    "signup_id": "s0092",
+    "affiliate_id": "aff_001",
+    "first_deposit_usd": 0.0,
+    "total_deposits_usd": 0.0,
+    "total_withdrawals_usd": 0.0,
+    "trades_count": 0,
+    "first_30d_active_days": 0
+  },
+  {
+    "signup_id": "s0093",
+    "affiliate_id": "aff_001",
+    "first_deposit_usd": 0.0,
+    "total_deposits_usd": 0.0,
+    "total_withdrawals_usd": 0.0,
+    "trades_count": 0,
+    "first_30d_active_days": 0
+  },
+  {
+    "signup_id": "s0094",
+    "affiliate_id": "aff_001",
+    "first_deposit_usd": 0.0,
+    "total_deposits_usd": 0.0,
+    "total_withdrawals_usd": 0.0,
+    "trades_count": 0,
+    "first_30d_active_days": 0
+  },
+  {
+    "signup_id": "s0095",
+    "affiliate_id": "aff_001",
+    "first_deposit_usd": 0.0,
+    "total_deposits_usd": 0.0,
+    "total_withdrawals_usd": 0.0,
+    "trades_count": 0,
+    "first_30d_active_days": 0
+  },
+  {
+    "signup_id": "s0096",
+    "affiliate_id": "aff_001",
+    "first_deposit_usd": 0.0,
+    "total_deposits_usd": 0.0,
+    "total_withdrawals_usd": 0.0,
+    "trades_count": 0,
+    "first_30d_active_days": 0
+  },
+  {
+    "signup_id": "s0097",
+    "affiliate_id": "aff_001",
+    "first_deposit_usd": 0.0,
+    "total_deposits_usd": 0.0,
+    "total_withdrawals_usd": 0.0,
+    "trades_count": 0,
+    "first_30d_active_days": 0
+  },
+  {
+    "signup_id": "s0098",
+    "affiliate_id": "aff_001",
+    "first_deposit_usd": 0.0,
+    "total_deposits_usd": 0.0,
+    "total_withdrawals_usd": 0.0,
+    "trades_count": 0,
+    "first_30d_active_days": 0
+  },
+  {
+    "signup_id": "s0099",
+    "affiliate_id": "aff_001",
+    "first_deposit_usd": 0.0,
+    "total_deposits_usd": 0.0,
+    "total_withdrawals_usd": 0.0,
+    "trades_count": 0,
+    "first_30d_active_days": 0
+  },
+  {
+    "signup_id": "s0100",
+    "affiliate_id": "aff_001",
+    "first_deposit_usd": 0.0,
+    "total_deposits_usd": 0.0,
+    "total_withdrawals_usd": 0.0,
+    "trades_count": 0,
+    "first_30d_active_days": 0
+  },
+  {
+    "signup_id": "s0101",
+    "affiliate_id": "aff_001",
+    "first_deposit_usd": 0.0,
+    "total_deposits_usd": 0.0,
+    "total_withdrawals_usd": 0.0,
+    "trades_count": 0,
+    "first_30d_active_days": 0
+  },
+  {
+    "signup_id": "s0102",
+    "affiliate_id": "aff_001",
+    "first_deposit_usd": 0.0,
+    "total_deposits_usd": 0.0,
+    "total_withdrawals_usd": 0.0,
+    "trades_count": 0,
+    "first_30d_active_days": 0
+  },
+  {
+    "signup_id": "s0103",
+    "affiliate_id": "aff_001",
+    "first_deposit_usd": 0.0,
+    "total_deposits_usd": 0.0,
+    "total_withdrawals_usd": 0.0,
+    "trades_count": 0,
+    "first_30d_active_days": 0
+  },
+  {
+    "signup_id": "s0104",
+    "affiliate_id": "aff_001",
+    "first_deposit_usd": 0.0,
+    "total_deposits_usd": 0.0,
+    "total_withdrawals_usd": 0.0,
+    "trades_count": 0,
+    "first_30d_active_days": 0
+  },
+  {
+    "signup_id": "s0105",
+    "affiliate_id": "aff_001",
+    "first_deposit_usd": 0.0,
+    "total_deposits_usd": 0.0,
+    "total_withdrawals_usd": 0.0,
+    "trades_count": 0,
+    "first_30d_active_days": 0
+  },
+  {
+    "signup_id": "s0106",
+    "affiliate_id": "aff_001",
+    "first_deposit_usd": 0.0,
+    "total_deposits_usd": 0.0,
+    "total_withdrawals_usd": 0.0,
+    "trades_count": 0,
+    "first_30d_active_days": 0
+  },
+  {
+    "signup_id": "s0107",
+    "affiliate_id": "aff_001",
+    "first_deposit_usd": 0.0,
+    "total_deposits_usd": 0.0,
+    "total_withdrawals_usd": 0.0,
+    "trades_count": 0,
+    "first_30d_active_days": 0
+  },
+  {
+    "signup_id": "s0108",
+    "affiliate_id": "aff_001",
+    "first_deposit_usd": 0.0,
+    "total_deposits_usd": 0.0,
+    "total_withdrawals_usd": 0.0,
+    "trades_count": 0,
+    "first_30d_active_days": 0
+  },
+  {
+    "signup_id": "s0109",
+    "affiliate_id": "aff_002",
+    "first_deposit_usd": 281.93,
+    "total_deposits_usd": 434.26,
+    "total_withdrawals_usd": 49.79,
+    "trades_count": 85,
+    "first_30d_active_days": 23
+  },
+  {
+    "signup_id": "s0110",
+    "affiliate_id": "aff_002",
+    "first_deposit_usd": 350.16,
+    "total_deposits_usd": 757.75,
+    "total_withdrawals_usd": 68.74,
+    "trades_count": 95,
+    "first_30d_active_days": 17
+  },
+  {
+    "signup_id": "s0111",
+    "affiliate_id": "aff_002",
+    "first_deposit_usd": 224.3,
+    "total_deposits_usd": 251.02,
+    "total_withdrawals_usd": 33.03,
+    "trades_count": 74,
+    "first_30d_active_days": 16
+  },
+  {
+    "signup_id": "s0112",
+    "affiliate_id": "aff_002",
+    "first_deposit_usd": 433.89,
+    "total_deposits_usd": 1072.72,
+    "total_withdrawals_usd": 105.93,
+    "trades_count": 95,
+    "first_30d_active_days": 17
+  },
+  {
+    "signup_id": "s0113",
+    "affiliate_id": "aff_002",
+    "first_deposit_usd": 409.07,
+    "total_deposits_usd": 939.3,
+    "total_withdrawals_usd": 110.81,
+    "trades_count": 92,
+    "first_30d_active_days": 19
+  },
+  {
+    "signup_id": "s0114",
+    "affiliate_id": "aff_002",
+    "first_deposit_usd": 278.62,
+    "total_deposits_usd": 495.41,
+    "total_withdrawals_usd": 57.71,
+    "trades_count": 94,
+    "first_30d_active_days": 21
+  },
+  {
+    "signup_id": "s0115",
+    "affiliate_id": "aff_002",
+    "first_deposit_usd": 227.27,
+    "total_deposits_usd": 400.49,
+    "total_withdrawals_usd": 93.19,
+    "trades_count": 84,
+    "first_30d_active_days": 21
+  },
+  {
+    "signup_id": "s0116",
+    "affiliate_id": "aff_002",
+    "first_deposit_usd": 447.88,
+    "total_deposits_usd": 1040.81,
+    "total_withdrawals_usd": 143.7,
+    "trades_count": 93,
+    "first_30d_active_days": 22
+  },
+  {
+    "signup_id": "s0117",
+    "affiliate_id": "aff_002",
+    "first_deposit_usd": 235.42,
+    "total_deposits_usd": 487.28,
+    "total_withdrawals_usd": 87.69,
+    "trades_count": 81,
+    "first_30d_active_days": 25
+  },
+  {
+    "signup_id": "s0118",
+    "affiliate_id": "aff_002",
+    "first_deposit_usd": 346.98,
+    "total_deposits_usd": 495.73,
+    "total_withdrawals_usd": 92.64,
+    "trades_count": 78,
+    "first_30d_active_days": 18
+  },
+  {
+    "signup_id": "s0119",
+    "affiliate_id": "aff_002",
+    "first_deposit_usd": 461.37,
+    "total_deposits_usd": 537.21,
+    "total_withdrawals_usd": 112.4,
+    "trades_count": 78,
+    "first_30d_active_days": 20
+  },
+  {
+    "signup_id": "s0120",
+    "affiliate_id": "aff_002",
+    "first_deposit_usd": 170.03,
+    "total_deposits_usd": 332.11,
+    "total_withdrawals_usd": 42.02,
+    "trades_count": 75,
+    "first_30d_active_days": 22
+  },
+  {
+    "signup_id": "s0121",
+    "affiliate_id": "aff_002",
+    "first_deposit_usd": 459.56,
+    "total_deposits_usd": 804.86,
+    "total_withdrawals_usd": 86.54,
+    "trades_count": 94,
+    "first_30d_active_days": 17
+  },
+  {
+    "signup_id": "s0122",
+    "affiliate_id": "aff_002",
+    "first_deposit_usd": 438.12,
+    "total_deposits_usd": 604.13,
+    "total_withdrawals_usd": 76.69,
+    "trades_count": 90,
+    "first_30d_active_days": 16
+  },
+  {
+    "signup_id": "s0123",
+    "affiliate_id": "aff_002",
+    "first_deposit_usd": 209.79,
+    "total_deposits_usd": 396.99,
+    "total_withdrawals_usd": 74.3,
+    "trades_count": 63,
+    "first_30d_active_days": 24
+  },
+  {
+    "signup_id": "s0124",
+    "affiliate_id": "aff_002",
+    "first_deposit_usd": 371.11,
+    "total_deposits_usd": 782.77,
+    "total_withdrawals_usd": 142.34,
+    "trades_count": 68,
+    "first_30d_active_days": 25
+  },
+  {
+    "signup_id": "s0125",
+    "affiliate_id": "aff_002",
+    "first_deposit_usd": 136.05,
+    "total_deposits_usd": 205.87,
+    "total_withdrawals_usd": 41.07,
+    "trades_count": 71,
+    "first_30d_active_days": 18
+  },
+  {
+    "signup_id": "s0126",
+    "affiliate_id": "aff_002",
+    "first_deposit_usd": 465.62,
+    "total_deposits_usd": 1127.67,
+    "total_withdrawals_usd": 274.56,
+    "trades_count": 78,
+    "first_30d_active_days": 20
+  },
+  {
+    "signup_id": "s0127",
+    "affiliate_id": "aff_002",
+    "first_deposit_usd": 136.12,
+    "total_deposits_usd": 224.93,
+    "total_withdrawals_usd": 23.14,
+    "trades_count": 67,
+    "first_30d_active_days": 22
+  },
+  {
+    "signup_id": "s0128",
+    "affiliate_id": "aff_002",
+    "first_deposit_usd": 369.93,
+    "total_deposits_usd": 651.11,
+    "total_withdrawals_usd": 113.23,
+    "trades_count": 95,
+    "first_30d_active_days": 20
+  },
+  {
+    "signup_id": "s0129",
+    "affiliate_id": "aff_002",
+    "first_deposit_usd": 146.67,
+    "total_deposits_usd": 170.65,
+    "total_withdrawals_usd": 9.8,
+    "trades_count": 91,
+    "first_30d_active_days": 16
+  },
+  {
+    "signup_id": "s0130",
+    "affiliate_id": "aff_002",
+    "first_deposit_usd": 334.94,
+    "total_deposits_usd": 709.14,
+    "total_withdrawals_usd": 161.03,
+    "trades_count": 66,
+    "first_30d_active_days": 22
+  },
+  {
+    "signup_id": "s0131",
+    "affiliate_id": "aff_002",
+    "first_deposit_usd": 442.18,
+    "total_deposits_usd": 547.9,
+    "total_withdrawals_usd": 102.53,
+    "trades_count": 94,
+    "first_30d_active_days": 25
+  },
+  {
+    "signup_id": "s0132",
+    "affiliate_id": "aff_002",
+    "first_deposit_usd": 365.11,
+    "total_deposits_usd": 729.63,
+    "total_withdrawals_usd": 123.62,
+    "trades_count": 61,
+    "first_30d_active_days": 15
+  },
+  {
+    "signup_id": "s0133",
+    "affiliate_id": "aff_002",
+    "first_deposit_usd": 334.55,
+    "total_deposits_usd": 748.82,
+    "total_withdrawals_usd": 72.34,
+    "trades_count": 69,
+    "first_30d_active_days": 24
+  },
+  {
+    "signup_id": "s0134",
+    "affiliate_id": "aff_002",
+    "first_deposit_usd": 105.94,
+    "total_deposits_usd": 233.71,
+    "total_withdrawals_usd": 22.81,
+    "trades_count": 80,
+    "first_30d_active_days": 15
+  },
+  {
+    "signup_id": "s0135",
+    "affiliate_id": "aff_002",
+    "first_deposit_usd": 279.31,
+    "total_deposits_usd": 448.81,
+    "total_withdrawals_usd": 75.73,
+    "trades_count": 88,
+    "first_30d_active_days": 23
+  },
+  {
+    "signup_id": "s0136",
+    "affiliate_id": "aff_002",
+    "first_deposit_usd": 499.43,
+    "total_deposits_usd": 1141.82,
+    "total_withdrawals_usd": 154.44,
+    "trades_count": 66,
+    "first_30d_active_days": 22
+  },
+  {
+    "signup_id": "s0137",
+    "affiliate_id": "aff_002",
+    "first_deposit_usd": 349.73,
+    "total_deposits_usd": 671.3,
+    "total_withdrawals_usd": 129.18,
+    "trades_count": 84,
+    "first_30d_active_days": 24
+  },
+  {
+    "signup_id": "s0138",
+    "affiliate_id": "aff_002",
+    "first_deposit_usd": 272.03,
+    "total_deposits_usd": 637.45,
+    "total_withdrawals_usd": 84.63,
+    "trades_count": 89,
+    "first_30d_active_days": 21
+  },
+  {
+    "signup_id": "s0139",
+    "affiliate_id": "aff_002",
+    "first_deposit_usd": 374.73,
+    "total_deposits_usd": 661.01,
+    "total_withdrawals_usd": 45.11,
+    "trades_count": 65,
+    "first_30d_active_days": 16
+  },
+  {
+    "signup_id": "s0140",
+    "affiliate_id": "aff_002",
+    "first_deposit_usd": 368.01,
+    "total_deposits_usd": 616.46,
+    "total_withdrawals_usd": 138.53,
+    "trades_count": 87,
+    "first_30d_active_days": 15
+  },
+  {
+    "signup_id": "s0141",
+    "affiliate_id": "aff_002",
+    "first_deposit_usd": 189.7,
+    "total_deposits_usd": 237.41,
+    "total_withdrawals_usd": 52.01,
+    "trades_count": 83,
+    "first_30d_active_days": 16
+  },
+  {
+    "signup_id": "s0142",
+    "affiliate_id": "aff_002",
+    "first_deposit_usd": 343.6,
+    "total_deposits_usd": 694.4,
+    "total_withdrawals_usd": 131.03,
+    "trades_count": 61,
+    "first_30d_active_days": 17
+  },
+  {
+    "signup_id": "s0143",
+    "affiliate_id": "aff_002",
+    "first_deposit_usd": 127.83,
+    "total_deposits_usd": 273.23,
+    "total_withdrawals_usd": 66.77,
+    "trades_count": 65,
+    "first_30d_active_days": 23
+  },
+  {
+    "signup_id": "s0144",
+    "affiliate_id": "aff_002",
+    "first_deposit_usd": 453.34,
+    "total_deposits_usd": 597.41,
+    "total_withdrawals_usd": 120.01,
+    "trades_count": 63,
+    "first_30d_active_days": 25
+  },
+  {
+    "signup_id": "s0145",
+    "affiliate_id": "aff_002",
+    "first_deposit_usd": 186.23,
+    "total_deposits_usd": 338.43,
+    "total_withdrawals_usd": 40.28,
+    "trades_count": 67,
+    "first_30d_active_days": 19
+  },
+  {
+    "signup_id": "s0146",
+    "affiliate_id": "aff_002",
+    "first_deposit_usd": 493.78,
+    "total_deposits_usd": 581.03,
+    "total_withdrawals_usd": 52.81,
+    "trades_count": 73,
+    "first_30d_active_days": 17
+  },
+  {
+    "signup_id": "s0147",
+    "affiliate_id": "aff_002",
+    "first_deposit_usd": 151.67,
+    "total_deposits_usd": 279.93,
+    "total_withdrawals_usd": 26.88,
+    "trades_count": 95,
+    "first_30d_active_days": 25
+  },
+  {
+    "signup_id": "s0148",
+    "affiliate_id": "aff_002",
+    "first_deposit_usd": 468.46,
+    "total_deposits_usd": 1080.73,
+    "total_withdrawals_usd": 178.48,
+    "trades_count": 96,
+    "first_30d_active_days": 21
+  },
+  {
+    "signup_id": "s0149",
+    "affiliate_id": "aff_002",
+    "first_deposit_usd": 420.53,
+    "total_deposits_usd": 826.5,
+    "total_withdrawals_usd": 178.86,
+    "trades_count": 83,
+    "first_30d_active_days": 16
+  },
+  {
+    "signup_id": "s0150",
+    "affiliate_id": "aff_002",
+    "first_deposit_usd": 398.32,
+    "total_deposits_usd": 561.71,
+    "total_withdrawals_usd": 115.61,
+    "trades_count": 64,
+    "first_30d_active_days": 23
+  },
+  {
+    "signup_id": "s0151",
+    "affiliate_id": "aff_002",
+    "first_deposit_usd": 141.12,
+    "total_deposits_usd": 205.81,
+    "total_withdrawals_usd": 17.43,
+    "trades_count": 69,
+    "first_30d_active_days": 25
+  },
+  {
+    "signup_id": "s0152",
+    "affiliate_id": "aff_002",
+    "first_deposit_usd": 445.7,
+    "total_deposits_usd": 881.64,
+    "total_withdrawals_usd": 70.7,
+    "trades_count": 64,
+    "first_30d_active_days": 22
+  },
+  {
+    "signup_id": "s0153",
+    "affiliate_id": "aff_002",
+    "first_deposit_usd": 284.7,
+    "total_deposits_usd": 328.16,
+    "total_withdrawals_usd": 40.61,
+    "trades_count": 78,
+    "first_30d_active_days": 16
+  },
+  {
+    "signup_id": "s0154",
+    "affiliate_id": "aff_002",
+    "first_deposit_usd": 279.89,
+    "total_deposits_usd": 625.21,
+    "total_withdrawals_usd": 112.77,
+    "trades_count": 80,
+    "first_30d_active_days": 24
+  },
+  {
+    "signup_id": "s0155",
+    "affiliate_id": "aff_002",
+    "first_deposit_usd": 115.66,
+    "total_deposits_usd": 241.8,
+    "total_withdrawals_usd": 60.01,
+    "trades_count": 93,
+    "first_30d_active_days": 23
+  },
+  {
+    "signup_id": "s0156",
+    "affiliate_id": "aff_002",
+    "first_deposit_usd": 415.69,
+    "total_deposits_usd": 833.97,
+    "total_withdrawals_usd": 52.69,
+    "trades_count": 66,
+    "first_30d_active_days": 23
+  },
+  {
+    "signup_id": "s0157",
+    "affiliate_id": "aff_002",
+    "first_deposit_usd": 233.34,
+    "total_deposits_usd": 447.05,
+    "total_withdrawals_usd": 35.0,
+    "trades_count": 82,
+    "first_30d_active_days": 19
+  },
+  {
+    "signup_id": "s0158",
+    "affiliate_id": "aff_002",
+    "first_deposit_usd": 357.4,
+    "total_deposits_usd": 557.49,
+    "total_withdrawals_usd": 42.12,
+    "trades_count": 93,
+    "first_30d_active_days": 16
+  },
+  {
+    "signup_id": "s0159",
+    "affiliate_id": "aff_002",
+    "first_deposit_usd": 236.69,
+    "total_deposits_usd": 514.24,
+    "total_withdrawals_usd": 45.46,
+    "trades_count": 68,
+    "first_30d_active_days": 17
+  },
+  {
+    "signup_id": "s0160",
+    "affiliate_id": "aff_002",
+    "first_deposit_usd": 338.9,
+    "total_deposits_usd": 445.97,
+    "total_withdrawals_usd": 38.43,
+    "trades_count": 99,
+    "first_30d_active_days": 17
+  },
+  {
+    "signup_id": "s0161",
+    "affiliate_id": "aff_002",
+    "first_deposit_usd": 400.96,
+    "total_deposits_usd": 881.03,
+    "total_withdrawals_usd": 85.28,
+    "trades_count": 75,
+    "first_30d_active_days": 19
+  },
+  {
+    "signup_id": "s0162",
+    "affiliate_id": "aff_002",
+    "first_deposit_usd": 407.78,
+    "total_deposits_usd": 892.77,
+    "total_withdrawals_usd": 134.43,
+    "trades_count": 86,
+    "first_30d_active_days": 17
+  },
+  {
+    "signup_id": "s0163",
+    "affiliate_id": "aff_002",
+    "first_deposit_usd": 321.82,
+    "total_deposits_usd": 400.22,
+    "total_withdrawals_usd": 87.72,
+    "trades_count": 67,
+    "first_30d_active_days": 19
+  },
+  {
+    "signup_id": "s0164",
+    "affiliate_id": "aff_002",
+    "first_deposit_usd": 478.57,
+    "total_deposits_usd": 675.19,
+    "total_withdrawals_usd": 94.68,
+    "trades_count": 82,
+    "first_30d_active_days": 15
+  },
+  {
+    "signup_id": "s0165",
+    "affiliate_id": "aff_002",
+    "first_deposit_usd": 111.28,
+    "total_deposits_usd": 267.41,
+    "total_withdrawals_usd": 58.25,
+    "trades_count": 81,
+    "first_30d_active_days": 17
+  },
+  {
+    "signup_id": "s0166",
+    "affiliate_id": "aff_002",
+    "first_deposit_usd": 346.14,
+    "total_deposits_usd": 819.73,
+    "total_withdrawals_usd": 44.1,
+    "trades_count": 73,
+    "first_30d_active_days": 17
+  },
+  {
+    "signup_id": "s0167",
+    "affiliate_id": "aff_002",
+    "first_deposit_usd": 119.1,
+    "total_deposits_usd": 201.01,
+    "total_withdrawals_usd": 41.97,
+    "trades_count": 89,
+    "first_30d_active_days": 16
+  },
+  {
+    "signup_id": "s0168",
+    "affiliate_id": "aff_002",
+    "first_deposit_usd": 216.51,
+    "total_deposits_usd": 238.63,
+    "total_withdrawals_usd": 28.77,
+    "trades_count": 96,
+    "first_30d_active_days": 21
+  },
+  {
+    "signup_id": "s0169",
+    "affiliate_id": "aff_002",
+    "first_deposit_usd": 256.18,
+    "total_deposits_usd": 450.42,
+    "total_withdrawals_usd": 79.78,
+    "trades_count": 83,
+    "first_30d_active_days": 19
+  },
+  {
+    "signup_id": "s0170",
+    "affiliate_id": "aff_002",
+    "first_deposit_usd": 153.36,
+    "total_deposits_usd": 244.34,
+    "total_withdrawals_usd": 28.76,
+    "trades_count": 71,
+    "first_30d_active_days": 25
+  },
+  {
+    "signup_id": "s0171",
+    "affiliate_id": "aff_002",
+    "first_deposit_usd": 217.38,
+    "total_deposits_usd": 252.45,
+    "total_withdrawals_usd": 22.69,
+    "trades_count": 62,
+    "first_30d_active_days": 20
+  },
+  {
+    "signup_id": "s0172",
+    "affiliate_id": "aff_002",
+    "first_deposit_usd": 401.32,
+    "total_deposits_usd": 548.82,
+    "total_withdrawals_usd": 66.62,
+    "trades_count": 63,
+    "first_30d_active_days": 25
+  },
+  {
+    "signup_id": "s0173",
+    "affiliate_id": "aff_002",
+    "first_deposit_usd": 235.61,
+    "total_deposits_usd": 320.8,
+    "total_withdrawals_usd": 60.44,
+    "trades_count": 83,
+    "first_30d_active_days": 23
+  },
+  {
+    "signup_id": "s0174",
+    "affiliate_id": "aff_002",
+    "first_deposit_usd": 141.04,
+    "total_deposits_usd": 219.89,
+    "total_withdrawals_usd": 24.0,
+    "trades_count": 88,
+    "first_30d_active_days": 24
+  },
+  {
+    "signup_id": "s0175",
+    "affiliate_id": "aff_002",
+    "first_deposit_usd": 209.82,
+    "total_deposits_usd": 518.69,
+    "total_withdrawals_usd": 124.27,
+    "trades_count": 64,
+    "first_30d_active_days": 25
+  },
+  {
+    "signup_id": "s0176",
+    "affiliate_id": "aff_002",
+    "first_deposit_usd": 439.47,
+    "total_deposits_usd": 900.61,
+    "total_withdrawals_usd": 123.96,
+    "trades_count": 68,
+    "first_30d_active_days": 16
+  },
+  {
+    "signup_id": "s0177",
+    "affiliate_id": "aff_002",
+    "first_deposit_usd": 371.62,
+    "total_deposits_usd": 902.44,
+    "total_withdrawals_usd": 112.27,
+    "trades_count": 64,
+    "first_30d_active_days": 24
+  },
+  {
+    "signup_id": "s0178",
+    "affiliate_id": "aff_002",
+    "first_deposit_usd": 394.27,
+    "total_deposits_usd": 709.16,
+    "total_withdrawals_usd": 90.34,
+    "trades_count": 95,
+    "first_30d_active_days": 16
+  },
+  {
+    "signup_id": "s0179",
+    "affiliate_id": "aff_002",
+    "first_deposit_usd": 149.05,
+    "total_deposits_usd": 341.93,
+    "total_withdrawals_usd": 48.01,
+    "trades_count": 88,
+    "first_30d_active_days": 16
+  },
+  {
+    "signup_id": "s0180",
+    "affiliate_id": "aff_002",
+    "first_deposit_usd": 456.53,
+    "total_deposits_usd": 1046.33,
+    "total_withdrawals_usd": 201.27,
+    "trades_count": 100,
+    "first_30d_active_days": 17
+  },
+  {
+    "signup_id": "s0181",
+    "affiliate_id": "aff_002",
+    "first_deposit_usd": 416.15,
+    "total_deposits_usd": 473.08,
+    "total_withdrawals_usd": 76.07,
+    "trades_count": 83,
+    "first_30d_active_days": 22
+  },
+  {
+    "signup_id": "s0182",
+    "affiliate_id": "aff_002",
+    "first_deposit_usd": 310.28,
+    "total_deposits_usd": 675.42,
+    "total_withdrawals_usd": 144.99,
+    "trades_count": 64,
+    "first_30d_active_days": 17
+  },
+  {
+    "signup_id": "s0183",
+    "affiliate_id": "aff_002",
+    "first_deposit_usd": 407.11,
+    "total_deposits_usd": 521.37,
+    "total_withdrawals_usd": 78.5,
+    "trades_count": 63,
+    "first_30d_active_days": 16
+  },
+  {
+    "signup_id": "s0184",
+    "affiliate_id": "aff_002",
+    "first_deposit_usd": 438.37,
+    "total_deposits_usd": 636.01,
+    "total_withdrawals_usd": 112.58,
+    "trades_count": 95,
+    "first_30d_active_days": 19
+  },
+  {
+    "signup_id": "s0185",
+    "affiliate_id": "aff_002",
+    "first_deposit_usd": 168.48,
+    "total_deposits_usd": 332.63,
+    "total_withdrawals_usd": 76.64,
+    "trades_count": 81,
+    "first_30d_active_days": 24
+  },
+  {
+    "signup_id": "s0186",
+    "affiliate_id": "aff_002",
+    "first_deposit_usd": 347.24,
+    "total_deposits_usd": 396.69,
+    "total_withdrawals_usd": 90.37,
+    "trades_count": 94,
+    "first_30d_active_days": 19
+  },
+  {
+    "signup_id": "s0187",
+    "affiliate_id": "aff_002",
+    "first_deposit_usd": 129.19,
+    "total_deposits_usd": 152.94,
+    "total_withdrawals_usd": 21.09,
+    "trades_count": 90,
+    "first_30d_active_days": 22
+  },
+  {
+    "signup_id": "s0188",
+    "affiliate_id": "aff_002",
+    "first_deposit_usd": 152.31,
+    "total_deposits_usd": 246.55,
+    "total_withdrawals_usd": 40.02,
+    "trades_count": 80,
+    "first_30d_active_days": 18
+  },
+  {
+    "signup_id": "s0189",
+    "affiliate_id": "aff_002",
+    "first_deposit_usd": 445.67,
+    "total_deposits_usd": 751.12,
+    "total_withdrawals_usd": 182.17,
+    "trades_count": 70,
+    "first_30d_active_days": 20
+  },
+  {
+    "signup_id": "s0190",
+    "affiliate_id": "aff_002",
+    "first_deposit_usd": 451.63,
+    "total_deposits_usd": 811.27,
+    "total_withdrawals_usd": 55.17,
+    "trades_count": 85,
+    "first_30d_active_days": 23
+  },
+  {
+    "signup_id": "s0191",
+    "affiliate_id": "aff_002",
+    "first_deposit_usd": 214.3,
+    "total_deposits_usd": 238.18,
+    "total_withdrawals_usd": 17.03,
+    "trades_count": 68,
+    "first_30d_active_days": 19
+  },
+  {
+    "signup_id": "s0192",
+    "affiliate_id": "aff_002",
+    "first_deposit_usd": 245.01,
+    "total_deposits_usd": 368.5,
+    "total_withdrawals_usd": 46.9,
+    "trades_count": 88,
+    "first_30d_active_days": 23
+  },
+  {
+    "signup_id": "s0193",
+    "affiliate_id": "aff_002",
+    "first_deposit_usd": 323.13,
+    "total_deposits_usd": 520.84,
+    "total_withdrawals_usd": 41.07,
+    "trades_count": 98,
+    "first_30d_active_days": 23
+  },
+  {
+    "signup_id": "s0194",
+    "affiliate_id": "aff_002",
+    "first_deposit_usd": 159.58,
+    "total_deposits_usd": 375.07,
+    "total_withdrawals_usd": 29.24,
+    "trades_count": 99,
+    "first_30d_active_days": 20
+  },
+  {
+    "signup_id": "s0195",
+    "affiliate_id": "aff_002",
+    "first_deposit_usd": 383.5,
+    "total_deposits_usd": 582.8,
+    "total_withdrawals_usd": 124.22,
+    "trades_count": 83,
+    "first_30d_active_days": 20
+  },
+  {
+    "signup_id": "s0196",
+    "affiliate_id": "aff_002",
+    "first_deposit_usd": 206.21,
+    "total_deposits_usd": 416.1,
+    "total_withdrawals_usd": 101.7,
+    "trades_count": 97,
+    "first_30d_active_days": 24
+  },
+  {
+    "signup_id": "s0197",
+    "affiliate_id": "aff_002",
+    "first_deposit_usd": 159.11,
+    "total_deposits_usd": 326.66,
+    "total_withdrawals_usd": 18.4,
+    "trades_count": 67,
+    "first_30d_active_days": 18
+  },
+  {
+    "signup_id": "s0198",
+    "affiliate_id": "aff_002",
+    "first_deposit_usd": 449.13,
+    "total_deposits_usd": 956.72,
+    "total_withdrawals_usd": 59.75,
+    "trades_count": 68,
+    "first_30d_active_days": 23
+  },
+  {
+    "signup_id": "s0199",
+    "affiliate_id": "aff_003",
+    "first_deposit_usd": 73.85,
+    "total_deposits_usd": 81.43,
+    "total_withdrawals_usd": 4.33,
+    "trades_count": 5,
+    "first_30d_active_days": 5
+  },
+  {
+    "signup_id": "s0200",
+    "affiliate_id": "aff_003",
+    "first_deposit_usd": 30.23,
+    "total_deposits_usd": 32.11,
+    "total_withdrawals_usd": 3.4,
+    "trades_count": 6,
+    "first_30d_active_days": 4
+  },
+  {
+    "signup_id": "s0201",
+    "affiliate_id": "aff_003",
+    "first_deposit_usd": 72.7,
+    "total_deposits_usd": 81.31,
+    "total_withdrawals_usd": 4.21,
+    "trades_count": 3,
+    "first_30d_active_days": 3
+  },
+  {
+    "signup_id": "s0202",
+    "affiliate_id": "aff_003",
+    "first_deposit_usd": 43.54,
+    "total_deposits_usd": 46.17,
+    "total_withdrawals_usd": 3.73,
+    "trades_count": 5,
+    "first_30d_active_days": 2
+  },
+  {
+    "signup_id": "s0203",
+    "affiliate_id": "aff_003",
+    "first_deposit_usd": 54.66,
+    "total_deposits_usd": 55.52,
+    "total_withdrawals_usd": 3.44,
+    "trades_count": 8,
+    "first_30d_active_days": 1
+  },
+  {
+    "signup_id": "s0204",
+    "affiliate_id": "aff_003",
+    "first_deposit_usd": 55.54,
+    "total_deposits_usd": 68.13,
+    "total_withdrawals_usd": 2.94,
+    "trades_count": 5,
+    "first_30d_active_days": 1
+  },
+  {
+    "signup_id": "s0205",
+    "affiliate_id": "aff_003",
+    "first_deposit_usd": 39.25,
+    "total_deposits_usd": 49.12,
+    "total_withdrawals_usd": 6.88,
+    "trades_count": 1,
+    "first_30d_active_days": 4
+  },
+  {
+    "signup_id": "s0206",
+    "affiliate_id": "aff_003",
+    "first_deposit_usd": 52.19,
+    "total_deposits_usd": 66.73,
+    "total_withdrawals_usd": 3.35,
+    "trades_count": 8,
+    "first_30d_active_days": 5
+  },
+  {
+    "signup_id": "s0207",
+    "affiliate_id": "aff_003",
+    "first_deposit_usd": 21.37,
+    "total_deposits_usd": 24.32,
+    "total_withdrawals_usd": 0.94,
+    "trades_count": 3,
+    "first_30d_active_days": 1
+  },
+  {
+    "signup_id": "s0208",
+    "affiliate_id": "aff_003",
+    "first_deposit_usd": 52.77,
+    "total_deposits_usd": 62.88,
+    "total_withdrawals_usd": 3.82,
+    "trades_count": 7,
+    "first_30d_active_days": 5
+  },
+  {
+    "signup_id": "s0209",
+    "affiliate_id": "aff_003",
+    "first_deposit_usd": 75.51,
+    "total_deposits_usd": 75.66,
+    "total_withdrawals_usd": 4.35,
+    "trades_count": 8,
+    "first_30d_active_days": 3
+  },
+  {
+    "signup_id": "s0210",
+    "affiliate_id": "aff_003",
+    "first_deposit_usd": 56.75,
+    "total_deposits_usd": 64.67,
+    "total_withdrawals_usd": 1.55,
+    "trades_count": 5,
+    "first_30d_active_days": 1
+  },
+  {
+    "signup_id": "s0211",
+    "affiliate_id": "aff_003",
+    "first_deposit_usd": 41.85,
+    "total_deposits_usd": 54.26,
+    "total_withdrawals_usd": 3.04,
+    "trades_count": 8,
+    "first_30d_active_days": 5
+  },
+  {
+    "signup_id": "s0212",
+    "affiliate_id": "aff_003",
+    "first_deposit_usd": 65.12,
+    "total_deposits_usd": 75.38,
+    "total_withdrawals_usd": 5.97,
+    "trades_count": 6,
+    "first_30d_active_days": 1
+  },
+  {
+    "signup_id": "s0213",
+    "affiliate_id": "aff_003",
+    "first_deposit_usd": 50.09,
+    "total_deposits_usd": 52.34,
+    "total_withdrawals_usd": 2.58,
+    "trades_count": 8,
+    "first_30d_active_days": 1
+  },
+  {
+    "signup_id": "s0214",
+    "affiliate_id": "aff_003",
+    "first_deposit_usd": 13.89,
+    "total_deposits_usd": 14.44,
+    "total_withdrawals_usd": 0.9,
+    "trades_count": 1,
+    "first_30d_active_days": 5
+  },
+  {
+    "signup_id": "s0215",
+    "affiliate_id": "aff_003",
+    "first_deposit_usd": 10.21,
+    "total_deposits_usd": 10.88,
+    "total_withdrawals_usd": 0.12,
+    "trades_count": 7,
+    "first_30d_active_days": 3
+  },
+  {
+    "signup_id": "s0216",
+    "affiliate_id": "aff_003",
+    "first_deposit_usd": 30.1,
+    "total_deposits_usd": 31.72,
+    "total_withdrawals_usd": 0.64,
+    "trades_count": 7,
+    "first_30d_active_days": 3
+  },
+  {
+    "signup_id": "s0217",
+    "affiliate_id": "aff_003",
+    "first_deposit_usd": 55.75,
+    "total_deposits_usd": 61.56,
+    "total_withdrawals_usd": 1.65,
+    "trades_count": 7,
+    "first_30d_active_days": 5
+  },
+  {
+    "signup_id": "s0218",
+    "affiliate_id": "aff_003",
+    "first_deposit_usd": 57.14,
+    "total_deposits_usd": 66.48,
+    "total_withdrawals_usd": 5.3,
+    "trades_count": 4,
+    "first_30d_active_days": 2
+  },
+  {
+    "signup_id": "s0219",
+    "affiliate_id": "aff_003",
+    "first_deposit_usd": 66.66,
+    "total_deposits_usd": 75.05,
+    "total_withdrawals_usd": 8.62,
+    "trades_count": 1,
+    "first_30d_active_days": 2
+  },
+  {
+    "signup_id": "s0220",
+    "affiliate_id": "aff_003",
+    "first_deposit_usd": 61.84,
+    "total_deposits_usd": 69.3,
+    "total_withdrawals_usd": 2.44,
+    "trades_count": 4,
+    "first_30d_active_days": 1
+  },
+  {
+    "signup_id": "s0221",
+    "affiliate_id": "aff_003",
+    "first_deposit_usd": 50.42,
+    "total_deposits_usd": 62.11,
+    "total_withdrawals_usd": 7.62,
+    "trades_count": 4,
+    "first_30d_active_days": 3
+  },
+  {
+    "signup_id": "s0222",
+    "affiliate_id": "aff_003",
+    "first_deposit_usd": 48.97,
+    "total_deposits_usd": 57.66,
+    "total_withdrawals_usd": 6.36,
+    "trades_count": 3,
+    "first_30d_active_days": 4
+  },
+  {
+    "signup_id": "s0223",
+    "affiliate_id": "aff_003",
+    "first_deposit_usd": 46.71,
+    "total_deposits_usd": 56.47,
+    "total_withdrawals_usd": 3.46,
+    "trades_count": 5,
+    "first_30d_active_days": 4
+  },
+  {
+    "signup_id": "s0224",
+    "affiliate_id": "aff_003",
+    "first_deposit_usd": 42.41,
+    "total_deposits_usd": 43.14,
+    "total_withdrawals_usd": 2.67,
+    "trades_count": 7,
+    "first_30d_active_days": 5
+  },
+  {
+    "signup_id": "s0225",
+    "affiliate_id": "aff_003",
+    "first_deposit_usd": 69.3,
+    "total_deposits_usd": 71.22,
+    "total_withdrawals_usd": 7.74,
+    "trades_count": 4,
+    "first_30d_active_days": 1
+  },
+  {
+    "signup_id": "s0226",
+    "affiliate_id": "aff_003",
+    "first_deposit_usd": 57.0,
+    "total_deposits_usd": 60.71,
+    "total_withdrawals_usd": 1.9,
+    "trades_count": 6,
+    "first_30d_active_days": 3
+  },
+  {
+    "signup_id": "s0227",
+    "affiliate_id": "aff_003",
+    "first_deposit_usd": 58.69,
+    "total_deposits_usd": 71.09,
+    "total_withdrawals_usd": 4.23,
+    "trades_count": 4,
+    "first_30d_active_days": 5
+  },
+  {
+    "signup_id": "s0228",
+    "affiliate_id": "aff_003",
+    "first_deposit_usd": 35.18,
+    "total_deposits_usd": 44.49,
+    "total_withdrawals_usd": 3.11,
+    "trades_count": 8,
+    "first_30d_active_days": 3
+  },
+  {
+    "signup_id": "s0229",
+    "affiliate_id": "aff_003",
+    "first_deposit_usd": 20.21,
+    "total_deposits_usd": 21.8,
+    "total_withdrawals_usd": 3.06,
+    "trades_count": 7,
+    "first_30d_active_days": 3
+  },
+  {
+    "signup_id": "s0230",
+    "affiliate_id": "aff_003",
+    "first_deposit_usd": 48.54,
+    "total_deposits_usd": 62.29,
+    "total_withdrawals_usd": 3.15,
+    "trades_count": 8,
+    "first_30d_active_days": 4
+  },
+  {
+    "signup_id": "s0231",
+    "affiliate_id": "aff_003",
+    "first_deposit_usd": 22.88,
+    "total_deposits_usd": 28.99,
+    "total_withdrawals_usd": 4.31,
+    "trades_count": 1,
+    "first_30d_active_days": 5
+  },
+  {
+    "signup_id": "s0232",
+    "affiliate_id": "aff_003",
+    "first_deposit_usd": 54.15,
+    "total_deposits_usd": 55.25,
+    "total_withdrawals_usd": 1.25,
+    "trades_count": 4,
+    "first_30d_active_days": 5
+  },
+  {
+    "signup_id": "s0233",
+    "affiliate_id": "aff_003",
+    "first_deposit_usd": 48.62,
+    "total_deposits_usd": 48.79,
+    "total_withdrawals_usd": 3.87,
+    "trades_count": 5,
+    "first_30d_active_days": 5
+  },
+  {
+    "signup_id": "s0234",
+    "affiliate_id": "aff_003",
+    "first_deposit_usd": 74.26,
+    "total_deposits_usd": 85.95,
+    "total_withdrawals_usd": 3.11,
+    "trades_count": 5,
+    "first_30d_active_days": 3
+  },
+  {
+    "signup_id": "s0235",
+    "affiliate_id": "aff_003",
+    "first_deposit_usd": 79.32,
+    "total_deposits_usd": 84.69,
+    "total_withdrawals_usd": 8.69,
+    "trades_count": 2,
+    "first_30d_active_days": 1
+  },
+  {
+    "signup_id": "s0236",
+    "affiliate_id": "aff_003",
+    "first_deposit_usd": 22.0,
+    "total_deposits_usd": 25.3,
+    "total_withdrawals_usd": 1.65,
+    "trades_count": 6,
+    "first_30d_active_days": 5
+  },
+  {
+    "signup_id": "s0237",
+    "affiliate_id": "aff_003",
+    "first_deposit_usd": 28.98,
+    "total_deposits_usd": 37.01,
+    "total_withdrawals_usd": 3.8,
+    "trades_count": 5,
+    "first_30d_active_days": 5
+  },
+  {
+    "signup_id": "s0238",
+    "affiliate_id": "aff_003",
+    "first_deposit_usd": 51.09,
+    "total_deposits_usd": 62.62,
+    "total_withdrawals_usd": 6.69,
+    "trades_count": 7,
+    "first_30d_active_days": 1
+  },
+  {
+    "signup_id": "s0239",
+    "affiliate_id": "aff_003",
+    "first_deposit_usd": 72.76,
+    "total_deposits_usd": 80.0,
+    "total_withdrawals_usd": 9.07,
+    "trades_count": 3,
+    "first_30d_active_days": 1
+  },
+  {
+    "signup_id": "s0240",
+    "affiliate_id": "aff_003",
+    "first_deposit_usd": 52.36,
+    "total_deposits_usd": 62.0,
+    "total_withdrawals_usd": 5.54,
+    "trades_count": 6,
+    "first_30d_active_days": 1
+  },
+  {
+    "signup_id": "s0241",
+    "affiliate_id": "aff_003",
+    "first_deposit_usd": 40.23,
+    "total_deposits_usd": 48.43,
+    "total_withdrawals_usd": 4.8,
+    "trades_count": 2,
+    "first_30d_active_days": 5
+  },
+  {
+    "signup_id": "s0242",
+    "affiliate_id": "aff_003",
+    "first_deposit_usd": 64.87,
+    "total_deposits_usd": 67.87,
+    "total_withdrawals_usd": 3.97,
+    "trades_count": 6,
+    "first_30d_active_days": 1
+  },
+  {
+    "signup_id": "s0243",
+    "affiliate_id": "aff_003",
+    "first_deposit_usd": 16.11,
+    "total_deposits_usd": 18.19,
+    "total_withdrawals_usd": 1.52,
+    "trades_count": 7,
+    "first_30d_active_days": 1
+  },
+  {
+    "signup_id": "s0244",
+    "affiliate_id": "aff_003",
+    "first_deposit_usd": 36.97,
+    "total_deposits_usd": 40.2,
+    "total_withdrawals_usd": 2.34,
+    "trades_count": 2,
+    "first_30d_active_days": 5
+  },
+  {
+    "signup_id": "s0245",
+    "affiliate_id": "aff_003",
+    "first_deposit_usd": 28.82,
+    "total_deposits_usd": 31.15,
+    "total_withdrawals_usd": 0.68,
+    "trades_count": 3,
+    "first_30d_active_days": 4
+  },
+  {
+    "signup_id": "s0246",
+    "affiliate_id": "aff_003",
+    "first_deposit_usd": 60.46,
+    "total_deposits_usd": 69.46,
+    "total_withdrawals_usd": 6.42,
+    "trades_count": 8,
+    "first_30d_active_days": 1
+  },
+  {
+    "signup_id": "s0247",
+    "affiliate_id": "aff_003",
+    "first_deposit_usd": 70.35,
+    "total_deposits_usd": 79.65,
+    "total_withdrawals_usd": 5.14,
+    "trades_count": 3,
+    "first_30d_active_days": 3
+  },
+  {
+    "signup_id": "s0248",
+    "affiliate_id": "aff_003",
+    "first_deposit_usd": 30.4,
+    "total_deposits_usd": 36.74,
+    "total_withdrawals_usd": 2.71,
+    "trades_count": 4,
+    "first_30d_active_days": 3
+  },
+  {
+    "signup_id": "s0249",
+    "affiliate_id": "aff_003",
+    "first_deposit_usd": 51.46,
+    "total_deposits_usd": 59.88,
+    "total_withdrawals_usd": 6.12,
+    "trades_count": 1,
+    "first_30d_active_days": 4
+  },
+  {
+    "signup_id": "s0250",
+    "affiliate_id": "aff_003",
+    "first_deposit_usd": 44.95,
+    "total_deposits_usd": 53.49,
+    "total_withdrawals_usd": 1.94,
+    "trades_count": 3,
+    "first_30d_active_days": 4
+  },
+  {
+    "signup_id": "s0251",
+    "affiliate_id": "aff_003",
+    "first_deposit_usd": 47.41,
+    "total_deposits_usd": 60.54,
+    "total_withdrawals_usd": 7.9,
+    "trades_count": 7,
+    "first_30d_active_days": 5
+  },
+  {
+    "signup_id": "s0252",
+    "affiliate_id": "aff_003",
+    "first_deposit_usd": 63.83,
+    "total_deposits_usd": 76.42,
+    "total_withdrawals_usd": 4.07,
+    "trades_count": 1,
+    "first_30d_active_days": 5
+  },
+  {
+    "signup_id": "s0253",
+    "affiliate_id": "aff_003",
+    "first_deposit_usd": 10.74,
+    "total_deposits_usd": 11.57,
+    "total_withdrawals_usd": 0.89,
+    "trades_count": 4,
+    "first_30d_active_days": 4
+  },
+  {
+    "signup_id": "s0254",
+    "affiliate_id": "aff_003",
+    "first_deposit_usd": 30.68,
+    "total_deposits_usd": 39.15,
+    "total_withdrawals_usd": 0.5,
+    "trades_count": 3,
+    "first_30d_active_days": 3
+  },
+  {
+    "signup_id": "s0255",
+    "affiliate_id": "aff_003",
+    "first_deposit_usd": 40.67,
+    "total_deposits_usd": 49.17,
+    "total_withdrawals_usd": 2.35,
+    "trades_count": 5,
+    "first_30d_active_days": 1
+  },
+  {
+    "signup_id": "s0256",
+    "affiliate_id": "aff_003",
+    "first_deposit_usd": 66.0,
+    "total_deposits_usd": 84.42,
+    "total_withdrawals_usd": 9.38,
+    "trades_count": 3,
+    "first_30d_active_days": 5
+  },
+  {
+    "signup_id": "s0257",
+    "affiliate_id": "aff_003",
+    "first_deposit_usd": 22.91,
+    "total_deposits_usd": 27.31,
+    "total_withdrawals_usd": 1.77,
+    "trades_count": 1,
+    "first_30d_active_days": 5
+  },
+  {
+    "signup_id": "s0258",
+    "affiliate_id": "aff_003",
+    "first_deposit_usd": 29.48,
+    "total_deposits_usd": 35.71,
+    "total_withdrawals_usd": 4.26,
+    "trades_count": 2,
+    "first_30d_active_days": 5
+  },
+  {
+    "signup_id": "s0259",
+    "affiliate_id": "aff_003",
+    "first_deposit_usd": 77.61,
+    "total_deposits_usd": 84.91,
+    "total_withdrawals_usd": 4.95,
+    "trades_count": 7,
+    "first_30d_active_days": 5
+  },
+  {
+    "signup_id": "s0260",
+    "affiliate_id": "aff_003",
+    "first_deposit_usd": 51.31,
+    "total_deposits_usd": 61.66,
+    "total_withdrawals_usd": 2.9,
+    "trades_count": 4,
+    "first_30d_active_days": 3
+  },
+  {
+    "signup_id": "s0261",
+    "affiliate_id": "aff_003",
+    "first_deposit_usd": 50.24,
+    "total_deposits_usd": 56.61,
+    "total_withdrawals_usd": 4.13,
+    "trades_count": 3,
+    "first_30d_active_days": 5
+  },
+  {
+    "signup_id": "s0262",
+    "affiliate_id": "aff_003",
+    "first_deposit_usd": 13.75,
+    "total_deposits_usd": 15.23,
+    "total_withdrawals_usd": 0.02,
+    "trades_count": 3,
+    "first_30d_active_days": 2
+  },
+  {
+    "signup_id": "s0263",
+    "affiliate_id": "aff_003",
+    "first_deposit_usd": 59.71,
+    "total_deposits_usd": 67.66,
+    "total_withdrawals_usd": 1.7,
+    "trades_count": 1,
+    "first_30d_active_days": 2
+  },
+  {
+    "signup_id": "s0264",
+    "affiliate_id": "aff_003",
+    "first_deposit_usd": 61.98,
+    "total_deposits_usd": 76.22,
+    "total_withdrawals_usd": 6.28,
+    "trades_count": 2,
+    "first_30d_active_days": 5
+  },
+  {
+    "signup_id": "s0265",
+    "affiliate_id": "aff_003",
+    "first_deposit_usd": 62.98,
+    "total_deposits_usd": 77.33,
+    "total_withdrawals_usd": 5.12,
+    "trades_count": 4,
+    "first_30d_active_days": 4
+  },
+  {
+    "signup_id": "s0266",
+    "affiliate_id": "aff_003",
+    "first_deposit_usd": 34.4,
+    "total_deposits_usd": 42.83,
+    "total_withdrawals_usd": 2.82,
+    "trades_count": 2,
+    "first_30d_active_days": 2
+  },
+  {
+    "signup_id": "s0267",
+    "affiliate_id": "aff_003",
+    "first_deposit_usd": 53.13,
+    "total_deposits_usd": 65.64,
+    "total_withdrawals_usd": 8.01,
+    "trades_count": 1,
+    "first_30d_active_days": 5
+  },
+  {
+    "signup_id": "s0268",
+    "affiliate_id": "aff_003",
+    "first_deposit_usd": 50.09,
+    "total_deposits_usd": 64.4,
+    "total_withdrawals_usd": 4.97,
+    "trades_count": 2,
+    "first_30d_active_days": 2
+  },
+  {
+    "signup_id": "s0269",
+    "affiliate_id": "aff_003",
+    "first_deposit_usd": 20.24,
+    "total_deposits_usd": 22.19,
+    "total_withdrawals_usd": 0.82,
+    "trades_count": 7,
+    "first_30d_active_days": 4
+  },
+  {
+    "signup_id": "s0270",
+    "affiliate_id": "aff_003",
+    "first_deposit_usd": 54.35,
+    "total_deposits_usd": 68.71,
+    "total_withdrawals_usd": 0.96,
+    "trades_count": 5,
+    "first_30d_active_days": 3
+  },
+  {
+    "signup_id": "s0271",
+    "affiliate_id": "aff_003",
+    "first_deposit_usd": 78.05,
+    "total_deposits_usd": 92.92,
+    "total_withdrawals_usd": 9.72,
+    "trades_count": 2,
+    "first_30d_active_days": 5
+  },
+  {
+    "signup_id": "s0272",
+    "affiliate_id": "aff_003",
+    "first_deposit_usd": 48.31,
+    "total_deposits_usd": 50.2,
+    "total_withdrawals_usd": 6.42,
+    "trades_count": 6,
+    "first_30d_active_days": 1
+  },
+  {
+    "signup_id": "s0273",
+    "affiliate_id": "aff_003",
+    "first_deposit_usd": 41.96,
+    "total_deposits_usd": 54.44,
+    "total_withdrawals_usd": 3.49,
+    "trades_count": 3,
+    "first_30d_active_days": 3
+  },
+  {
+    "signup_id": "s0274",
+    "affiliate_id": "aff_003",
+    "first_deposit_usd": 37.74,
+    "total_deposits_usd": 41.2,
+    "total_withdrawals_usd": 4.32,
+    "trades_count": 4,
+    "first_30d_active_days": 4
+  },
+  {
+    "signup_id": "s0275",
+    "affiliate_id": "aff_003",
+    "first_deposit_usd": 51.56,
+    "total_deposits_usd": 59.59,
+    "total_withdrawals_usd": 3.98,
+    "trades_count": 1,
+    "first_30d_active_days": 3
+  },
+  {
+    "signup_id": "s0276",
+    "affiliate_id": "aff_003",
+    "first_deposit_usd": 36.81,
+    "total_deposits_usd": 44.89,
+    "total_withdrawals_usd": 0.69,
+    "trades_count": 6,
+    "first_30d_active_days": 3
+  },
+  {
+    "signup_id": "s0277",
+    "affiliate_id": "aff_003",
+    "first_deposit_usd": 79.51,
+    "total_deposits_usd": 82.91,
+    "total_withdrawals_usd": 6.6,
+    "trades_count": 1,
+    "first_30d_active_days": 5
+  },
+  {
+    "signup_id": "s0278",
+    "affiliate_id": "aff_003",
+    "first_deposit_usd": 53.13,
+    "total_deposits_usd": 60.18,
+    "total_withdrawals_usd": 1.96,
+    "trades_count": 2,
+    "first_30d_active_days": 2
+  },
+  {
+    "signup_id": "s0279",
+    "affiliate_id": "aff_003",
+    "first_deposit_usd": 19.79,
+    "total_deposits_usd": 21.43,
+    "total_withdrawals_usd": 0.27,
+    "trades_count": 5,
+    "first_30d_active_days": 1
+  },
+  {
+    "signup_id": "s0280",
+    "affiliate_id": "aff_003",
+    "first_deposit_usd": 37.42,
+    "total_deposits_usd": 44.68,
+    "total_withdrawals_usd": 5.25,
+    "trades_count": 4,
+    "first_30d_active_days": 4
+  },
+  {
+    "signup_id": "s0281",
+    "affiliate_id": "aff_003",
+    "first_deposit_usd": 79.08,
+    "total_deposits_usd": 101.24,
+    "total_withdrawals_usd": 2.0,
+    "trades_count": 7,
+    "first_30d_active_days": 3
+  },
+  {
+    "signup_id": "s0282",
+    "affiliate_id": "aff_003",
+    "first_deposit_usd": 51.12,
+    "total_deposits_usd": 51.33,
+    "total_withdrawals_usd": 1.66,
+    "trades_count": 1,
+    "first_30d_active_days": 4
+  },
+  {
+    "signup_id": "s0283",
+    "affiliate_id": "aff_003",
+    "first_deposit_usd": 54.84,
+    "total_deposits_usd": 63.68,
+    "total_withdrawals_usd": 1.46,
+    "trades_count": 2,
+    "first_30d_active_days": 3
+  },
+  {
+    "signup_id": "s0284",
+    "affiliate_id": "aff_004",
+    "first_deposit_usd": 116.24,
+    "total_deposits_usd": 194.96,
+    "total_withdrawals_usd": 22.88,
+    "trades_count": 7,
+    "first_30d_active_days": 9
+  },
+  {
+    "signup_id": "s0285",
+    "affiliate_id": "aff_004",
+    "first_deposit_usd": 0.0,
+    "total_deposits_usd": 0.0,
+    "total_withdrawals_usd": 0.0,
+    "trades_count": 0,
+    "first_30d_active_days": 0
+  },
+  {
+    "signup_id": "s0286",
+    "affiliate_id": "aff_004",
+    "first_deposit_usd": 134.18,
+    "total_deposits_usd": 212.86,
+    "total_withdrawals_usd": 28.82,
+    "trades_count": 5,
+    "first_30d_active_days": 8
+  },
+  {
+    "signup_id": "s0287",
+    "affiliate_id": "aff_004",
+    "first_deposit_usd": 70.02,
+    "total_deposits_usd": 98.0,
+    "total_withdrawals_usd": 26.47,
+    "trades_count": 16,
+    "first_30d_active_days": 5
+  },
+  {
+    "signup_id": "s0288",
+    "affiliate_id": "aff_004",
+    "first_deposit_usd": 0.0,
+    "total_deposits_usd": 0.0,
+    "total_withdrawals_usd": 0.0,
+    "trades_count": 0,
+    "first_30d_active_days": 0
+  },
+  {
+    "signup_id": "s0289",
+    "affiliate_id": "aff_004",
+    "first_deposit_usd": 115.04,
+    "total_deposits_usd": 140.0,
+    "total_withdrawals_usd": 17.27,
+    "trades_count": 16,
+    "first_30d_active_days": 4
+  },
+  {
+    "signup_id": "s0290",
+    "affiliate_id": "aff_004",
+    "first_deposit_usd": 133.25,
+    "total_deposits_usd": 215.71,
+    "total_withdrawals_usd": 41.68,
+    "trades_count": 7,
+    "first_30d_active_days": 11
+  },
+  {
+    "signup_id": "s0291",
+    "affiliate_id": "aff_004",
+    "first_deposit_usd": 149.72,
+    "total_deposits_usd": 242.66,
+    "total_withdrawals_usd": 77.59,
+    "trades_count": 22,
+    "first_30d_active_days": 15
+  },
+  {
+    "signup_id": "s0292",
+    "affiliate_id": "aff_004",
+    "first_deposit_usd": 0.0,
+    "total_deposits_usd": 0.0,
+    "total_withdrawals_usd": 0.0,
+    "trades_count": 0,
+    "first_30d_active_days": 0
+  },
+  {
+    "signup_id": "s0293",
+    "affiliate_id": "aff_004",
+    "first_deposit_usd": 42.8,
+    "total_deposits_usd": 52.38,
+    "total_withdrawals_usd": 5.93,
+    "trades_count": 12,
+    "first_30d_active_days": 11
+  },
+  {
+    "signup_id": "s0294",
+    "affiliate_id": "aff_004",
+    "first_deposit_usd": 32.79,
+    "total_deposits_usd": 50.16,
+    "total_withdrawals_usd": 6.98,
+    "trades_count": 14,
+    "first_30d_active_days": 7
+  },
+  {
+    "signup_id": "s0295",
+    "affiliate_id": "aff_004",
+    "first_deposit_usd": 0.0,
+    "total_deposits_usd": 0.0,
+    "total_withdrawals_usd": 0.0,
+    "trades_count": 0,
+    "first_30d_active_days": 0
+  },
+  {
+    "signup_id": "s0296",
+    "affiliate_id": "aff_004",
+    "first_deposit_usd": 121.29,
+    "total_deposits_usd": 165.14,
+    "total_withdrawals_usd": 39.47,
+    "trades_count": 8,
+    "first_30d_active_days": 4
+  },
+  {
+    "signup_id": "s0297",
+    "affiliate_id": "aff_004",
+    "first_deposit_usd": 0.0,
+    "total_deposits_usd": 0.0,
+    "total_withdrawals_usd": 0.0,
+    "trades_count": 0,
+    "first_30d_active_days": 0
+  },
+  {
+    "signup_id": "s0298",
+    "affiliate_id": "aff_004",
+    "first_deposit_usd": 118.51,
+    "total_deposits_usd": 142.2,
+    "total_withdrawals_usd": 33.93,
+    "trades_count": 30,
+    "first_30d_active_days": 15
+  },
+  {
+    "signup_id": "s0299",
+    "affiliate_id": "aff_004",
+    "first_deposit_usd": 139.68,
+    "total_deposits_usd": 148.06,
+    "total_withdrawals_usd": 59.1,
+    "trades_count": 11,
+    "first_30d_active_days": 13
+  },
+  {
+    "signup_id": "s0300",
+    "affiliate_id": "aff_004",
+    "first_deposit_usd": 115.55,
+    "total_deposits_usd": 161.42,
+    "total_withdrawals_usd": 34.68,
+    "trades_count": 18,
+    "first_30d_active_days": 5
+  },
+  {
+    "signup_id": "s0301",
+    "affiliate_id": "aff_004",
+    "first_deposit_usd": 105.91,
+    "total_deposits_usd": 148.18,
+    "total_withdrawals_usd": 54.06,
+    "trades_count": 20,
+    "first_30d_active_days": 3
+  },
+  {
+    "signup_id": "s0302",
+    "affiliate_id": "aff_004",
+    "first_deposit_usd": 0.0,
+    "total_deposits_usd": 0.0,
+    "total_withdrawals_usd": 0.0,
+    "trades_count": 0,
+    "first_30d_active_days": 0
+  },
+  {
+    "signup_id": "s0303",
+    "affiliate_id": "aff_004",
+    "first_deposit_usd": 0.0,
+    "total_deposits_usd": 0.0,
+    "total_withdrawals_usd": 0.0,
+    "trades_count": 0,
+    "first_30d_active_days": 0
+  },
+  {
+    "signup_id": "s0304",
+    "affiliate_id": "aff_004",
+    "first_deposit_usd": 54.1,
+    "total_deposits_usd": 61.0,
+    "total_withdrawals_usd": 10.64,
+    "trades_count": 12,
+    "first_30d_active_days": 7
+  },
+  {
+    "signup_id": "s0305",
+    "affiliate_id": "aff_004",
+    "first_deposit_usd": 0.0,
+    "total_deposits_usd": 0.0,
+    "total_withdrawals_usd": 0.0,
+    "trades_count": 0,
+    "first_30d_active_days": 0
+  },
+  {
+    "signup_id": "s0306",
+    "affiliate_id": "aff_004",
+    "first_deposit_usd": 0.0,
+    "total_deposits_usd": 0.0,
+    "total_withdrawals_usd": 0.0,
+    "trades_count": 0,
+    "first_30d_active_days": 0
+  },
+  {
+    "signup_id": "s0307",
+    "affiliate_id": "aff_004",
+    "first_deposit_usd": 0.0,
+    "total_deposits_usd": 0.0,
+    "total_withdrawals_usd": 0.0,
+    "trades_count": 0,
+    "first_30d_active_days": 0
+  },
+  {
+    "signup_id": "s0308",
+    "affiliate_id": "aff_004",
+    "first_deposit_usd": 0.0,
+    "total_deposits_usd": 0.0,
+    "total_withdrawals_usd": 0.0,
+    "trades_count": 0,
+    "first_30d_active_days": 0
+  },
+  {
+    "signup_id": "s0309",
+    "affiliate_id": "aff_004",
+    "first_deposit_usd": 0.0,
+    "total_deposits_usd": 0.0,
+    "total_withdrawals_usd": 0.0,
+    "trades_count": 0,
+    "first_30d_active_days": 0
+  },
+  {
+    "signup_id": "s0310",
+    "affiliate_id": "aff_004",
+    "first_deposit_usd": 95.25,
+    "total_deposits_usd": 163.03,
+    "total_withdrawals_usd": 46.32,
+    "trades_count": 16,
+    "first_30d_active_days": 6
+  },
+  {
+    "signup_id": "s0311",
+    "affiliate_id": "aff_004",
+    "first_deposit_usd": 0.0,
+    "total_deposits_usd": 0.0,
+    "total_withdrawals_usd": 0.0,
+    "trades_count": 0,
+    "first_30d_active_days": 0
+  },
+  {
+    "signup_id": "s0312",
+    "affiliate_id": "aff_004",
+    "first_deposit_usd": 38.01,
+    "total_deposits_usd": 53.1,
+    "total_withdrawals_usd": 10.59,
+    "trades_count": 7,
+    "first_30d_active_days": 6
+  },
+  {
+    "signup_id": "s0313",
+    "affiliate_id": "aff_004",
+    "first_deposit_usd": 0.0,
+    "total_deposits_usd": 0.0,
+    "total_withdrawals_usd": 0.0,
+    "trades_count": 0,
+    "first_30d_active_days": 0
+  },
+  {
+    "signup_id": "s0314",
+    "affiliate_id": "aff_004",
+    "first_deposit_usd": 72.34,
+    "total_deposits_usd": 103.94,
+    "total_withdrawals_usd": 13.56,
+    "trades_count": 20,
+    "first_30d_active_days": 15
+  },
+  {
+    "signup_id": "s0315",
+    "affiliate_id": "aff_004",
+    "first_deposit_usd": 0.0,
+    "total_deposits_usd": 0.0,
+    "total_withdrawals_usd": 0.0,
+    "trades_count": 0,
+    "first_30d_active_days": 0
+  },
+  {
+    "signup_id": "s0316",
+    "affiliate_id": "aff_004",
+    "first_deposit_usd": 101.71,
+    "total_deposits_usd": 140.98,
+    "total_withdrawals_usd": 15.41,
+    "trades_count": 25,
+    "first_30d_active_days": 5
+  },
+  {
+    "signup_id": "s0317",
+    "affiliate_id": "aff_004",
+    "first_deposit_usd": 92.52,
+    "total_deposits_usd": 141.41,
+    "total_withdrawals_usd": 26.76,
+    "trades_count": 8,
+    "first_30d_active_days": 3
+  },
+  {
+    "signup_id": "s0318",
+    "affiliate_id": "aff_004",
+    "first_deposit_usd": 103.14,
+    "total_deposits_usd": 142.77,
+    "total_withdrawals_usd": 18.43,
+    "trades_count": 11,
+    "first_30d_active_days": 5
+  },
+  {
+    "signup_id": "s0319",
+    "affiliate_id": "aff_004",
+    "first_deposit_usd": 0.0,
+    "total_deposits_usd": 0.0,
+    "total_withdrawals_usd": 0.0,
+    "trades_count": 0,
+    "first_30d_active_days": 0
+  },
+  {
+    "signup_id": "s0320",
+    "affiliate_id": "aff_004",
+    "first_deposit_usd": 53.28,
+    "total_deposits_usd": 64.73,
+    "total_withdrawals_usd": 7.67,
+    "trades_count": 29,
+    "first_30d_active_days": 14
+  },
+  {
+    "signup_id": "s0321",
+    "affiliate_id": "aff_004",
+    "first_deposit_usd": 127.3,
+    "total_deposits_usd": 169.93,
+    "total_withdrawals_usd": 44.29,
+    "trades_count": 20,
+    "first_30d_active_days": 12
+  },
+  {
+    "signup_id": "s0322",
+    "affiliate_id": "aff_004",
+    "first_deposit_usd": 109.69,
+    "total_deposits_usd": 164.12,
+    "total_withdrawals_usd": 22.33,
+    "trades_count": 29,
+    "first_30d_active_days": 10
+  },
+  {
+    "signup_id": "s0323",
+    "affiliate_id": "aff_004",
+    "first_deposit_usd": 103.4,
+    "total_deposits_usd": 172.4,
+    "total_withdrawals_usd": 30.58,
+    "trades_count": 28,
+    "first_30d_active_days": 15
+  },
+  {
+    "signup_id": "s0324",
+    "affiliate_id": "aff_004",
+    "first_deposit_usd": 98.45,
+    "total_deposits_usd": 160.01,
+    "total_withdrawals_usd": 21.4,
+    "trades_count": 9,
+    "first_30d_active_days": 5
+  },
+  {
+    "signup_id": "s0325",
+    "affiliate_id": "aff_004",
+    "first_deposit_usd": 67.98,
+    "total_deposits_usd": 90.33,
+    "total_withdrawals_usd": 19.41,
+    "trades_count": 20,
+    "first_30d_active_days": 12
+  },
+  {
+    "signup_id": "s0326",
+    "affiliate_id": "aff_004",
+    "first_deposit_usd": 134.87,
+    "total_deposits_usd": 209.37,
+    "total_withdrawals_usd": 24.03,
+    "trades_count": 20,
+    "first_30d_active_days": 7
+  },
+  {
+    "signup_id": "s0327",
+    "affiliate_id": "aff_004",
+    "first_deposit_usd": 0.0,
+    "total_deposits_usd": 0.0,
+    "total_withdrawals_usd": 0.0,
+    "trades_count": 0,
+    "first_30d_active_days": 0
+  },
+  {
+    "signup_id": "s0328",
+    "affiliate_id": "aff_004",
+    "first_deposit_usd": 139.18,
+    "total_deposits_usd": 184.51,
+    "total_withdrawals_usd": 45.27,
+    "trades_count": 21,
+    "first_30d_active_days": 8
+  },
+  {
+    "signup_id": "s0329",
+    "affiliate_id": "aff_004",
+    "first_deposit_usd": 134.92,
+    "total_deposits_usd": 138.04,
+    "total_withdrawals_usd": 21.79,
+    "trades_count": 11,
+    "first_30d_active_days": 3
+  },
+  {
+    "signup_id": "s0330",
+    "affiliate_id": "aff_004",
+    "first_deposit_usd": 110.15,
+    "total_deposits_usd": 131.47,
+    "total_withdrawals_usd": 32.42,
+    "trades_count": 19,
+    "first_30d_active_days": 5
+  },
+  {
+    "signup_id": "s0331",
+    "affiliate_id": "aff_004",
+    "first_deposit_usd": 0.0,
+    "total_deposits_usd": 0.0,
+    "total_withdrawals_usd": 0.0,
+    "trades_count": 0,
+    "first_30d_active_days": 0
+  },
+  {
+    "signup_id": "s0332",
+    "affiliate_id": "aff_004",
+    "first_deposit_usd": 0.0,
+    "total_deposits_usd": 0.0,
+    "total_withdrawals_usd": 0.0,
+    "trades_count": 0,
+    "first_30d_active_days": 0
+  },
+  {
+    "signup_id": "s0333",
+    "affiliate_id": "aff_004",
+    "first_deposit_usd": 63.18,
+    "total_deposits_usd": 112.06,
+    "total_withdrawals_usd": 32.81,
+    "trades_count": 18,
+    "first_30d_active_days": 9
+  },
+  {
+    "signup_id": "s0334",
+    "affiliate_id": "aff_004",
+    "first_deposit_usd": 25.92,
+    "total_deposits_usd": 46.64,
+    "total_withdrawals_usd": 18.19,
+    "trades_count": 16,
+    "first_30d_active_days": 11
+  },
+  {
+    "signup_id": "s0335",
+    "affiliate_id": "aff_004",
+    "first_deposit_usd": 0.0,
+    "total_deposits_usd": 0.0,
+    "total_withdrawals_usd": 0.0,
+    "trades_count": 0,
+    "first_30d_active_days": 0
+  },
+  {
+    "signup_id": "s0336",
+    "affiliate_id": "aff_004",
+    "first_deposit_usd": 126.25,
+    "total_deposits_usd": 167.07,
+    "total_withdrawals_usd": 32.72,
+    "trades_count": 9,
+    "first_30d_active_days": 14
+  },
+  {
+    "signup_id": "s0337",
+    "affiliate_id": "aff_004",
+    "first_deposit_usd": 96.51,
+    "total_deposits_usd": 111.17,
+    "total_withdrawals_usd": 35.35,
+    "trades_count": 12,
+    "first_30d_active_days": 13
+  },
+  {
+    "signup_id": "s0338",
+    "affiliate_id": "aff_004",
+    "first_deposit_usd": 0.0,
+    "total_deposits_usd": 0.0,
+    "total_withdrawals_usd": 0.0,
+    "trades_count": 0,
+    "first_30d_active_days": 0
+  },
+  {
+    "signup_id": "s0339",
+    "affiliate_id": "aff_004",
+    "first_deposit_usd": 118.03,
+    "total_deposits_usd": 147.02,
+    "total_withdrawals_usd": 49.46,
+    "trades_count": 15,
+    "first_30d_active_days": 8
+  },
+  {
+    "signup_id": "s0340",
+    "affiliate_id": "aff_004",
+    "first_deposit_usd": 0.0,
+    "total_deposits_usd": 0.0,
+    "total_withdrawals_usd": 0.0,
+    "trades_count": 0,
+    "first_30d_active_days": 0
+  },
+  {
+    "signup_id": "s0341",
+    "affiliate_id": "aff_004",
+    "first_deposit_usd": 67.83,
+    "total_deposits_usd": 121.41,
+    "total_withdrawals_usd": 44.66,
+    "trades_count": 19,
+    "first_30d_active_days": 5
+  },
+  {
+    "signup_id": "s0342",
+    "affiliate_id": "aff_004",
+    "first_deposit_usd": 51.17,
+    "total_deposits_usd": 82.84,
+    "total_withdrawals_usd": 22.61,
+    "trades_count": 10,
+    "first_30d_active_days": 10
+  },
+  {
+    "signup_id": "s0343",
+    "affiliate_id": "aff_004",
+    "first_deposit_usd": 116.33,
+    "total_deposits_usd": 204.75,
+    "total_withdrawals_usd": 75.27,
+    "trades_count": 29,
+    "first_30d_active_days": 11
+  },
+  {
+    "signup_id": "s0344",
+    "affiliate_id": "aff_004",
+    "first_deposit_usd": 98.58,
+    "total_deposits_usd": 111.76,
+    "total_withdrawals_usd": 38.8,
+    "trades_count": 14,
+    "first_30d_active_days": 7
+  },
+  {
+    "signup_id": "s0345",
+    "affiliate_id": "aff_004",
+    "first_deposit_usd": 45.61,
+    "total_deposits_usd": 78.7,
+    "total_withdrawals_usd": 27.04,
+    "trades_count": 5,
+    "first_30d_active_days": 6
+  },
+  {
+    "signup_id": "s0346",
+    "affiliate_id": "aff_004",
+    "first_deposit_usd": 29.67,
+    "total_deposits_usd": 50.48,
+    "total_withdrawals_usd": 8.92,
+    "trades_count": 22,
+    "first_30d_active_days": 12
+  },
+  {
+    "signup_id": "s0347",
+    "affiliate_id": "aff_004",
+    "first_deposit_usd": 0.0,
+    "total_deposits_usd": 0.0,
+    "total_withdrawals_usd": 0.0,
+    "trades_count": 0,
+    "first_30d_active_days": 0
+  },
+  {
+    "signup_id": "s0348",
+    "affiliate_id": "aff_004",
+    "first_deposit_usd": 112.59,
+    "total_deposits_usd": 150.32,
+    "total_withdrawals_usd": 55.55,
+    "trades_count": 21,
+    "first_30d_active_days": 14
+  },
+  {
+    "signup_id": "s0349",
+    "affiliate_id": "aff_004",
+    "first_deposit_usd": 50.21,
+    "total_deposits_usd": 78.46,
+    "total_withdrawals_usd": 14.8,
+    "trades_count": 6,
+    "first_30d_active_days": 11
+  },
+  {
+    "signup_id": "s0350",
+    "affiliate_id": "aff_004",
+    "first_deposit_usd": 108.63,
+    "total_deposits_usd": 121.59,
+    "total_withdrawals_usd": 15.44,
+    "trades_count": 21,
+    "first_30d_active_days": 4
+  },
+  {
+    "signup_id": "s0351",
+    "affiliate_id": "aff_004",
+    "first_deposit_usd": 0.0,
+    "total_deposits_usd": 0.0,
+    "total_withdrawals_usd": 0.0,
+    "trades_count": 0,
+    "first_30d_active_days": 0
+  },
+  {
+    "signup_id": "s0352",
+    "affiliate_id": "aff_004",
+    "first_deposit_usd": 107.92,
+    "total_deposits_usd": 122.64,
+    "total_withdrawals_usd": 25.42,
+    "trades_count": 19,
+    "first_30d_active_days": 12
+  },
+  {
+    "signup_id": "s0353",
+    "affiliate_id": "aff_004",
+    "first_deposit_usd": 111.24,
+    "total_deposits_usd": 153.8,
+    "total_withdrawals_usd": 34.84,
+    "trades_count": 30,
+    "first_30d_active_days": 5
+  },
+  {
+    "signup_id": "s0354",
+    "affiliate_id": "aff_004",
+    "first_deposit_usd": 101.42,
+    "total_deposits_usd": 164.63,
+    "total_withdrawals_usd": 46.66,
+    "trades_count": 26,
+    "first_30d_active_days": 14
+  },
+  {
+    "signup_id": "s0355",
+    "affiliate_id": "aff_004",
+    "first_deposit_usd": 26.55,
+    "total_deposits_usd": 44.98,
+    "total_withdrawals_usd": 11.58,
+    "trades_count": 28,
+    "first_30d_active_days": 12
+  },
+  {
+    "signup_id": "s0356",
+    "affiliate_id": "aff_004",
+    "first_deposit_usd": 85.24,
+    "total_deposits_usd": 130.5,
+    "total_withdrawals_usd": 38.16,
+    "trades_count": 9,
+    "first_30d_active_days": 11
+  },
+  {
+    "signup_id": "s0357",
+    "affiliate_id": "aff_004",
+    "first_deposit_usd": 65.08,
+    "total_deposits_usd": 82.31,
+    "total_withdrawals_usd": 15.1,
+    "trades_count": 21,
+    "first_30d_active_days": 6
+  },
+  {
+    "signup_id": "s0358",
+    "affiliate_id": "aff_004",
+    "first_deposit_usd": 64.51,
+    "total_deposits_usd": 115.12,
+    "total_withdrawals_usd": 37.25,
+    "trades_count": 5,
+    "first_30d_active_days": 4
+  },
+  {
+    "signup_id": "s0359",
+    "affiliate_id": "aff_004",
+    "first_deposit_usd": 106.82,
+    "total_deposits_usd": 145.81,
+    "total_withdrawals_usd": 29.49,
+    "trades_count": 6,
+    "first_30d_active_days": 6
+  },
+  {
+    "signup_id": "s0360",
+    "affiliate_id": "aff_004",
+    "first_deposit_usd": 0.0,
+    "total_deposits_usd": 0.0,
+    "total_withdrawals_usd": 0.0,
+    "trades_count": 0,
+    "first_30d_active_days": 0
+  },
+  {
+    "signup_id": "s0361",
+    "affiliate_id": "aff_004",
+    "first_deposit_usd": 0.0,
+    "total_deposits_usd": 0.0,
+    "total_withdrawals_usd": 0.0,
+    "trades_count": 0,
+    "first_30d_active_days": 0
+  },
+  {
+    "signup_id": "s0362",
+    "affiliate_id": "aff_004",
+    "first_deposit_usd": 122.68,
+    "total_deposits_usd": 193.02,
+    "total_withdrawals_usd": 25.54,
+    "trades_count": 18,
+    "first_30d_active_days": 3
+  },
+  {
+    "signup_id": "s0363",
+    "affiliate_id": "aff_004",
+    "first_deposit_usd": 0.0,
+    "total_deposits_usd": 0.0,
+    "total_withdrawals_usd": 0.0,
+    "trades_count": 0,
+    "first_30d_active_days": 0
+  },
+  {
+    "signup_id": "s0364",
+    "affiliate_id": "aff_005",
+    "first_deposit_usd": 188.66,
+    "total_deposits_usd": 340.14,
+    "total_withdrawals_usd": 298.49,
+    "trades_count": 10,
+    "first_30d_active_days": 5
+  },
+  {
+    "signup_id": "s0365",
+    "affiliate_id": "aff_005",
+    "first_deposit_usd": 164.36,
+    "total_deposits_usd": 221.26,
+    "total_withdrawals_usd": 197.12,
+    "trades_count": 14,
+    "first_30d_active_days": 10
+  },
+  {
+    "signup_id": "s0366",
+    "affiliate_id": "aff_005",
+    "first_deposit_usd": 155.22,
+    "total_deposits_usd": 290.99,
+    "total_withdrawals_usd": 240.93,
+    "trades_count": 11,
+    "first_30d_active_days": 6
+  },
+  {
+    "signup_id": "s0367",
+    "affiliate_id": "aff_005",
+    "first_deposit_usd": 131.37,
+    "total_deposits_usd": 219.81,
+    "total_withdrawals_usd": 181.91,
+    "trades_count": 16,
+    "first_30d_active_days": 11
+  },
+  {
+    "signup_id": "s0368",
+    "affiliate_id": "aff_005",
+    "first_deposit_usd": 51.92,
+    "total_deposits_usd": 62.08,
+    "total_withdrawals_usd": 46.26,
+    "trades_count": 6,
+    "first_30d_active_days": 3
+  },
+  {
+    "signup_id": "s0369",
+    "affiliate_id": "aff_005",
+    "first_deposit_usd": 59.3,
+    "total_deposits_usd": 107.1,
+    "total_withdrawals_usd": 75.08,
+    "trades_count": 6,
+    "first_30d_active_days": 8
+  },
+  {
+    "signup_id": "s0370",
+    "affiliate_id": "aff_005",
+    "first_deposit_usd": 167.65,
+    "total_deposits_usd": 304.94,
+    "total_withdrawals_usd": 220.14,
+    "trades_count": 6,
+    "first_30d_active_days": 9
+  },
+  {
+    "signup_id": "s0371",
+    "affiliate_id": "aff_005",
+    "first_deposit_usd": 143.08,
+    "total_deposits_usd": 257.96,
+    "total_withdrawals_usd": 223.79,
+    "trades_count": 12,
+    "first_30d_active_days": 8
+  },
+  {
+    "signup_id": "s0372",
+    "affiliate_id": "aff_005",
+    "first_deposit_usd": 197.52,
+    "total_deposits_usd": 230.51,
+    "total_withdrawals_usd": 205.29,
+    "trades_count": 8,
+    "first_30d_active_days": 9
+  },
+  {
+    "signup_id": "s0373",
+    "affiliate_id": "aff_005",
+    "first_deposit_usd": 99.58,
+    "total_deposits_usd": 173.15,
+    "total_withdrawals_usd": 119.25,
+    "trades_count": 9,
+    "first_30d_active_days": 8
+  },
+  {
+    "signup_id": "s0374",
+    "affiliate_id": "aff_005",
+    "first_deposit_usd": 167.6,
+    "total_deposits_usd": 232.31,
+    "total_withdrawals_usd": 163.78,
+    "trades_count": 10,
+    "first_30d_active_days": 11
+  },
+  {
+    "signup_id": "s0375",
+    "affiliate_id": "aff_005",
+    "first_deposit_usd": 182.51,
+    "total_deposits_usd": 309.72,
+    "total_withdrawals_usd": 226.95,
+    "trades_count": 14,
+    "first_30d_active_days": 6
+  },
+  {
+    "signup_id": "s0376",
+    "affiliate_id": "aff_005",
+    "first_deposit_usd": 150.34,
+    "total_deposits_usd": 225.68,
+    "total_withdrawals_usd": 197.72,
+    "trades_count": 12,
+    "first_30d_active_days": 3
+  },
+  {
+    "signup_id": "s0377",
+    "affiliate_id": "aff_005",
+    "first_deposit_usd": 186.7,
+    "total_deposits_usd": 343.51,
+    "total_withdrawals_usd": 255.48,
+    "trades_count": 19,
+    "first_30d_active_days": 10
+  },
+  {
+    "signup_id": "s0378",
+    "affiliate_id": "aff_005",
+    "first_deposit_usd": 195.74,
+    "total_deposits_usd": 351.55,
+    "total_withdrawals_usd": 275.37,
+    "trades_count": 7,
+    "first_30d_active_days": 6
+  },
+  {
+    "signup_id": "s0379",
+    "affiliate_id": "aff_005",
+    "first_deposit_usd": 130.66,
+    "total_deposits_usd": 226.37,
+    "total_withdrawals_usd": 202.39,
+    "trades_count": 18,
+    "first_30d_active_days": 4
+  },
+  {
+    "signup_id": "s0380",
+    "affiliate_id": "aff_005",
+    "first_deposit_usd": 58.14,
+    "total_deposits_usd": 105.51,
+    "total_withdrawals_usd": 83.3,
+    "trades_count": 12,
+    "first_30d_active_days": 7
+  },
+  {
+    "signup_id": "s0381",
+    "affiliate_id": "aff_005",
+    "first_deposit_usd": 50.88,
+    "total_deposits_usd": 88.96,
+    "total_withdrawals_usd": 59.23,
+    "trades_count": 6,
+    "first_30d_active_days": 4
+  },
+  {
+    "signup_id": "s0382",
+    "affiliate_id": "aff_005",
+    "first_deposit_usd": 164.79,
+    "total_deposits_usd": 246.18,
+    "total_withdrawals_usd": 184.34,
+    "trades_count": 5,
+    "first_30d_active_days": 10
+  },
+  {
+    "signup_id": "s0383",
+    "affiliate_id": "aff_005",
+    "first_deposit_usd": 194.02,
+    "total_deposits_usd": 238.58,
+    "total_withdrawals_usd": 195.47,
+    "trades_count": 16,
+    "first_30d_active_days": 3
+  },
+  {
+    "signup_id": "s0384",
+    "affiliate_id": "aff_005",
+    "first_deposit_usd": 132.13,
+    "total_deposits_usd": 155.46,
+    "total_withdrawals_usd": 109.22,
+    "trades_count": 16,
+    "first_30d_active_days": 6
+  },
+  {
+    "signup_id": "s0385",
+    "affiliate_id": "aff_005",
+    "first_deposit_usd": 87.91,
+    "total_deposits_usd": 105.77,
+    "total_withdrawals_usd": 86.49,
+    "trades_count": 6,
+    "first_30d_active_days": 11
+  },
+  {
+    "signup_id": "s0386",
+    "affiliate_id": "aff_005",
+    "first_deposit_usd": 158.84,
+    "total_deposits_usd": 244.37,
+    "total_withdrawals_usd": 179.05,
+    "trades_count": 9,
+    "first_30d_active_days": 6
+  },
+  {
+    "signup_id": "s0387",
+    "affiliate_id": "aff_005",
+    "first_deposit_usd": 142.45,
+    "total_deposits_usd": 195.89,
+    "total_withdrawals_usd": 155.93,
+    "trades_count": 16,
+    "first_30d_active_days": 8
+  },
+  {
+    "signup_id": "s0388",
+    "affiliate_id": "aff_005",
+    "first_deposit_usd": 176.02,
+    "total_deposits_usd": 214.89,
+    "total_withdrawals_usd": 179.06,
+    "trades_count": 20,
+    "first_30d_active_days": 10
+  },
+  {
+    "signup_id": "s0389",
+    "affiliate_id": "aff_005",
+    "first_deposit_usd": 176.27,
+    "total_deposits_usd": 330.12,
+    "total_withdrawals_usd": 226.14,
+    "trades_count": 11,
+    "first_30d_active_days": 7
+  },
+  {
+    "signup_id": "s0390",
+    "affiliate_id": "aff_005",
+    "first_deposit_usd": 137.28,
+    "total_deposits_usd": 201.07,
+    "total_withdrawals_usd": 160.35,
+    "trades_count": 6,
+    "first_30d_active_days": 11
+  },
+  {
+    "signup_id": "s0391",
+    "affiliate_id": "aff_005",
+    "first_deposit_usd": 183.72,
+    "total_deposits_usd": 299.57,
+    "total_withdrawals_usd": 258.92,
+    "trades_count": 9,
+    "first_30d_active_days": 10
+  },
+  {
+    "signup_id": "s0392",
+    "affiliate_id": "aff_005",
+    "first_deposit_usd": 194.6,
+    "total_deposits_usd": 386.02,
+    "total_withdrawals_usd": 316.94,
+    "trades_count": 9,
+    "first_30d_active_days": 10
+  },
+  {
+    "signup_id": "s0393",
+    "affiliate_id": "aff_005",
+    "first_deposit_usd": 82.82,
+    "total_deposits_usd": 127.45,
+    "total_withdrawals_usd": 84.85,
+    "trades_count": 16,
+    "first_30d_active_days": 6
+  },
+  {
+    "signup_id": "s0394",
+    "affiliate_id": "aff_005",
+    "first_deposit_usd": 182.23,
+    "total_deposits_usd": 207.0,
+    "total_withdrawals_usd": 168.11,
+    "trades_count": 8,
+    "first_30d_active_days": 11
+  },
+  {
+    "signup_id": "s0395",
+    "affiliate_id": "aff_005",
+    "first_deposit_usd": 106.78,
+    "total_deposits_usd": 173.93,
+    "total_withdrawals_usd": 152.11,
+    "trades_count": 7,
+    "first_30d_active_days": 11
+  },
+  {
+    "signup_id": "s0396",
+    "affiliate_id": "aff_005",
+    "first_deposit_usd": 50.99,
+    "total_deposits_usd": 96.57,
+    "total_withdrawals_usd": 73.39,
+    "trades_count": 12,
+    "first_30d_active_days": 4
+  },
+  {
+    "signup_id": "s0397",
+    "affiliate_id": "aff_005",
+    "first_deposit_usd": 172.54,
+    "total_deposits_usd": 292.46,
+    "total_withdrawals_usd": 220.41,
+    "trades_count": 15,
+    "first_30d_active_days": 4
+  },
+  {
+    "signup_id": "s0398",
+    "affiliate_id": "aff_005",
+    "first_deposit_usd": 86.55,
+    "total_deposits_usd": 105.17,
+    "total_withdrawals_usd": 83.93,
+    "trades_count": 9,
+    "first_30d_active_days": 11
+  },
+  {
+    "signup_id": "s0399",
+    "affiliate_id": "aff_005",
+    "first_deposit_usd": 195.39,
+    "total_deposits_usd": 327.05,
+    "total_withdrawals_usd": 284.41,
+    "trades_count": 14,
+    "first_30d_active_days": 4
+  },
+  {
+    "signup_id": "s0400",
+    "affiliate_id": "aff_005",
+    "first_deposit_usd": 71.41,
+    "total_deposits_usd": 115.99,
+    "total_withdrawals_usd": 97.65,
+    "trades_count": 13,
+    "first_30d_active_days": 5
+  },
+  {
+    "signup_id": "s0401",
+    "affiliate_id": "aff_005",
+    "first_deposit_usd": 69.83,
+    "total_deposits_usd": 77.86,
+    "total_withdrawals_usd": 60.78,
+    "trades_count": 18,
+    "first_30d_active_days": 5
+  },
+  {
+    "signup_id": "s0402",
+    "affiliate_id": "aff_005",
+    "first_deposit_usd": 162.86,
+    "total_deposits_usd": 192.8,
+    "total_withdrawals_usd": 157.1,
+    "trades_count": 5,
+    "first_30d_active_days": 9
+  },
+  {
+    "signup_id": "s0403",
+    "affiliate_id": "aff_005",
+    "first_deposit_usd": 165.3,
+    "total_deposits_usd": 233.98,
+    "total_withdrawals_usd": 199.15,
+    "trades_count": 8,
+    "first_30d_active_days": 9
+  },
+  {
+    "signup_id": "s0404",
+    "affiliate_id": "aff_005",
+    "first_deposit_usd": 111.3,
+    "total_deposits_usd": 141.36,
+    "total_withdrawals_usd": 116.95,
+    "trades_count": 5,
+    "first_30d_active_days": 12
+  },
+  {
+    "signup_id": "s0405",
+    "affiliate_id": "aff_005",
+    "first_deposit_usd": 104.34,
+    "total_deposits_usd": 129.31,
+    "total_withdrawals_usd": 105.11,
+    "trades_count": 13,
+    "first_30d_active_days": 7
+  },
+  {
+    "signup_id": "s0406",
+    "affiliate_id": "aff_005",
+    "first_deposit_usd": 132.82,
+    "total_deposits_usd": 212.75,
+    "total_withdrawals_usd": 147.79,
+    "trades_count": 20,
+    "first_30d_active_days": 7
+  },
+  {
+    "signup_id": "s0407",
+    "affiliate_id": "aff_005",
+    "first_deposit_usd": 167.47,
+    "total_deposits_usd": 327.28,
+    "total_withdrawals_usd": 220.94,
+    "trades_count": 17,
+    "first_30d_active_days": 8
+  },
+  {
+    "signup_id": "s0408",
+    "affiliate_id": "aff_005",
+    "first_deposit_usd": 71.8,
+    "total_deposits_usd": 138.81,
+    "total_withdrawals_usd": 105.33,
+    "trades_count": 7,
+    "first_30d_active_days": 7
+  },
+  {
+    "signup_id": "s0409",
+    "affiliate_id": "aff_005",
+    "first_deposit_usd": 156.74,
+    "total_deposits_usd": 256.7,
+    "total_withdrawals_usd": 227.54,
+    "trades_count": 10,
+    "first_30d_active_days": 10
+  },
+  {
+    "signup_id": "s0410",
+    "affiliate_id": "aff_005",
+    "first_deposit_usd": 127.37,
+    "total_deposits_usd": 166.67,
+    "total_withdrawals_usd": 115.4,
+    "trades_count": 6,
+    "first_30d_active_days": 8
+  },
+  {
+    "signup_id": "s0411",
+    "affiliate_id": "aff_005",
+    "first_deposit_usd": 150.45,
+    "total_deposits_usd": 220.39,
+    "total_withdrawals_usd": 154.29,
+    "trades_count": 5,
+    "first_30d_active_days": 4
+  },
+  {
+    "signup_id": "s0412",
+    "affiliate_id": "aff_005",
+    "first_deposit_usd": 102.12,
+    "total_deposits_usd": 187.29,
+    "total_withdrawals_usd": 132.33,
+    "trades_count": 11,
+    "first_30d_active_days": 10
+  },
+  {
+    "signup_id": "s0413",
+    "affiliate_id": "aff_005",
+    "first_deposit_usd": 60.86,
+    "total_deposits_usd": 83.06,
+    "total_withdrawals_usd": 73.65,
+    "trades_count": 13,
+    "first_30d_active_days": 11
+  },
+  {
+    "signup_id": "s0414",
+    "affiliate_id": "aff_005",
+    "first_deposit_usd": 100.95,
+    "total_deposits_usd": 181.51,
+    "total_withdrawals_usd": 148.91,
+    "trades_count": 5,
+    "first_30d_active_days": 10
+  },
+  {
+    "signup_id": "s0415",
+    "affiliate_id": "aff_005",
+    "first_deposit_usd": 97.36,
+    "total_deposits_usd": 190.82,
+    "total_withdrawals_usd": 148.67,
+    "trades_count": 5,
+    "first_30d_active_days": 7
+  },
+  {
+    "signup_id": "s0416",
+    "affiliate_id": "aff_005",
+    "first_deposit_usd": 121.48,
+    "total_deposits_usd": 172.29,
+    "total_withdrawals_usd": 150.51,
+    "trades_count": 13,
+    "first_30d_active_days": 5
+  },
+  {
+    "signup_id": "s0417",
+    "affiliate_id": "aff_005",
+    "first_deposit_usd": 89.81,
+    "total_deposits_usd": 117.32,
+    "total_withdrawals_usd": 100.75,
+    "trades_count": 16,
+    "first_30d_active_days": 5
+  },
+  {
+    "signup_id": "s0418",
+    "affiliate_id": "aff_005",
+    "first_deposit_usd": 164.64,
+    "total_deposits_usd": 261.33,
+    "total_withdrawals_usd": 172.63,
+    "trades_count": 20,
+    "first_30d_active_days": 8
+  },
+  {
+    "signup_id": "s0419",
+    "affiliate_id": "aff_005",
+    "first_deposit_usd": 109.68,
+    "total_deposits_usd": 194.7,
+    "total_withdrawals_usd": 132.8,
+    "trades_count": 18,
+    "first_30d_active_days": 10
+  },
+  {
+    "signup_id": "s0420",
+    "affiliate_id": "aff_005",
+    "first_deposit_usd": 196.48,
+    "total_deposits_usd": 339.59,
+    "total_withdrawals_usd": 259.79,
+    "trades_count": 5,
+    "first_30d_active_days": 3
+  },
+  {
+    "signup_id": "s0421",
+    "affiliate_id": "aff_005",
+    "first_deposit_usd": 132.28,
+    "total_deposits_usd": 173.75,
+    "total_withdrawals_usd": 133.41,
+    "trades_count": 15,
+    "first_30d_active_days": 8
+  },
+  {
+    "signup_id": "s0422",
+    "affiliate_id": "aff_005",
+    "first_deposit_usd": 110.09,
+    "total_deposits_usd": 165.76,
+    "total_withdrawals_usd": 131.42,
+    "trades_count": 12,
+    "first_30d_active_days": 4
+  },
+  {
+    "signup_id": "s0423",
+    "affiliate_id": "aff_005",
+    "first_deposit_usd": 193.87,
+    "total_deposits_usd": 239.35,
+    "total_withdrawals_usd": 203.79,
+    "trades_count": 10,
+    "first_30d_active_days": 9
+  },
+  {
+    "signup_id": "s0424",
+    "affiliate_id": "aff_005",
+    "first_deposit_usd": 87.65,
+    "total_deposits_usd": 164.13,
+    "total_withdrawals_usd": 108.64,
+    "trades_count": 8,
+    "first_30d_active_days": 5
+  },
+  {
+    "signup_id": "s0425",
+    "affiliate_id": "aff_005",
+    "first_deposit_usd": 100.2,
+    "total_deposits_usd": 142.77,
+    "total_withdrawals_usd": 112.8,
+    "trades_count": 13,
+    "first_30d_active_days": 8
+  },
+  {
+    "signup_id": "s0426",
+    "affiliate_id": "aff_005",
+    "first_deposit_usd": 147.48,
+    "total_deposits_usd": 233.7,
+    "total_withdrawals_usd": 209.12,
+    "trades_count": 14,
+    "first_30d_active_days": 8
+  },
+  {
+    "signup_id": "s0427",
+    "affiliate_id": "aff_005",
+    "first_deposit_usd": 142.05,
+    "total_deposits_usd": 215.54,
+    "total_withdrawals_usd": 191.65,
+    "trades_count": 10,
+    "first_30d_active_days": 8
+  },
+  {
+    "signup_id": "s0428",
+    "affiliate_id": "aff_005",
+    "first_deposit_usd": 84.23,
+    "total_deposits_usd": 116.68,
+    "total_withdrawals_usd": 84.34,
+    "trades_count": 13,
+    "first_30d_active_days": 12
+  },
+  {
+    "signup_id": "s0429",
+    "affiliate_id": "aff_005",
+    "first_deposit_usd": 194.83,
+    "total_deposits_usd": 286.9,
+    "total_withdrawals_usd": 199.68,
+    "trades_count": 5,
+    "first_30d_active_days": 5
+  },
+  {
+    "signup_id": "s0430",
+    "affiliate_id": "aff_005",
+    "first_deposit_usd": 75.04,
+    "total_deposits_usd": 89.5,
+    "total_withdrawals_usd": 59.6,
+    "trades_count": 20,
+    "first_30d_active_days": 11
+  },
+  {
+    "signup_id": "s0431",
+    "affiliate_id": "aff_005",
+    "first_deposit_usd": 73.29,
+    "total_deposits_usd": 123.81,
+    "total_withdrawals_usd": 107.89,
+    "trades_count": 14,
+    "first_30d_active_days": 6
+  },
+  {
+    "signup_id": "s0432",
+    "affiliate_id": "aff_005",
+    "first_deposit_usd": 55.27,
+    "total_deposits_usd": 78.55,
+    "total_withdrawals_usd": 69.03,
+    "trades_count": 20,
+    "first_30d_active_days": 10
+  },
+  {
+    "signup_id": "s0433",
+    "affiliate_id": "aff_005",
+    "first_deposit_usd": 139.64,
+    "total_deposits_usd": 232.91,
+    "total_withdrawals_usd": 188.41,
+    "trades_count": 18,
+    "first_30d_active_days": 11
+  },
+  {
+    "signup_id": "s0434",
+    "affiliate_id": "aff_005",
+    "first_deposit_usd": 63.43,
+    "total_deposits_usd": 87.35,
+    "total_withdrawals_usd": 65.78,
+    "trades_count": 9,
+    "first_30d_active_days": 7
+  },
+  {
+    "signup_id": "s0435",
+    "affiliate_id": "aff_005",
+    "first_deposit_usd": 188.31,
+    "total_deposits_usd": 367.64,
+    "total_withdrawals_usd": 282.81,
+    "trades_count": 5,
+    "first_30d_active_days": 9
+  },
+  {
+    "signup_id": "s0436",
+    "affiliate_id": "aff_005",
+    "first_deposit_usd": 182.32,
+    "total_deposits_usd": 272.28,
+    "total_withdrawals_usd": 193.99,
+    "trades_count": 17,
+    "first_30d_active_days": 9
+  },
+  {
+    "signup_id": "s0437",
+    "affiliate_id": "aff_005",
+    "first_deposit_usd": 154.09,
+    "total_deposits_usd": 207.2,
+    "total_withdrawals_usd": 168.27,
+    "trades_count": 13,
+    "first_30d_active_days": 9
+  },
+  {
+    "signup_id": "s0438",
+    "affiliate_id": "aff_005",
+    "first_deposit_usd": 90.82,
+    "total_deposits_usd": 150.8,
+    "total_withdrawals_usd": 105.1,
+    "trades_count": 5,
+    "first_30d_active_days": 5
+  },
+  {
+    "signup_id": "s0439",
+    "affiliate_id": "aff_006",
+    "first_deposit_usd": 0.0,
+    "total_deposits_usd": 0.0,
+    "total_withdrawals_usd": 0.0,
+    "trades_count": 0,
+    "first_30d_active_days": 0
+  },
+  {
+    "signup_id": "s0440",
+    "affiliate_id": "aff_006",
+    "first_deposit_usd": 240.0,
+    "total_deposits_usd": 359.62,
+    "total_withdrawals_usd": 89.39,
+    "trades_count": 4,
+    "first_30d_active_days": 11
+  },
+  {
+    "signup_id": "s0441",
+    "affiliate_id": "aff_006",
+    "first_deposit_usd": 0.0,
+    "total_deposits_usd": 0.0,
+    "total_withdrawals_usd": 0.0,
+    "trades_count": 0,
+    "first_30d_active_days": 0
+  },
+  {
+    "signup_id": "s0442",
+    "affiliate_id": "aff_006",
+    "first_deposit_usd": 89.21,
+    "total_deposits_usd": 177.92,
+    "total_withdrawals_usd": 31.97,
+    "trades_count": 8,
+    "first_30d_active_days": 17
+  },
+  {
+    "signup_id": "s0443",
+    "affiliate_id": "aff_006",
+    "first_deposit_usd": 228.52,
+    "total_deposits_usd": 354.11,
+    "total_withdrawals_usd": 52.71,
+    "trades_count": 32,
+    "first_30d_active_days": 10
+  },
+  {
+    "signup_id": "s0444",
+    "affiliate_id": "aff_006",
+    "first_deposit_usd": 110.86,
+    "total_deposits_usd": 129.42,
+    "total_withdrawals_usd": 27.23,
+    "trades_count": 9,
+    "first_30d_active_days": 13
+  },
+  {
+    "signup_id": "s0445",
+    "affiliate_id": "aff_006",
+    "first_deposit_usd": 45.05,
+    "total_deposits_usd": 52.16,
+    "total_withdrawals_usd": 7.12,
+    "trades_count": 23,
+    "first_30d_active_days": 2
+  },
+  {
+    "signup_id": "s0446",
+    "affiliate_id": "aff_006",
+    "first_deposit_usd": 240.8,
+    "total_deposits_usd": 423.01,
+    "total_withdrawals_usd": 178.6,
+    "trades_count": 30,
+    "first_30d_active_days": 7
+  },
+  {
+    "signup_id": "s0447",
+    "affiliate_id": "aff_006",
+    "first_deposit_usd": 102.52,
+    "total_deposits_usd": 173.98,
+    "total_withdrawals_usd": 30.6,
+    "trades_count": 13,
+    "first_30d_active_days": 18
+  },
+  {
+    "signup_id": "s0448",
+    "affiliate_id": "aff_006",
+    "first_deposit_usd": 0.0,
+    "total_deposits_usd": 0.0,
+    "total_withdrawals_usd": 0.0,
+    "trades_count": 0,
+    "first_30d_active_days": 0
+  },
+  {
+    "signup_id": "s0449",
+    "affiliate_id": "aff_006",
+    "first_deposit_usd": 267.22,
+    "total_deposits_usd": 432.83,
+    "total_withdrawals_usd": 106.32,
+    "trades_count": 17,
+    "first_30d_active_days": 11
+  },
+  {
+    "signup_id": "s0450",
+    "affiliate_id": "aff_006",
+    "first_deposit_usd": 110.33,
+    "total_deposits_usd": 181.04,
+    "total_withdrawals_usd": 26.1,
+    "trades_count": 35,
+    "first_30d_active_days": 3
+  },
+  {
+    "signup_id": "s0451",
+    "affiliate_id": "aff_006",
+    "first_deposit_usd": 0.0,
+    "total_deposits_usd": 0.0,
+    "total_withdrawals_usd": 0.0,
+    "trades_count": 0,
+    "first_30d_active_days": 0
+  },
+  {
+    "signup_id": "s0452",
+    "affiliate_id": "aff_006",
+    "first_deposit_usd": 221.0,
+    "total_deposits_usd": 223.89,
+    "total_withdrawals_usd": 104.87,
+    "trades_count": 33,
+    "first_30d_active_days": 3
+  },
+  {
+    "signup_id": "s0453",
+    "affiliate_id": "aff_006",
+    "first_deposit_usd": 168.13,
+    "total_deposits_usd": 291.58,
+    "total_withdrawals_usd": 126.48,
+    "trades_count": 6,
+    "first_30d_active_days": 7
+  },
+  {
+    "signup_id": "s0454",
+    "affiliate_id": "aff_006",
+    "first_deposit_usd": 0.0,
+    "total_deposits_usd": 0.0,
+    "total_withdrawals_usd": 0.0,
+    "trades_count": 0,
+    "first_30d_active_days": 0
+  },
+  {
+    "signup_id": "s0455",
+    "affiliate_id": "aff_006",
+    "first_deposit_usd": 120.23,
+    "total_deposits_usd": 175.38,
+    "total_withdrawals_usd": 64.21,
+    "trades_count": 8,
+    "first_30d_active_days": 6
+  },
+  {
+    "signup_id": "s0456",
+    "affiliate_id": "aff_006",
+    "first_deposit_usd": 118.65,
+    "total_deposits_usd": 156.04,
+    "total_withdrawals_usd": 77.49,
+    "trades_count": 22,
+    "first_30d_active_days": 12
+  },
+  {
+    "signup_id": "s0457",
+    "affiliate_id": "aff_006",
+    "first_deposit_usd": 234.4,
+    "total_deposits_usd": 451.49,
+    "total_withdrawals_usd": 91.04,
+    "trades_count": 30,
+    "first_30d_active_days": 15
+  },
+  {
+    "signup_id": "s0458",
+    "affiliate_id": "aff_006",
+    "first_deposit_usd": 0.0,
+    "total_deposits_usd": 0.0,
+    "total_withdrawals_usd": 0.0,
+    "trades_count": 0,
+    "first_30d_active_days": 0
+  },
+  {
+    "signup_id": "s0459",
+    "affiliate_id": "aff_006",
+    "first_deposit_usd": 279.26,
+    "total_deposits_usd": 322.46,
+    "total_withdrawals_usd": 37.11,
+    "trades_count": 24,
+    "first_30d_active_days": 5
+  },
+  {
+    "signup_id": "s0460",
+    "affiliate_id": "aff_006",
+    "first_deposit_usd": 179.34,
+    "total_deposits_usd": 218.33,
+    "total_withdrawals_usd": 28.58,
+    "trades_count": 22,
+    "first_30d_active_days": 16
+  },
+  {
+    "signup_id": "s0461",
+    "affiliate_id": "aff_006",
+    "first_deposit_usd": 126.83,
+    "total_deposits_usd": 225.78,
+    "total_withdrawals_usd": 105.83,
+    "trades_count": 23,
+    "first_30d_active_days": 12
+  },
+  {
+    "signup_id": "s0462",
+    "affiliate_id": "aff_006",
+    "first_deposit_usd": 197.01,
+    "total_deposits_usd": 207.68,
+    "total_withdrawals_usd": 64.33,
+    "trades_count": 22,
+    "first_30d_active_days": 18
+  },
+  {
+    "signup_id": "s0463",
+    "affiliate_id": "aff_006",
+    "first_deposit_usd": 181.07,
+    "total_deposits_usd": 197.38,
+    "total_withdrawals_usd": 53.84,
+    "trades_count": 27,
+    "first_30d_active_days": 5
+  },
+  {
+    "signup_id": "s0464",
+    "affiliate_id": "aff_006",
+    "first_deposit_usd": 131.59,
+    "total_deposits_usd": 188.76,
+    "total_withdrawals_usd": 71.57,
+    "trades_count": 10,
+    "first_30d_active_days": 16
+  },
+  {
+    "signup_id": "s0465",
+    "affiliate_id": "aff_006",
+    "first_deposit_usd": 0.0,
+    "total_deposits_usd": 0.0,
+    "total_withdrawals_usd": 0.0,
+    "trades_count": 0,
+    "first_30d_active_days": 0
+  },
+  {
+    "signup_id": "s0466",
+    "affiliate_id": "aff_006",
+    "first_deposit_usd": 73.34,
+    "total_deposits_usd": 98.6,
+    "total_withdrawals_usd": 35.71,
+    "trades_count": 21,
+    "first_30d_active_days": 6
+  },
+  {
+    "signup_id": "s0467",
+    "affiliate_id": "aff_006",
+    "first_deposit_usd": 232.17,
+    "total_deposits_usd": 430.15,
+    "total_withdrawals_usd": 62.35,
+    "trades_count": 5,
+    "first_30d_active_days": 8
+  },
+  {
+    "signup_id": "s0468",
+    "affiliate_id": "aff_006",
+    "first_deposit_usd": 112.93,
+    "total_deposits_usd": 196.49,
+    "total_withdrawals_usd": 36.3,
+    "trades_count": 36,
+    "first_30d_active_days": 17
+  },
+  {
+    "signup_id": "s0469",
+    "affiliate_id": "aff_006",
+    "first_deposit_usd": 205.79,
+    "total_deposits_usd": 214.74,
+    "total_withdrawals_usd": 36.1,
+    "trades_count": 20,
+    "first_30d_active_days": 7
+  },
+  {
+    "signup_id": "s0470",
+    "affiliate_id": "aff_006",
+    "first_deposit_usd": 205.63,
+    "total_deposits_usd": 393.35,
+    "total_withdrawals_usd": 96.01,
+    "trades_count": 8,
+    "first_30d_active_days": 1
+  },
+  {
+    "signup_id": "s0471",
+    "affiliate_id": "aff_006",
+    "first_deposit_usd": 168.84,
+    "total_deposits_usd": 200.31,
+    "total_withdrawals_usd": 60.15,
+    "trades_count": 31,
+    "first_30d_active_days": 18
+  },
+  {
+    "signup_id": "s0472",
+    "affiliate_id": "aff_006",
+    "first_deposit_usd": 25.14,
+    "total_deposits_usd": 42.35,
+    "total_withdrawals_usd": 10.26,
+    "trades_count": 21,
+    "first_30d_active_days": 8
+  },
+  {
+    "signup_id": "s0473",
+    "affiliate_id": "aff_006",
+    "first_deposit_usd": 115.7,
+    "total_deposits_usd": 161.15,
+    "total_withdrawals_usd": 24.96,
+    "trades_count": 26,
+    "first_30d_active_days": 17
+  },
+  {
+    "signup_id": "s0474",
+    "affiliate_id": "aff_006",
+    "first_deposit_usd": 107.47,
+    "total_deposits_usd": 172.52,
+    "total_withdrawals_usd": 48.25,
+    "trades_count": 10,
+    "first_30d_active_days": 7
+  },
+  {
+    "signup_id": "s0475",
+    "affiliate_id": "aff_006",
+    "first_deposit_usd": 166.67,
+    "total_deposits_usd": 189.21,
+    "total_withdrawals_usd": 94.28,
+    "trades_count": 11,
+    "first_30d_active_days": 19
+  },
+  {
+    "signup_id": "s0476",
+    "affiliate_id": "aff_006",
+    "first_deposit_usd": 60.75,
+    "total_deposits_usd": 62.54,
+    "total_withdrawals_usd": 14.23,
+    "trades_count": 28,
+    "first_30d_active_days": 14
+  },
+  {
+    "signup_id": "s0477",
+    "affiliate_id": "aff_006",
+    "first_deposit_usd": 191.35,
+    "total_deposits_usd": 242.42,
+    "total_withdrawals_usd": 79.23,
+    "trades_count": 16,
+    "first_30d_active_days": 20
+  },
+  {
+    "signup_id": "s0478",
+    "affiliate_id": "aff_006",
+    "first_deposit_usd": 151.25,
+    "total_deposits_usd": 249.5,
+    "total_withdrawals_usd": 43.31,
+    "trades_count": 26,
+    "first_30d_active_days": 16
+  },
+  {
+    "signup_id": "s0479",
+    "affiliate_id": "aff_006",
+    "first_deposit_usd": 24.2,
+    "total_deposits_usd": 30.74,
+    "total_withdrawals_usd": 8.15,
+    "trades_count": 14,
+    "first_30d_active_days": 7
+  },
+  {
+    "signup_id": "s0480",
+    "affiliate_id": "aff_006",
+    "first_deposit_usd": 237.34,
+    "total_deposits_usd": 381.63,
+    "total_withdrawals_usd": 164.0,
+    "trades_count": 22,
+    "first_30d_active_days": 13
+  },
+  {
+    "signup_id": "s0481",
+    "affiliate_id": "aff_006",
+    "first_deposit_usd": 251.56,
+    "total_deposits_usd": 262.23,
+    "total_withdrawals_usd": 130.68,
+    "trades_count": 35,
+    "first_30d_active_days": 18
+  },
+  {
+    "signup_id": "s0482",
+    "affiliate_id": "aff_006",
+    "first_deposit_usd": 267.63,
+    "total_deposits_usd": 474.69,
+    "total_withdrawals_usd": 101.76,
+    "trades_count": 12,
+    "first_30d_active_days": 14
+  },
+  {
+    "signup_id": "s0483",
+    "affiliate_id": "aff_006",
+    "first_deposit_usd": 70.34,
+    "total_deposits_usd": 111.51,
+    "total_withdrawals_usd": 51.04,
+    "trades_count": 36,
+    "first_30d_active_days": 5
+  },
+  {
+    "signup_id": "s0484",
+    "affiliate_id": "aff_006",
+    "first_deposit_usd": 219.54,
+    "total_deposits_usd": 263.87,
+    "total_withdrawals_usd": 74.38,
+    "trades_count": 18,
+    "first_30d_active_days": 11
+  },
+  {
+    "signup_id": "s0485",
+    "affiliate_id": "aff_006",
+    "first_deposit_usd": 166.67,
+    "total_deposits_usd": 230.68,
+    "total_withdrawals_usd": 96.06,
+    "trades_count": 34,
+    "first_30d_active_days": 20
+  },
+  {
+    "signup_id": "s0486",
+    "affiliate_id": "aff_006",
+    "first_deposit_usd": 62.03,
+    "total_deposits_usd": 115.91,
+    "total_withdrawals_usd": 19.88,
+    "trades_count": 5,
+    "first_30d_active_days": 14
+  },
+  {
+    "signup_id": "s0487",
+    "affiliate_id": "aff_006",
+    "first_deposit_usd": 90.87,
+    "total_deposits_usd": 132.55,
+    "total_withdrawals_usd": 58.61,
+    "trades_count": 36,
+    "first_30d_active_days": 1
+  },
+  {
+    "signup_id": "s0488",
+    "affiliate_id": "aff_006",
+    "first_deposit_usd": 0.0,
+    "total_deposits_usd": 0.0,
+    "total_withdrawals_usd": 0.0,
+    "trades_count": 0,
+    "first_30d_active_days": 0
+  },
+  {
+    "signup_id": "s0489",
+    "affiliate_id": "aff_006",
+    "first_deposit_usd": 251.07,
+    "total_deposits_usd": 263.35,
+    "total_withdrawals_usd": 41.95,
+    "trades_count": 24,
+    "first_30d_active_days": 2
+  },
+  {
+    "signup_id": "s0490",
+    "affiliate_id": "aff_006",
+    "first_deposit_usd": 69.91,
+    "total_deposits_usd": 116.9,
+    "total_withdrawals_usd": 40.26,
+    "trades_count": 40,
+    "first_30d_active_days": 19
+  },
+  {
+    "signup_id": "s0491",
+    "affiliate_id": "aff_006",
+    "first_deposit_usd": 123.2,
+    "total_deposits_usd": 169.88,
+    "total_withdrawals_usd": 21.59,
+    "trades_count": 29,
+    "first_30d_active_days": 18
+  },
+  {
+    "signup_id": "s0492",
+    "affiliate_id": "aff_006",
+    "first_deposit_usd": 78.76,
+    "total_deposits_usd": 95.22,
+    "total_withdrawals_usd": 11.74,
+    "trades_count": 38,
+    "first_30d_active_days": 17
+  },
+  {
+    "signup_id": "s0493",
+    "affiliate_id": "aff_006",
+    "first_deposit_usd": 194.51,
+    "total_deposits_usd": 374.84,
+    "total_withdrawals_usd": 129.59,
+    "trades_count": 33,
+    "first_30d_active_days": 17
+  },
+  {
+    "signup_id": "s0494",
+    "affiliate_id": "aff_006",
+    "first_deposit_usd": 294.19,
+    "total_deposits_usd": 294.66,
+    "total_withdrawals_usd": 32.29,
+    "trades_count": 9,
+    "first_30d_active_days": 7
+  },
+  {
+    "signup_id": "s0495",
+    "affiliate_id": "aff_006",
+    "first_deposit_usd": 98.86,
+    "total_deposits_usd": 176.97,
+    "total_withdrawals_usd": 39.48,
+    "trades_count": 34,
+    "first_30d_active_days": 18
+  },
+  {
+    "signup_id": "s0496",
+    "affiliate_id": "aff_006",
+    "first_deposit_usd": 114.62,
+    "total_deposits_usd": 191.7,
+    "total_withdrawals_usd": 89.42,
+    "trades_count": 4,
+    "first_30d_active_days": 5
+  },
+  {
+    "signup_id": "s0497",
+    "affiliate_id": "aff_006",
+    "first_deposit_usd": 279.78,
+    "total_deposits_usd": 295.46,
+    "total_withdrawals_usd": 91.13,
+    "trades_count": 38,
+    "first_30d_active_days": 11
+  },
+  {
+    "signup_id": "s0498",
+    "affiliate_id": "aff_006",
+    "first_deposit_usd": 28.73,
+    "total_deposits_usd": 56.99,
+    "total_withdrawals_usd": 19.98,
+    "trades_count": 12,
+    "first_30d_active_days": 19
+  },
+  {
+    "signup_id": "s0499",
+    "affiliate_id": "aff_006",
+    "first_deposit_usd": 218.76,
+    "total_deposits_usd": 278.15,
+    "total_withdrawals_usd": 37.47,
+    "trades_count": 17,
+    "first_30d_active_days": 12
+  },
+  {
+    "signup_id": "s0500",
+    "affiliate_id": "aff_006",
+    "first_deposit_usd": 45.93,
+    "total_deposits_usd": 69.17,
+    "total_withdrawals_usd": 29.02,
+    "trades_count": 34,
+    "first_30d_active_days": 5
+  },
+  {
+    "signup_id": "s0501",
+    "affiliate_id": "aff_006",
+    "first_deposit_usd": 250.2,
+    "total_deposits_usd": 484.89,
+    "total_withdrawals_usd": 179.74,
+    "trades_count": 10,
+    "first_30d_active_days": 7
+  },
+  {
+    "signup_id": "s0502",
+    "affiliate_id": "aff_006",
+    "first_deposit_usd": 186.4,
+    "total_deposits_usd": 202.63,
+    "total_withdrawals_usd": 58.1,
+    "trades_count": 4,
+    "first_30d_active_days": 4
+  },
+  {
+    "signup_id": "s0503",
+    "affiliate_id": "aff_006",
+    "first_deposit_usd": 0.0,
+    "total_deposits_usd": 0.0,
+    "total_withdrawals_usd": 0.0,
+    "trades_count": 0,
+    "first_30d_active_days": 0
+  },
+  {
+    "signup_id": "s0504",
+    "affiliate_id": "aff_006",
+    "first_deposit_usd": 0.0,
+    "total_deposits_usd": 0.0,
+    "total_withdrawals_usd": 0.0,
+    "trades_count": 0,
+    "first_30d_active_days": 0
+  },
+  {
+    "signup_id": "s0505",
+    "affiliate_id": "aff_006",
+    "first_deposit_usd": 59.64,
+    "total_deposits_usd": 101.64,
+    "total_withdrawals_usd": 21.68,
+    "trades_count": 17,
+    "first_30d_active_days": 6
+  },
+  {
+    "signup_id": "s0506",
+    "affiliate_id": "aff_006",
+    "first_deposit_usd": 209.14,
+    "total_deposits_usd": 231.29,
+    "total_withdrawals_usd": 28.11,
+    "trades_count": 29,
+    "first_30d_active_days": 13
+  },
+  {
+    "signup_id": "s0507",
+    "affiliate_id": "aff_006",
+    "first_deposit_usd": 248.88,
+    "total_deposits_usd": 426.31,
+    "total_withdrawals_usd": 157.03,
+    "trades_count": 36,
+    "first_30d_active_days": 3
+  },
+  {
+    "signup_id": "s0508",
+    "affiliate_id": "aff_006",
+    "first_deposit_usd": 218.86,
+    "total_deposits_usd": 320.72,
+    "total_withdrawals_usd": 61.8,
+    "trades_count": 16,
+    "first_30d_active_days": 5
+  },
+  {
+    "signup_id": "s0509",
+    "affiliate_id": "aff_006",
+    "first_deposit_usd": 112.49,
+    "total_deposits_usd": 209.32,
+    "total_withdrawals_usd": 48.12,
+    "trades_count": 33,
+    "first_30d_active_days": 1
+  },
+  {
+    "signup_id": "s0510",
+    "affiliate_id": "aff_006",
+    "first_deposit_usd": 180.91,
+    "total_deposits_usd": 272.8,
+    "total_withdrawals_usd": 71.55,
+    "trades_count": 8,
+    "first_30d_active_days": 11
+  },
+  {
+    "signup_id": "s0511",
+    "affiliate_id": "aff_006",
+    "first_deposit_usd": 88.23,
+    "total_deposits_usd": 102.26,
+    "total_withdrawals_usd": 29.96,
+    "trades_count": 6,
+    "first_30d_active_days": 11
+  },
+  {
+    "signup_id": "s0512",
+    "affiliate_id": "aff_006",
+    "first_deposit_usd": 205.53,
+    "total_deposits_usd": 221.54,
+    "total_withdrawals_usd": 104.64,
+    "trades_count": 38,
+    "first_30d_active_days": 16
+  },
+  {
+    "signup_id": "s0513",
+    "affiliate_id": "aff_006",
+    "first_deposit_usd": 39.49,
+    "total_deposits_usd": 43.78,
+    "total_withdrawals_usd": 18.64,
+    "trades_count": 26,
+    "first_30d_active_days": 11
+  },
+  {
+    "signup_id": "s0514",
+    "affiliate_id": "aff_006",
+    "first_deposit_usd": 198.12,
+    "total_deposits_usd": 198.15,
+    "total_withdrawals_usd": 31.45,
+    "trades_count": 11,
+    "first_30d_active_days": 15
+  },
+  {
+    "signup_id": "s0515",
+    "affiliate_id": "aff_006",
+    "first_deposit_usd": 275.7,
+    "total_deposits_usd": 359.66,
+    "total_withdrawals_usd": 171.68,
+    "trades_count": 29,
+    "first_30d_active_days": 12
+  },
+  {
+    "signup_id": "s0516",
+    "affiliate_id": "aff_006",
+    "first_deposit_usd": 173.69,
+    "total_deposits_usd": 182.92,
+    "total_withdrawals_usd": 69.75,
+    "trades_count": 24,
+    "first_30d_active_days": 4
+  }
+]

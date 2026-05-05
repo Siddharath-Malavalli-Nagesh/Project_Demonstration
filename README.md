@@ -3,7 +3,10 @@
 
 Here is a list of TODOs for project completion. 
 
-- [x]  
-- [x]  
-- [x]  
-- [x]  
+- [ ]  
+- [ ]  
+- [ ]  
+- [ ]  
+
+
+

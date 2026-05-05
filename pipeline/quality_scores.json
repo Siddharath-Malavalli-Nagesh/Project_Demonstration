@@ -1,0 +1,169 @@
+[
+  {
+    "affiliate_id": "aff_001",
+    "quality_score": 10,
+    "risk_level": "critical",
+    "formula_version": "v1.0",
+    "component_scores": {
+      "classification_penalty": -40,
+      "device_reuse_penalty": -15,
+      "velocity_penalty": -15,
+      "ip_concentration_penalty": -10,
+      "disposable_email_penalty": -10,
+      "dormant_penalty": -5,
+      "active_days_bonus": 0,
+      "trades_bonus": 0,
+      "deposit_retention_bonus": 5,
+      "deposit_size_bonus": 0
+    },
+    "positive_factors": [
+      "deposit_retention_bonus"
+    ],
+    "negative_factors": [
+      "classification_penalty",
+      "device_reuse_penalty",
+      "velocity_penalty",
+      "ip_concentration_penalty",
+      "disposable_email_penalty",
+      "dormant_penalty"
+    ]
+  },
+  {
+    "affiliate_id": "aff_002",
+    "quality_score": 100,
+    "risk_level": "low",
+    "formula_version": "v1.0",
+    "component_scores": {
+      "classification_penalty": 0,
+      "device_reuse_penalty": 0,
+      "velocity_penalty": 0,
+      "ip_concentration_penalty": -10,
+      "disposable_email_penalty": 0,
+      "dormant_penalty": 0,
+      "active_days_bonus": 10,
+      "trades_bonus": 10,
+      "deposit_retention_bonus": 10,
+      "deposit_size_bonus": 5
+    },
+    "positive_factors": [
+      "active_days_bonus",
+      "trades_bonus",
+      "deposit_retention_bonus",
+      "deposit_size_bonus"
+    ],
+    "negative_factors": [
+      "ip_concentration_penalty"
+    ]
+  },
+  {
+    "affiliate_id": "aff_003",
+    "quality_score": 60,
+    "risk_level": "medium",
+    "formula_version": "v1.0",
+    "component_scores": {
+      "classification_penalty": -35,
+      "device_reuse_penalty": 0,
+      "velocity_penalty": 0,
+      "ip_concentration_penalty": -10,
+      "disposable_email_penalty": -5,
+      "dormant_penalty": 0,
+      "active_days_bonus": 0,
+      "trades_bonus": 0,
+      "deposit_retention_bonus": 10,
+      "deposit_size_bonus": 0
+    },
+    "positive_factors": [
+      "deposit_retention_bonus"
+    ],
+    "negative_factors": [
+      "classification_penalty",
+      "ip_concentration_penalty",
+      "disposable_email_penalty"
+    ]
+  },
+  {
+    "affiliate_id": "aff_004",
+    "quality_score": 90,
+    "risk_level": "low",
+    "formula_version": "v1.0",
+    "component_scores": {
+      "classification_penalty": -15,
+      "device_reuse_penalty": 0,
+      "velocity_penalty": 0,
+      "ip_concentration_penalty": -10,
+      "disposable_email_penalty": -5,
+      "dormant_penalty": 0,
+      "active_days_bonus": 5,
+      "trades_bonus": 5,
+      "deposit_retention_bonus": 10,
+      "deposit_size_bonus": 0
+    },
+    "positive_factors": [
+      "active_days_bonus",
+      "trades_bonus",
+      "deposit_retention_bonus"
+    ],
+    "negative_factors": [
+      "classification_penalty",
+      "ip_concentration_penalty",
+      "disposable_email_penalty"
+    ]
+  },
+  {
+    "affiliate_id": "aff_005",
+    "quality_score": 100,
+    "risk_level": "low",
+    "formula_version": "v1.0",
+    "component_scores": {
+      "classification_penalty": -5,
+      "device_reuse_penalty": 0,
+      "velocity_penalty": 0,
+      "ip_concentration_penalty": -10,
+      "disposable_email_penalty": 0,
+      "dormant_penalty": 0,
+      "active_days_bonus": 5,
+      "trades_bonus": 5,
+      "deposit_retention_bonus": 10,
+      "deposit_size_bonus": 5
+    },
+    "positive_factors": [
+      "active_days_bonus",
+      "trades_bonus",
+      "deposit_retention_bonus",
+      "deposit_size_bonus"
+    ],
+    "negative_factors": [
+      "classification_penalty",
+      "ip_concentration_penalty"
+    ]
+  },
+  {
+    "affiliate_id": "aff_006",
+    "quality_score": 93,
+    "risk_level": "low",
+    "formula_version": "v1.0",
+    "component_scores": {
+      "classification_penalty": -5,
+      "device_reuse_penalty": -7,
+      "velocity_penalty": 0,
+      "ip_concentration_penalty": -10,
+      "disposable_email_penalty": -5,
+      "dormant_penalty": 0,
+      "active_days_bonus": 5,
+      "trades_bonus": 5,
+      "deposit_retention_bonus": 10,
+      "deposit_size_bonus": 0
+    },
+    "positive_factors": [
+      "active_days_bonus",
+      "trades_bonus",
+      "deposit_retention_bonus"
+    ],
+    "negative_factors": [
+      "classification_penalty",
+      "device_reuse_penalty",
+      "ip_concentration_penalty",
+      "disposable_email_penalty"
+    ]
+  }
+]
